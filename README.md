@@ -6,7 +6,7 @@ This project seeks to analyze the travel time differences between driving and bi
 ## Datasets
 - **Brooklyn Zip Codes & Neighborhoods.csv** - This dataset contains ZIP codes from Brooklyn along with their associated neighborhood names. The list was generated using OpenAI's Chat GPT, and it serves as the foundation for our travel time analysis.
 
-- **Brooklyn_Bike_Drive.csv** - The final output dataset, containing travel times (both driving and biking) between various Brooklyn neighborhoods.
+- **Brooklyn_Bike_Drive_Trips.csv** - The final output dataset, containing travel times (both driving and biking) between various Brooklyn neighborhoods.
 
 ## How to Use
 
