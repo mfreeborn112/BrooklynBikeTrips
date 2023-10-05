@@ -1,0 +1,2521 @@
+Origin ZIP,Origin Neighborhood,Destination ZIP,Destination Neighborhood,Mode,Distance (mi),Duration (min)
+11201,"Brooklyn Heights, DUMBO",11203,"East Flatbush, Erasmus",driving,5.2,29
+11201,"Brooklyn Heights, DUMBO",11203,"East Flatbush, Erasmus",bicycling,5.7,35
+11201,"Brooklyn Heights, DUMBO",11204,"Bensonhurst, Mapleton",driving,8.6,27
+11201,"Brooklyn Heights, DUMBO",11204,"Bensonhurst, Mapleton",bicycling,7.5,43
+11201,"Brooklyn Heights, DUMBO",11205,"Fort Greene, Clinton Hill",driving,2.3,10
+11201,"Brooklyn Heights, DUMBO",11205,"Fort Greene, Clinton Hill",bicycling,2.2,14
+11201,"Brooklyn Heights, DUMBO",11206,"Williamsburg, Bushwick",driving,4.1,15
+11201,"Brooklyn Heights, DUMBO",11206,"Williamsburg, Bushwick",bicycling,3.0,19
+11201,"Brooklyn Heights, DUMBO",11207,"East New York, Cypress Hills",driving,6.3,33
+11201,"Brooklyn Heights, DUMBO",11207,"East New York, Cypress Hills",bicycling,7.1,41
+11201,"Brooklyn Heights, DUMBO",11208,"Cypress Hills, East New York",driving,7.1,37
+11201,"Brooklyn Heights, DUMBO",11208,"Cypress Hills, East New York",bicycling,7.8,45
+11201,"Brooklyn Heights, DUMBO",11209,Bay Ridge,driving,8.4,22
+11201,"Brooklyn Heights, DUMBO",11209,Bay Ridge,bicycling,7.1,40
+11201,"Brooklyn Heights, DUMBO",11210,"Flatbush, Midwood",driving,5.9,32
+11201,"Brooklyn Heights, DUMBO",11210,"Flatbush, Midwood",bicycling,6.6,39
+11201,"Brooklyn Heights, DUMBO",11211,Williamsburg,driving,2.6,6
+11201,"Brooklyn Heights, DUMBO",11211,Williamsburg,bicycling,2.9,18
+11201,"Brooklyn Heights, DUMBO",11212,Brownsville,driving,5.2,29
+11201,"Brooklyn Heights, DUMBO",11212,Brownsville,bicycling,5.7,35
+11201,"Brooklyn Heights, DUMBO",11213,Crown Heights,driving,3.6,19
+11201,"Brooklyn Heights, DUMBO",11213,Crown Heights,bicycling,4.0,25
+11201,"Brooklyn Heights, DUMBO",11214,"Bensonhurst, Bath Beach",driving,9.4,28
+11201,"Brooklyn Heights, DUMBO",11214,"Bensonhurst, Bath Beach",bicycling,8.7,50
+11201,"Brooklyn Heights, DUMBO",11215,"Park Slope, Gowanus",driving,2.5,16
+11201,"Brooklyn Heights, DUMBO",11215,"Park Slope, Gowanus",bicycling,2.9,20
+11201,"Brooklyn Heights, DUMBO",11216,"Bedford-Stuyvesant, Crown Heights",driving,3.0,19
+11201,"Brooklyn Heights, DUMBO",11216,"Bedford-Stuyvesant, Crown Heights",bicycling,3.4,23
+11201,"Brooklyn Heights, DUMBO",11217,"Park Slope, Boerum Hill",driving,1.4,9
+11201,"Brooklyn Heights, DUMBO",11217,"Park Slope, Boerum Hill",bicycling,1.7,11
+11201,"Brooklyn Heights, DUMBO",11218,"Windsor Terrace, Kensington",driving,5.4,16
+11201,"Brooklyn Heights, DUMBO",11218,"Windsor Terrace, Kensington",bicycling,5.0,29
+11201,"Brooklyn Heights, DUMBO",11219,Borough Park,driving,8.3,26
+11201,"Brooklyn Heights, DUMBO",11219,Borough Park,bicycling,6.4,37
+11201,"Brooklyn Heights, DUMBO",11220,"Sunset Park, Greenwood",driving,6.8,19
+11201,"Brooklyn Heights, DUMBO",11220,"Sunset Park, Greenwood",bicycling,5.3,31
+11201,"Brooklyn Heights, DUMBO",11221,"Bedford-Stuyvesant, Bushwick",driving,4.2,22
+11201,"Brooklyn Heights, DUMBO",11221,"Bedford-Stuyvesant, Bushwick",bicycling,4.1,25
+11201,"Brooklyn Heights, DUMBO",11222,Greenpoint,driving,4.5,13
+11201,"Brooklyn Heights, DUMBO",11222,Greenpoint,bicycling,4.3,25
+11201,"Brooklyn Heights, DUMBO",11223,"Gravesend, Homecrest",driving,9.6,32
+11201,"Brooklyn Heights, DUMBO",11223,"Gravesend, Homecrest",bicycling,9.0,52
+11201,"Brooklyn Heights, DUMBO",11224,Coney Island,driving,13.1,28
+11201,"Brooklyn Heights, DUMBO",11224,Coney Island,bicycling,10.9,64
+11201,"Brooklyn Heights, DUMBO",11225,"Prospect Lefferts Gardens, Wingate",driving,3.1,20
+11201,"Brooklyn Heights, DUMBO",11225,"Prospect Lefferts Gardens, Wingate",bicycling,3.7,24
+11201,"Brooklyn Heights, DUMBO",11226,Flatbush,driving,4.3,25
+11201,"Brooklyn Heights, DUMBO",11226,Flatbush,bicycling,5.0,31
+11201,"Brooklyn Heights, DUMBO",11228,Dyker Heights,driving,8.3,21
+11201,"Brooklyn Heights, DUMBO",11228,Dyker Heights,bicycling,8.0,46
+11201,"Brooklyn Heights, DUMBO",11229,"Sheepshead Bay, Madison",driving,15.8,34
+11201,"Brooklyn Heights, DUMBO",11229,"Sheepshead Bay, Madison",bicycling,8.5,49
+11201,"Brooklyn Heights, DUMBO",11230,Midwood,driving,8.0,25
+11201,"Brooklyn Heights, DUMBO",11230,Midwood,bicycling,7.4,43
+11201,"Brooklyn Heights, DUMBO",11231,"Carroll Gardens, Red Hook",driving,3.8,15
+11201,"Brooklyn Heights, DUMBO",11231,"Carroll Gardens, Red Hook",bicycling,2.6,16
+11201,"Brooklyn Heights, DUMBO",11232,"Sunset Park, Industry City",driving,4.8,17
+11201,"Brooklyn Heights, DUMBO",11232,"Sunset Park, Industry City",bicycling,4.2,25
+11201,"Brooklyn Heights, DUMBO",11233,"Bedford-Stuyvesant, Ocean Hill",driving,4.4,25
+11201,"Brooklyn Heights, DUMBO",11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,4.9,31
+11201,"Brooklyn Heights, DUMBO",11234,"Marine Park, Mill Basin",driving,22.7,36
+11201,"Brooklyn Heights, DUMBO",11234,"Marine Park, Mill Basin",bicycling,12.2,68
+11201,"Brooklyn Heights, DUMBO",11235,"Brighton Beach, Manhattan Beach",driving,15.8,30
+11201,"Brooklyn Heights, DUMBO",11235,"Brighton Beach, Manhattan Beach",bicycling,9.4,55
+11201,"Brooklyn Heights, DUMBO",11236,"Canarsie, Bergen Beach",driving,20.8,36
+11201,"Brooklyn Heights, DUMBO",11236,"Canarsie, Bergen Beach",bicycling,8.1,48
+11201,"Brooklyn Heights, DUMBO",11238,"Prospect Heights, Clinton Hill",driving,2.0,12
+11201,"Brooklyn Heights, DUMBO",11238,"Prospect Heights, Clinton Hill",bicycling,2.5,17
+11201,"Brooklyn Heights, DUMBO",11239,Starrett City,driving,22.4,37
+11201,"Brooklyn Heights, DUMBO",11239,Starrett City,bicycling,8.8,51
+11203,"East Flatbush, Erasmus",11201,"Brooklyn Heights, DUMBO",driving,8.4,38
+11203,"East Flatbush, Erasmus",11201,"Brooklyn Heights, DUMBO",bicycling,5.7,35
+11203,"East Flatbush, Erasmus",11204,"Bensonhurst, Mapleton",driving,4.7,27
+11203,"East Flatbush, Erasmus",11204,"Bensonhurst, Mapleton",bicycling,4.3,26
+11203,"East Flatbush, Erasmus",11205,"Fort Greene, Clinton Hill",driving,4.3,22
+11203,"East Flatbush, Erasmus",11205,"Fort Greene, Clinton Hill",bicycling,4.0,24
+11203,"East Flatbush, Erasmus",11206,"Williamsburg, Bushwick",driving,4.3,26
+11203,"East Flatbush, Erasmus",11206,"Williamsburg, Bushwick",bicycling,4.4,27
+11203,"East Flatbush, Erasmus",11207,"East New York, Cypress Hills",driving,3.0,18
+11203,"East Flatbush, Erasmus",11207,"East New York, Cypress Hills",bicycling,2.7,15
+11203,"East Flatbush, Erasmus",11208,"Cypress Hills, East New York",driving,4.4,25
+11203,"East Flatbush, Erasmus",11208,"Cypress Hills, East New York",bicycling,4.3,24
+11203,"East Flatbush, Erasmus",11209,Bay Ridge,driving,8.8,34
+11203,"East Flatbush, Erasmus",11209,Bay Ridge,bicycling,7.4,45
+11203,"East Flatbush, Erasmus",11210,"Flatbush, Midwood",driving,2.3,12
+11203,"East Flatbush, Erasmus",11210,"Flatbush, Midwood",bicycling,2.3,14
+11203,"East Flatbush, Erasmus",11211,Williamsburg,driving,5.7,28
+11203,"East Flatbush, Erasmus",11211,Williamsburg,bicycling,5.0,31
+11203,"East Flatbush, Erasmus",11212,Brownsville,driving,1.7,12
+11203,"East Flatbush, Erasmus",11212,Brownsville,bicycling,1.8,10
+11203,"East Flatbush, Erasmus",11213,Crown Heights,driving,2.5,13
+11203,"East Flatbush, Erasmus",11213,Crown Heights,bicycling,2.2,13
+11203,"East Flatbush, Erasmus",11214,"Bensonhurst, Bath Beach",driving,5.7,34
+11203,"East Flatbush, Erasmus",11214,"Bensonhurst, Bath Beach",bicycling,5.5,32
+11203,"East Flatbush, Erasmus",11215,"Park Slope, Gowanus",driving,4.3,25
+11203,"East Flatbush, Erasmus",11215,"Park Slope, Gowanus",bicycling,4.3,25
+11203,"East Flatbush, Erasmus",11216,"Bedford-Stuyvesant, Crown Heights",driving,3.2,18
+11203,"East Flatbush, Erasmus",11216,"Bedford-Stuyvesant, Crown Heights",bicycling,3.0,18
+11203,"East Flatbush, Erasmus",11217,"Park Slope, Boerum Hill",driving,4.5,24
+11203,"East Flatbush, Erasmus",11217,"Park Slope, Boerum Hill",bicycling,4.3,26
+11203,"East Flatbush, Erasmus",11218,"Windsor Terrace, Kensington",driving,2.9,20
+11203,"East Flatbush, Erasmus",11218,"Windsor Terrace, Kensington",bicycling,3.1,19
+11203,"East Flatbush, Erasmus",11219,Borough Park,driving,4.6,30
+11203,"East Flatbush, Erasmus",11219,Borough Park,bicycling,4.7,28
+11203,"East Flatbush, Erasmus",11220,"Sunset Park, Greenwood",driving,7.3,30
+11203,"East Flatbush, Erasmus",11220,"Sunset Park, Greenwood",bicycling,6.5,39
+11203,"East Flatbush, Erasmus",11221,"Bedford-Stuyvesant, Bushwick",driving,3.3,23
+11203,"East Flatbush, Erasmus",11221,"Bedford-Stuyvesant, Bushwick",bicycling,3.9,24
+11203,"East Flatbush, Erasmus",11222,Greenpoint,driving,7.6,35
+11203,"East Flatbush, Erasmus",11222,Greenpoint,bicycling,6.1,36
+11203,"East Flatbush, Erasmus",11223,"Gravesend, Homecrest",driving,5.7,31
+11203,"East Flatbush, Erasmus",11223,"Gravesend, Homecrest",bicycling,6.0,36
+11203,"East Flatbush, Erasmus",11224,Coney Island,driving,10.0,31
+11203,"East Flatbush, Erasmus",11224,Coney Island,bicycling,7.9,48
+11203,"East Flatbush, Erasmus",11225,"Prospect Lefferts Gardens, Wingate",driving,2.2,13
+11203,"East Flatbush, Erasmus",11225,"Prospect Lefferts Gardens, Wingate",bicycling,2.2,14
+11203,"East Flatbush, Erasmus",11226,Flatbush,driving,1.4,8
+11203,"East Flatbush, Erasmus",11226,Flatbush,bicycling,1.4,8
+11203,"East Flatbush, Erasmus",11228,Dyker Heights,driving,8.8,32
+11203,"East Flatbush, Erasmus",11228,Dyker Heights,bicycling,6.9,40
+11203,"East Flatbush, Erasmus",11229,"Sheepshead Bay, Madison",driving,4.3,21
+11203,"East Flatbush, Erasmus",11229,"Sheepshead Bay, Madison",bicycling,5.0,30
+11203,"East Flatbush, Erasmus",11230,Midwood,driving,4.1,23
+11203,"East Flatbush, Erasmus",11230,Midwood,bicycling,4.1,25
+11203,"East Flatbush, Erasmus",11231,"Carroll Gardens, Red Hook",driving,5.7,28
+11203,"East Flatbush, Erasmus",11231,"Carroll Gardens, Red Hook",bicycling,6.0,35
+11203,"East Flatbush, Erasmus",11232,"Sunset Park, Industry City",driving,5.6,26
+11203,"East Flatbush, Erasmus",11232,"Sunset Park, Industry City",bicycling,5.8,35
+11203,"East Flatbush, Erasmus",11233,"Bedford-Stuyvesant, Ocean Hill",driving,2.4,18
+11203,"East Flatbush, Erasmus",11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,2.5,17
+11203,"East Flatbush, Erasmus",11234,"Marine Park, Mill Basin",driving,6.4,23
+11203,"East Flatbush, Erasmus",11234,"Marine Park, Mill Basin",bicycling,6.6,33
+11203,"East Flatbush, Erasmus",11235,"Brighton Beach, Manhattan Beach",driving,5.3,25
+11203,"East Flatbush, Erasmus",11235,"Brighton Beach, Manhattan Beach",bicycling,5.9,36
+11203,"East Flatbush, Erasmus",11236,"Canarsie, Bergen Beach",driving,2.9,18
+11203,"East Flatbush, Erasmus",11236,"Canarsie, Bergen Beach",bicycling,2.9,17
+11203,"East Flatbush, Erasmus",11238,"Prospect Heights, Clinton Hill",driving,3.8,20
+11203,"East Flatbush, Erasmus",11238,"Prospect Heights, Clinton Hill",bicycling,3.6,21
+11203,"East Flatbush, Erasmus",11239,Starrett City,driving,3.9,21
+11203,"East Flatbush, Erasmus",11239,Starrett City,bicycling,4.1,22
+11204,"Bensonhurst, Mapleton",11201,"Brooklyn Heights, DUMBO",driving,11.1,33
+11204,"Bensonhurst, Mapleton",11201,"Brooklyn Heights, DUMBO",bicycling,7.3,43
+11204,"Bensonhurst, Mapleton",11203,"East Flatbush, Erasmus",driving,4.3,28
+11204,"Bensonhurst, Mapleton",11203,"East Flatbush, Erasmus",bicycling,4.3,26
+11204,"Bensonhurst, Mapleton",11205,"Fort Greene, Clinton Hill",driving,7.8,35
+11204,"Bensonhurst, Mapleton",11205,"Fort Greene, Clinton Hill",bicycling,6.9,40
+11204,"Bensonhurst, Mapleton",11206,"Williamsburg, Bushwick",driving,11.5,41
+11204,"Bensonhurst, Mapleton",11206,"Williamsburg, Bushwick",bicycling,8.3,49
+11204,"Bensonhurst, Mapleton",11207,"East New York, Cypress Hills",driving,12.7,36
+11204,"Bensonhurst, Mapleton",11207,"East New York, Cypress Hills",bicycling,6.8,40
+11204,"Bensonhurst, Mapleton",11208,"Cypress Hills, East New York",driving,13.7,36
+11204,"Bensonhurst, Mapleton",11208,"Cypress Hills, East New York",bicycling,9.0,50
+11204,"Bensonhurst, Mapleton",11209,Bay Ridge,driving,3.7,21
+11204,"Bensonhurst, Mapleton",11209,Bay Ridge,bicycling,3.5,22
+11204,"Bensonhurst, Mapleton",11210,"Flatbush, Midwood",driving,2.8,18
+11204,"Bensonhurst, Mapleton",11210,"Flatbush, Midwood",bicycling,2.7,17
+11204,"Bensonhurst, Mapleton",11211,Williamsburg,driving,10.0,32
+11204,"Bensonhurst, Mapleton",11211,Williamsburg,bicycling,8.0,48
+11204,"Bensonhurst, Mapleton",11212,Brownsville,driving,6.4,34
+11204,"Bensonhurst, Mapleton",11212,Brownsville,bicycling,6.7,39
+11204,"Bensonhurst, Mapleton",11213,Crown Heights,driving,7.1,32
+11204,"Bensonhurst, Mapleton",11213,Crown Heights,bicycling,5.9,36
+11204,"Bensonhurst, Mapleton",11214,"Bensonhurst, Bath Beach",driving,1.3,10
+11204,"Bensonhurst, Mapleton",11214,"Bensonhurst, Bath Beach",bicycling,1.3,7
+11204,"Bensonhurst, Mapleton",11215,"Park Slope, Gowanus",driving,4.7,20
+11204,"Bensonhurst, Mapleton",11215,"Park Slope, Gowanus",bicycling,4.4,26
+11204,"Bensonhurst, Mapleton",11216,"Bedford-Stuyvesant, Crown Heights",driving,7.4,34
+11204,"Bensonhurst, Mapleton",11216,"Bedford-Stuyvesant, Crown Heights",bicycling,5.8,36
+11204,"Bensonhurst, Mapleton",11217,"Park Slope, Boerum Hill",driving,5.8,26
+11204,"Bensonhurst, Mapleton",11217,"Park Slope, Boerum Hill",bicycling,5.8,33
+11204,"Bensonhurst, Mapleton",11218,"Windsor Terrace, Kensington",driving,2.4,15
+11204,"Bensonhurst, Mapleton",11218,"Windsor Terrace, Kensington",bicycling,2.4,14
+11204,"Bensonhurst, Mapleton",11219,Borough Park,driving,1.4,9
+11204,"Bensonhurst, Mapleton",11219,Borough Park,bicycling,1.2,9
+11204,"Bensonhurst, Mapleton",11220,"Sunset Park, Greenwood",driving,2.4,15
+11204,"Bensonhurst, Mapleton",11220,"Sunset Park, Greenwood",bicycling,2.1,15
+11204,"Bensonhurst, Mapleton",11221,"Bedford-Stuyvesant, Bushwick",driving,9.3,44
+11204,"Bensonhurst, Mapleton",11221,"Bedford-Stuyvesant, Bushwick",bicycling,7.9,47
+11204,"Bensonhurst, Mapleton",11222,Greenpoint,driving,11.9,39
+11204,"Bensonhurst, Mapleton",11222,Greenpoint,bicycling,9.6,56
+11204,"Bensonhurst, Mapleton",11223,"Gravesend, Homecrest",driving,1.8,11
+11204,"Bensonhurst, Mapleton",11223,"Gravesend, Homecrest",bicycling,1.6,10
+11204,"Bensonhurst, Mapleton",11224,Coney Island,driving,3.7,21
+11204,"Bensonhurst, Mapleton",11224,Coney Island,bicycling,4.7,29
+11204,"Bensonhurst, Mapleton",11225,"Prospect Lefferts Gardens, Wingate",driving,4.8,27
+11204,"Bensonhurst, Mapleton",11225,"Prospect Lefferts Gardens, Wingate",bicycling,4.4,26
+11204,"Bensonhurst, Mapleton",11226,Flatbush,driving,3.1,21
+11204,"Bensonhurst, Mapleton",11226,Flatbush,bicycling,3.0,19
+11204,"Bensonhurst, Mapleton",11228,Dyker Heights,driving,2.4,13
+11204,"Bensonhurst, Mapleton",11228,Dyker Heights,bicycling,3.1,19
+11204,"Bensonhurst, Mapleton",11229,"Sheepshead Bay, Madison",driving,3.6,19
+11204,"Bensonhurst, Mapleton",11229,"Sheepshead Bay, Madison",bicycling,3.5,21
+11204,"Bensonhurst, Mapleton",11230,Midwood,driving,1.4,9
+11204,"Bensonhurst, Mapleton",11230,Midwood,bicycling,1.4,9
+11204,"Bensonhurst, Mapleton",11231,"Carroll Gardens, Red Hook",driving,6.1,23
+11204,"Bensonhurst, Mapleton",11231,"Carroll Gardens, Red Hook",bicycling,6.1,35
+11204,"Bensonhurst, Mapleton",11232,"Sunset Park, Industry City",driving,4.2,21
+11204,"Bensonhurst, Mapleton",11232,"Sunset Park, Industry City",bicycling,3.4,22
+11204,"Bensonhurst, Mapleton",11233,"Bedford-Stuyvesant, Ocean Hill",driving,7.3,41
+11204,"Bensonhurst, Mapleton",11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,7.4,43
+11204,"Bensonhurst, Mapleton",11234,"Marine Park, Mill Basin",driving,12.5,28
+11204,"Bensonhurst, Mapleton",11234,"Marine Park, Mill Basin",bicycling,7.4,41
+11204,"Bensonhurst, Mapleton",11235,"Brighton Beach, Manhattan Beach",driving,4.9,23
+11204,"Bensonhurst, Mapleton",11235,"Brighton Beach, Manhattan Beach",bicycling,4.6,27
+11204,"Bensonhurst, Mapleton",11236,"Canarsie, Bergen Beach",driving,10.6,28
+11204,"Bensonhurst, Mapleton",11236,"Canarsie, Bergen Beach",bicycling,5.8,34
+11204,"Bensonhurst, Mapleton",11238,"Prospect Heights, Clinton Hill",driving,6.1,28
+11204,"Bensonhurst, Mapleton",11238,"Prospect Heights, Clinton Hill",bicycling,5.7,33
+11204,"Bensonhurst, Mapleton",11239,Starrett City,driving,12.2,29
+11204,"Bensonhurst, Mapleton",11239,Starrett City,bicycling,8.8,47
+11205,"Fort Greene, Clinton Hill",11201,"Brooklyn Heights, DUMBO",driving,4.8,19
+11205,"Fort Greene, Clinton Hill",11201,"Brooklyn Heights, DUMBO",bicycling,2.1,14
+11205,"Fort Greene, Clinton Hill",11203,"East Flatbush, Erasmus",driving,4.2,24
+11205,"Fort Greene, Clinton Hill",11203,"East Flatbush, Erasmus",bicycling,4.2,26
+11205,"Fort Greene, Clinton Hill",11204,"Bensonhurst, Mapleton",driving,9.9,34
+11205,"Fort Greene, Clinton Hill",11204,"Bensonhurst, Mapleton",bicycling,6.6,39
+11205,"Fort Greene, Clinton Hill",11206,"Williamsburg, Bushwick",driving,1.4,10
+11205,"Fort Greene, Clinton Hill",11206,"Williamsburg, Bushwick",bicycling,1.5,9
+11205,"Fort Greene, Clinton Hill",11207,"East New York, Cypress Hills",driving,5.1,26
+11205,"Fort Greene, Clinton Hill",11207,"East New York, Cypress Hills",bicycling,5.7,34
+11205,"Fort Greene, Clinton Hill",11208,"Cypress Hills, East New York",driving,5.8,30
+11205,"Fort Greene, Clinton Hill",11208,"Cypress Hills, East New York",bicycling,6.4,37
+11205,"Fort Greene, Clinton Hill",11209,Bay Ridge,driving,9.7,29
+11205,"Fort Greene, Clinton Hill",11209,Bay Ridge,bicycling,7.5,43
+11205,"Fort Greene, Clinton Hill",11210,"Flatbush, Midwood",driving,5.0,31
+11205,"Fort Greene, Clinton Hill",11210,"Flatbush, Midwood",bicycling,5.6,35
+11205,"Fort Greene, Clinton Hill",11211,Williamsburg,driving,1.5,7
+11205,"Fort Greene, Clinton Hill",11211,Williamsburg,bicycling,1.1,8
+11205,"Fort Greene, Clinton Hill",11212,Brownsville,driving,4.0,23
+11205,"Fort Greene, Clinton Hill",11212,Brownsville,bicycling,4.3,27
+11205,"Fort Greene, Clinton Hill",11213,Crown Heights,driving,2.3,13
+11205,"Fort Greene, Clinton Hill",11213,Crown Heights,bicycling,2.4,16
+11205,"Fort Greene, Clinton Hill",11214,"Bensonhurst, Bath Beach",driving,10.7,34
+11205,"Fort Greene, Clinton Hill",11214,"Bensonhurst, Bath Beach",bicycling,7.7,44
+11205,"Fort Greene, Clinton Hill",11215,"Park Slope, Gowanus",driving,3.1,20
+11205,"Fort Greene, Clinton Hill",11215,"Park Slope, Gowanus",bicycling,2.9,19
+11205,"Fort Greene, Clinton Hill",11216,"Bedford-Stuyvesant, Crown Heights",driving,1.6,9
+11205,"Fort Greene, Clinton Hill",11216,"Bedford-Stuyvesant, Crown Heights",bicycling,1.5,11
+11205,"Fort Greene, Clinton Hill",11217,"Park Slope, Boerum Hill",driving,2.3,15
+11205,"Fort Greene, Clinton Hill",11217,"Park Slope, Boerum Hill",bicycling,2.1,14
+11205,"Fort Greene, Clinton Hill",11218,"Windsor Terrace, Kensington",driving,6.7,23
+11205,"Fort Greene, Clinton Hill",11218,"Windsor Terrace, Kensington",bicycling,4.1,25
+11205,"Fort Greene, Clinton Hill",11219,Borough Park,driving,9.6,33
+11205,"Fort Greene, Clinton Hill",11219,Borough Park,bicycling,5.7,34
+11205,"Fort Greene, Clinton Hill",11220,"Sunset Park, Greenwood",driving,8.1,25
+11205,"Fort Greene, Clinton Hill",11220,"Sunset Park, Greenwood",bicycling,5.8,34
+11205,"Fort Greene, Clinton Hill",11221,"Bedford-Stuyvesant, Bushwick",driving,2.0,13
+11205,"Fort Greene, Clinton Hill",11221,"Bedford-Stuyvesant, Bushwick",bicycling,2.1,13
+11205,"Fort Greene, Clinton Hill",11222,Greenpoint,driving,3.4,14
+11205,"Fort Greene, Clinton Hill",11222,Greenpoint,bicycling,3.0,18
+11205,"Fort Greene, Clinton Hill",11223,"Gravesend, Homecrest",driving,10.9,39
+11205,"Fort Greene, Clinton Hill",11223,"Gravesend, Homecrest",bicycling,8.1,48
+11205,"Fort Greene, Clinton Hill",11224,Coney Island,driving,14.4,35
+11205,"Fort Greene, Clinton Hill",11224,Coney Island,bicycling,10.0,60
+11205,"Fort Greene, Clinton Hill",11225,"Prospect Lefferts Gardens, Wingate",driving,2.3,16
+11205,"Fort Greene, Clinton Hill",11225,"Prospect Lefferts Gardens, Wingate",bicycling,2.3,16
+11205,"Fort Greene, Clinton Hill",11226,Flatbush,driving,3.8,23
+11205,"Fort Greene, Clinton Hill",11226,Flatbush,bicycling,3.7,23
+11205,"Fort Greene, Clinton Hill",11228,Dyker Heights,driving,9.6,27
+11205,"Fort Greene, Clinton Hill",11228,Dyker Heights,bicycling,7.9,46
+11205,"Fort Greene, Clinton Hill",11229,"Sheepshead Bay, Madison",driving,7.1,40
+11205,"Fort Greene, Clinton Hill",11229,"Sheepshead Bay, Madison",bicycling,7.1,43
+11205,"Fort Greene, Clinton Hill",11230,Midwood,driving,9.3,32
+11205,"Fort Greene, Clinton Hill",11230,Midwood,bicycling,6.5,39
+11205,"Fort Greene, Clinton Hill",11231,"Carroll Gardens, Red Hook",driving,5.1,22
+11205,"Fort Greene, Clinton Hill",11231,"Carroll Gardens, Red Hook",bicycling,4.1,24
+11205,"Fort Greene, Clinton Hill",11232,"Sunset Park, Industry City",driving,6.1,24
+11205,"Fort Greene, Clinton Hill",11232,"Sunset Park, Industry City",bicycling,4.7,28
+11205,"Fort Greene, Clinton Hill",11233,"Bedford-Stuyvesant, Ocean Hill",driving,3.0,17
+11205,"Fort Greene, Clinton Hill",11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,2.9,18
+11205,"Fort Greene, Clinton Hill",11234,"Marine Park, Mill Basin",driving,10.3,39
+11205,"Fort Greene, Clinton Hill",11234,"Marine Park, Mill Basin",bicycling,10.8,60
+11205,"Fort Greene, Clinton Hill",11235,"Brighton Beach, Manhattan Beach",driving,17.1,37
+11205,"Fort Greene, Clinton Hill",11235,"Brighton Beach, Manhattan Beach",bicycling,8.1,49
+11205,"Fort Greene, Clinton Hill",11236,"Canarsie, Bergen Beach",driving,6.6,34
+11205,"Fort Greene, Clinton Hill",11236,"Canarsie, Bergen Beach",bicycling,6.7,40
+11205,"Fort Greene, Clinton Hill",11238,"Prospect Heights, Clinton Hill",driving,1.7,10
+11205,"Fort Greene, Clinton Hill",11238,"Prospect Heights, Clinton Hill",bicycling,1.5,11
+11205,"Fort Greene, Clinton Hill",11239,Starrett City,driving,6.8,35
+11205,"Fort Greene, Clinton Hill",11239,Starrett City,bicycling,7.5,44
+11206,"Williamsburg, Bushwick",11201,"Brooklyn Heights, DUMBO",driving,4.9,25
+11206,"Williamsburg, Bushwick",11201,"Brooklyn Heights, DUMBO",bicycling,3.0,20
+11206,"Williamsburg, Bushwick",11203,"East Flatbush, Erasmus",driving,4.3,25
+11206,"Williamsburg, Bushwick",11203,"East Flatbush, Erasmus",bicycling,4.7,30
+11206,"Williamsburg, Bushwick",11204,"Bensonhurst, Mapleton",driving,10.8,41
+11206,"Williamsburg, Bushwick",11204,"Bensonhurst, Mapleton",bicycling,8.7,50
+11206,"Williamsburg, Bushwick",11205,"Fort Greene, Clinton Hill",driving,1.5,11
+11206,"Williamsburg, Bushwick",11205,"Fort Greene, Clinton Hill",bicycling,1.5,10
+11206,"Williamsburg, Bushwick",11207,"East New York, Cypress Hills",driving,4.1,26
+11206,"Williamsburg, Bushwick",11207,"East New York, Cypress Hills",bicycling,5.1,30
+11206,"Williamsburg, Bushwick",11208,"Cypress Hills, East New York",driving,5.2,29
+11206,"Williamsburg, Bushwick",11208,"Cypress Hills, East New York",bicycling,5.8,34
+11206,"Williamsburg, Bushwick",11209,Bay Ridge,driving,10.6,36
+11206,"Williamsburg, Bushwick",11209,Bay Ridge,bicycling,9.1,53
+11206,"Williamsburg, Bushwick",11210,"Flatbush, Midwood",driving,5.8,34
+11206,"Williamsburg, Bushwick",11210,"Flatbush, Midwood",bicycling,6.4,40
+11206,"Williamsburg, Bushwick",11211,Williamsburg,driving,2.2,13
+11206,"Williamsburg, Bushwick",11211,Williamsburg,bicycling,1.2,7
+11206,"Williamsburg, Bushwick",11212,Brownsville,driving,4.0,23
+11206,"Williamsburg, Bushwick",11212,Brownsville,bicycling,4.0,26
+11206,"Williamsburg, Bushwick",11213,Crown Heights,driving,2.4,14
+11206,"Williamsburg, Bushwick",11213,Crown Heights,bicycling,2.9,20
+11206,"Williamsburg, Bushwick",11214,"Bensonhurst, Bath Beach",driving,11.6,41
+11206,"Williamsburg, Bushwick",11214,"Bensonhurst, Bath Beach",bicycling,9.7,55
+11206,"Williamsburg, Bushwick",11215,"Park Slope, Gowanus",driving,5.4,29
+11206,"Williamsburg, Bushwick",11215,"Park Slope, Gowanus",bicycling,4.5,29
+11206,"Williamsburg, Bushwick",11216,"Bedford-Stuyvesant, Crown Heights",driving,2.6,16
+11206,"Williamsburg, Bushwick",11216,"Bedford-Stuyvesant, Crown Heights",bicycling,2.5,18
+11206,"Williamsburg, Bushwick",11217,"Park Slope, Boerum Hill",driving,3.8,24
+11206,"Williamsburg, Bushwick",11217,"Park Slope, Boerum Hill",bicycling,3.6,23
+11206,"Williamsburg, Bushwick",11218,"Windsor Terrace, Kensington",driving,7.6,30
+11206,"Williamsburg, Bushwick",11218,"Windsor Terrace, Kensington",bicycling,6.2,36
+11206,"Williamsburg, Bushwick",11219,Borough Park,driving,10.5,40
+11206,"Williamsburg, Bushwick",11219,Borough Park,bicycling,7.8,45
+11206,"Williamsburg, Bushwick",11220,"Sunset Park, Greenwood",driving,9.0,32
+11206,"Williamsburg, Bushwick",11220,"Sunset Park, Greenwood",bicycling,7.3,43
+11206,"Williamsburg, Bushwick",11221,"Bedford-Stuyvesant, Bushwick",driving,1.6,11
+11206,"Williamsburg, Bushwick",11221,"Bedford-Stuyvesant, Bushwick",bicycling,1.6,11
+11206,"Williamsburg, Bushwick",11222,Greenpoint,driving,2.2,15
+11206,"Williamsburg, Bushwick",11222,Greenpoint,bicycling,2.2,12
+11206,"Williamsburg, Bushwick",11223,"Gravesend, Homecrest",driving,11.8,46
+11206,"Williamsburg, Bushwick",11223,"Gravesend, Homecrest",bicycling,10.1,58
+11206,"Williamsburg, Bushwick",11224,Coney Island,driving,15.3,41
+11206,"Williamsburg, Bushwick",11224,Coney Island,bicycling,12.1,71
+11206,"Williamsburg, Bushwick",11225,"Prospect Lefferts Gardens, Wingate",driving,3.8,23
+11206,"Williamsburg, Bushwick",11225,"Prospect Lefferts Gardens, Wingate",bicycling,3.9,26
+11206,"Williamsburg, Bushwick",11226,Flatbush,driving,4.9,29
+11206,"Williamsburg, Bushwick",11226,Flatbush,bicycling,5.3,33
+11206,"Williamsburg, Bushwick",11228,Dyker Heights,driving,10.5,34
+11206,"Williamsburg, Bushwick",11228,Dyker Heights,bicycling,10.0,57
+11206,"Williamsburg, Bushwick",11229,"Sheepshead Bay, Madison",driving,8.5,43
+11206,"Williamsburg, Bushwick",11229,"Sheepshead Bay, Madison",bicycling,8.6,53
+11206,"Williamsburg, Bushwick",11230,Midwood,driving,10.2,39
+11206,"Williamsburg, Bushwick",11230,Midwood,bicycling,8.6,49
+11206,"Williamsburg, Bushwick",11231,"Carroll Gardens, Red Hook",driving,6.0,29
+11206,"Williamsburg, Bushwick",11231,"Carroll Gardens, Red Hook",bicycling,5.8,32
+11206,"Williamsburg, Bushwick",11232,"Sunset Park, Industry City",driving,7.0,31
+11206,"Williamsburg, Bushwick",11232,"Sunset Park, Industry City",bicycling,6.2,38
+11206,"Williamsburg, Bushwick",11233,"Bedford-Stuyvesant, Ocean Hill",driving,2.3,16
+11206,"Williamsburg, Bushwick",11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,2.4,16
+11206,"Williamsburg, Bushwick",11234,"Marine Park, Mill Basin",driving,9.3,39
+11206,"Williamsburg, Bushwick",11234,"Marine Park, Mill Basin",bicycling,11.8,63
+11206,"Williamsburg, Bushwick",11235,"Brighton Beach, Manhattan Beach",driving,12.0,44
+11206,"Williamsburg, Bushwick",11235,"Brighton Beach, Manhattan Beach",bicycling,9.6,59
+11206,"Williamsburg, Bushwick",11236,"Canarsie, Bergen Beach",driving,6.6,34
+11206,"Williamsburg, Bushwick",11236,"Canarsie, Bergen Beach",bicycling,7.1,44
+11206,"Williamsburg, Bushwick",11238,"Prospect Heights, Clinton Hill",driving,3.1,19
+11206,"Williamsburg, Bushwick",11238,"Prospect Heights, Clinton Hill",bicycling,3.1,21
+11206,"Williamsburg, Bushwick",11239,Starrett City,driving,5.9,35
+11206,"Williamsburg, Bushwick",11239,Starrett City,bicycling,6.9,40
+11207,"East New York, Cypress Hills",11201,"Brooklyn Heights, DUMBO",driving,9.3,43
+11207,"East New York, Cypress Hills",11201,"Brooklyn Heights, DUMBO",bicycling,7.1,41
+11207,"East New York, Cypress Hills",11203,"East Flatbush, Erasmus",driving,3.0,20
+11207,"East New York, Cypress Hills",11203,"East Flatbush, Erasmus",bicycling,2.9,16
+11207,"East New York, Cypress Hills",11204,"Bensonhurst, Mapleton",driving,13.9,36
+11207,"East New York, Cypress Hills",11204,"Bensonhurst, Mapleton",bicycling,6.9,40
+11207,"East New York, Cypress Hills",11205,"Fort Greene, Clinton Hill",driving,4.9,26
+11207,"East New York, Cypress Hills",11205,"Fort Greene, Clinton Hill",bicycling,5.2,31
+11207,"East New York, Cypress Hills",11206,"Williamsburg, Bushwick",driving,4.2,26
+11207,"East New York, Cypress Hills",11206,"Williamsburg, Bushwick",bicycling,4.6,28
+11207,"East New York, Cypress Hills",11208,"Cypress Hills, East New York",driving,1.7,9
+11207,"East New York, Cypress Hills",11208,"Cypress Hills, East New York",bicycling,1.7,9
+11207,"East New York, Cypress Hills",11209,Bay Ridge,driving,14.9,33
+11207,"East New York, Cypress Hills",11209,Bay Ridge,bicycling,10.7,60
+11207,"East New York, Cypress Hills",11210,"Flatbush, Midwood",driving,4.6,24
+11207,"East New York, Cypress Hills",11210,"Flatbush, Midwood",bicycling,4.9,28
+11207,"East New York, Cypress Hills",11211,Williamsburg,driving,6.4,32
+11207,"East New York, Cypress Hills",11211,Williamsburg,bicycling,5.8,35
+11207,"East New York, Cypress Hills",11212,Brownsville,driving,1.5,10
+11207,"East New York, Cypress Hills",11212,Brownsville,bicycling,1.5,8
+11207,"East New York, Cypress Hills",11213,Crown Heights,driving,3.5,18
+11207,"East New York, Cypress Hills",11213,Crown Heights,bicycling,3.4,19
+11207,"East New York, Cypress Hills",11214,"Bensonhurst, Bath Beach",driving,12.6,30
+11207,"East New York, Cypress Hills",11214,"Bensonhurst, Bath Beach",bicycling,8.1,46
+11207,"East New York, Cypress Hills",11215,"Park Slope, Gowanus",driving,5.9,32
+11207,"East New York, Cypress Hills",11215,"Park Slope, Gowanus",bicycling,5.8,34
+11207,"East New York, Cypress Hills",11216,"Bedford-Stuyvesant, Crown Heights",driving,3.9,20
+11207,"East New York, Cypress Hills",11216,"Bedford-Stuyvesant, Crown Heights",bicycling,4.2,25
+11207,"East New York, Cypress Hills",11217,"Park Slope, Boerum Hill",driving,5.5,31
+11207,"East New York, Cypress Hills",11217,"Park Slope, Boerum Hill",bicycling,5.7,33
+11207,"East New York, Cypress Hills",11218,"Windsor Terrace, Kensington",driving,5.3,35
+11207,"East New York, Cypress Hills",11218,"Windsor Terrace, Kensington",bicycling,6.0,34
+11207,"East New York, Cypress Hills",11219,Borough Park,driving,15.3,40
+11207,"East New York, Cypress Hills",11219,Borough Park,bicycling,7.6,43
+11207,"East New York, Cypress Hills",11220,"Sunset Park, Greenwood",driving,17.6,35
+11207,"East New York, Cypress Hills",11220,"Sunset Park, Greenwood",bicycling,8.6,49
+11207,"East New York, Cypress Hills",11221,"Bedford-Stuyvesant, Bushwick",driving,2.9,18
+11207,"East New York, Cypress Hills",11221,"Bedford-Stuyvesant, Bushwick",bicycling,2.9,17
+11207,"East New York, Cypress Hills",11222,Greenpoint,driving,15.0,34
+11207,"East New York, Cypress Hills",11222,Greenpoint,bicycling,6.7,40
+11207,"East New York, Cypress Hills",11223,"Gravesend, Homecrest",driving,11.5,30
+11207,"East New York, Cypress Hills",11223,"Gravesend, Homecrest",bicycling,8.5,50
+11207,"East New York, Cypress Hills",11224,Coney Island,driving,11.6,28
+11207,"East New York, Cypress Hills",11224,Coney Island,bicycling,11.7,62
+11207,"East New York, Cypress Hills",11225,"Prospect Lefferts Gardens, Wingate",driving,3.9,25
+11207,"East New York, Cypress Hills",11225,"Prospect Lefferts Gardens, Wingate",bicycling,4.0,23
+11207,"East New York, Cypress Hills",11226,Flatbush,driving,4.4,25
+11207,"East New York, Cypress Hills",11226,Flatbush,bicycling,4.5,25
+11207,"East New York, Cypress Hills",11228,Dyker Heights,driving,13.9,30
+11207,"East New York, Cypress Hills",11228,Dyker Heights,bicycling,9.7,54
+11207,"East New York, Cypress Hills",11229,"Sheepshead Bay, Madison",driving,9.3,26
+11207,"East New York, Cypress Hills",11229,"Sheepshead Bay, Madison",bicycling,9.4,47
+11207,"East New York, Cypress Hills",11230,Midwood,driving,6.2,34
+11207,"East New York, Cypress Hills",11230,Midwood,bicycling,6.7,39
+11207,"East New York, Cypress Hills",11231,"Carroll Gardens, Red Hook",driving,7.8,42
+11207,"East New York, Cypress Hills",11231,"Carroll Gardens, Red Hook",bicycling,7.5,43
+11207,"East New York, Cypress Hills",11232,"Sunset Park, Industry City",driving,18.7,37
+11207,"East New York, Cypress Hills",11232,"Sunset Park, Industry City",bicycling,7.9,45
+11207,"East New York, Cypress Hills",11233,"Bedford-Stuyvesant, Ocean Hill",driving,2.4,14
+11207,"East New York, Cypress Hills",11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,2.7,17
+11207,"East New York, Cypress Hills",11234,"Marine Park, Mill Basin",driving,5.6,16
+11207,"East New York, Cypress Hills",11234,"Marine Park, Mill Basin",bicycling,7.0,34
+11207,"East New York, Cypress Hills",11235,"Brighton Beach, Manhattan Beach",driving,8.3,22
+11207,"East New York, Cypress Hills",11235,"Brighton Beach, Manhattan Beach",bicycling,9.2,47
+11207,"East New York, Cypress Hills",11236,"Canarsie, Bergen Beach",driving,3.1,15
+11207,"East New York, Cypress Hills",11236,"Canarsie, Bergen Beach",bicycling,3.0,15
+11207,"East New York, Cypress Hills",11238,"Prospect Heights, Clinton Hill",driving,4.6,24
+11207,"East New York, Cypress Hills",11238,"Prospect Heights, Clinton Hill",bicycling,5.0,28
+11207,"East New York, Cypress Hills",11239,Starrett City,driving,2.1,12
+11207,"East New York, Cypress Hills",11239,Starrett City,bicycling,2.1,11
+11208,"Cypress Hills, East New York",11201,"Brooklyn Heights, DUMBO",driving,10.4,48
+11208,"Cypress Hills, East New York",11201,"Brooklyn Heights, DUMBO",bicycling,8.1,46
+11208,"Cypress Hills, East New York",11203,"East Flatbush, Erasmus",driving,4.2,24
+11208,"Cypress Hills, East New York",11203,"East Flatbush, Erasmus",bicycling,4.0,22
+11208,"Cypress Hills, East New York",11204,"Bensonhurst, Mapleton",driving,14.5,34
+11208,"Cypress Hills, East New York",11204,"Bensonhurst, Mapleton",bicycling,9.4,53
+11208,"Cypress Hills, East New York",11205,"Fort Greene, Clinton Hill",driving,6.1,31
+11208,"Cypress Hills, East New York",11205,"Fort Greene, Clinton Hill",bicycling,6.2,36
+11208,"Cypress Hills, East New York",11206,"Williamsburg, Bushwick",driving,5.7,31
+11208,"Cypress Hills, East New York",11206,"Williamsburg, Bushwick",bicycling,5.5,33
+11208,"Cypress Hills, East New York",11207,"East New York, Cypress Hills",driving,1.7,9
+11208,"Cypress Hills, East New York",11207,"East New York, Cypress Hills",bicycling,1.5,8
+11208,"Cypress Hills, East New York",11209,Bay Ridge,driving,15.5,31
+11208,"Cypress Hills, East New York",11209,Bay Ridge,bicycling,11.7,65
+11208,"Cypress Hills, East New York",11210,"Flatbush, Midwood",driving,5.7,28
+11208,"Cypress Hills, East New York",11210,"Flatbush, Midwood",bicycling,6.0,34
+11208,"Cypress Hills, East New York",11211,Williamsburg,driving,7.5,38
+11208,"Cypress Hills, East New York",11211,Williamsburg,bicycling,6.7,40
+11208,"Cypress Hills, East New York",11212,Brownsville,driving,2.7,17
+11208,"Cypress Hills, East New York",11212,Brownsville,bicycling,2.9,15
+11208,"Cypress Hills, East New York",11213,Crown Heights,driving,4.6,23
+11208,"Cypress Hills, East New York",11213,Crown Heights,bicycling,4.3,24
+11208,"Cypress Hills, East New York",11214,"Bensonhurst, Bath Beach",driving,13.2,28
+11208,"Cypress Hills, East New York",11214,"Bensonhurst, Bath Beach",bicycling,10.5,58
+11208,"Cypress Hills, East New York",11215,"Park Slope, Gowanus",driving,7.5,38
+11208,"Cypress Hills, East New York",11215,"Park Slope, Gowanus",bicycling,6.7,39
+11208,"Cypress Hills, East New York",11216,"Bedford-Stuyvesant, Crown Heights",driving,5.0,26
+11208,"Cypress Hills, East New York",11216,"Bedford-Stuyvesant, Crown Heights",bicycling,5.1,30
+11208,"Cypress Hills, East New York",11217,"Park Slope, Boerum Hill",driving,6.7,36
+11208,"Cypress Hills, East New York",11217,"Park Slope, Boerum Hill",bicycling,6.7,38
+11208,"Cypress Hills, East New York",11218,"Windsor Terrace, Kensington",driving,21.4,36
+11208,"Cypress Hills, East New York",11218,"Windsor Terrace, Kensington",bicycling,6.9,39
+11208,"Cypress Hills, East New York",11219,Borough Park,driving,15.9,38
+11208,"Cypress Hills, East New York",11219,Borough Park,bicycling,8.5,48
+11208,"Cypress Hills, East New York",11220,"Sunset Park, Greenwood",driving,18.2,33
+11208,"Cypress Hills, East New York",11220,"Sunset Park, Greenwood",bicycling,9.6,54
+11208,"Cypress Hills, East New York",11221,"Bedford-Stuyvesant, Bushwick",driving,4.0,23
+11208,"Cypress Hills, East New York",11221,"Bedford-Stuyvesant, Bushwick",bicycling,3.8,22
+11208,"Cypress Hills, East New York",11222,Greenpoint,driving,15.4,37
+11208,"Cypress Hills, East New York",11222,Greenpoint,bicycling,7.6,44
+11208,"Cypress Hills, East New York",11223,"Gravesend, Homecrest",driving,12.1,28
+11208,"Cypress Hills, East New York",11223,"Gravesend, Homecrest",bicycling,11.8,61
+11208,"Cypress Hills, East New York",11224,Coney Island,driving,12.2,26
+11208,"Cypress Hills, East New York",11224,Coney Island,bicycling,12.3,65
+11208,"Cypress Hills, East New York",11225,"Prospect Lefferts Gardens, Wingate",driving,5.8,32
+11208,"Cypress Hills, East New York",11225,"Prospect Lefferts Gardens, Wingate",bicycling,5.0,28
+11208,"Cypress Hills, East New York",11226,Flatbush,driving,5.5,29
+11208,"Cypress Hills, East New York",11226,Flatbush,bicycling,5.6,31
+11208,"Cypress Hills, East New York",11228,Dyker Heights,driving,14.5,28
+11208,"Cypress Hills, East New York",11228,Dyker Heights,bicycling,10.7,59
+11208,"Cypress Hills, East New York",11229,"Sheepshead Bay, Madison",driving,9.9,24
+11208,"Cypress Hills, East New York",11229,"Sheepshead Bay, Madison",bicycling,10.0,51
+11208,"Cypress Hills, East New York",11230,Midwood,driving,12.8,32
+11208,"Cypress Hills, East New York",11230,Midwood,bicycling,7.8,45
+11208,"Cypress Hills, East New York",11231,"Carroll Gardens, Red Hook",driving,21.6,38
+11208,"Cypress Hills, East New York",11231,"Carroll Gardens, Red Hook",bicycling,8.4,48
+11208,"Cypress Hills, East New York",11232,"Sunset Park, Industry City",driving,19.3,35
+11208,"Cypress Hills, East New York",11232,"Sunset Park, Industry City",bicycling,8.8,50
+11208,"Cypress Hills, East New York",11233,"Bedford-Stuyvesant, Ocean Hill",driving,3.6,19
+11208,"Cypress Hills, East New York",11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,3.7,22
+11208,"Cypress Hills, East New York",11234,"Marine Park, Mill Basin",driving,6.2,14
+11208,"Cypress Hills, East New York",11234,"Marine Park, Mill Basin",bicycling,7.6,38
+11208,"Cypress Hills, East New York",11235,"Brighton Beach, Manhattan Beach",driving,8.9,20
+11208,"Cypress Hills, East New York",11235,"Brighton Beach, Manhattan Beach",bicycling,9.8,50
+11208,"Cypress Hills, East New York",11236,"Canarsie, Bergen Beach",driving,4.4,15
+11208,"Cypress Hills, East New York",11236,"Canarsie, Bergen Beach",bicycling,4.0,21
+11208,"Cypress Hills, East New York",11238,"Prospect Heights, Clinton Hill",driving,5.7,29
+11208,"Cypress Hills, East New York",11238,"Prospect Heights, Clinton Hill",bicycling,5.9,33
+11208,"Cypress Hills, East New York",11239,Starrett City,driving,2.0,10
+11208,"Cypress Hills, East New York",11239,Starrett City,bicycling,2.1,11
+11209,Bay Ridge,11201,"Brooklyn Heights, DUMBO",driving,11.3,28
+11209,Bay Ridge,11201,"Brooklyn Heights, DUMBO",bicycling,7.0,39
+11209,Bay Ridge,11203,"East Flatbush, Erasmus",driving,9.0,34
+11209,Bay Ridge,11203,"East Flatbush, Erasmus",bicycling,8.6,50
+11209,Bay Ridge,11204,"Bensonhurst, Mapleton",driving,3.6,20
+11209,Bay Ridge,11204,"Bensonhurst, Mapleton",bicycling,3.6,22
+11209,Bay Ridge,11205,"Fort Greene, Clinton Hill",driving,9.9,31
+11209,Bay Ridge,11205,"Fort Greene, Clinton Hill",bicycling,7.8,44
+11209,Bay Ridge,11206,"Williamsburg, Bushwick",driving,11.6,36
+11209,Bay Ridge,11206,"Williamsburg, Bushwick",bicycling,9.2,53
+11209,Bay Ridge,11207,"East New York, Cypress Hills",driving,15.0,31
+11209,Bay Ridge,11207,"East New York, Cypress Hills",bicycling,10.5,59
+11209,Bay Ridge,11208,"Cypress Hills, East New York",driving,16.0,32
+11209,Bay Ridge,11208,"Cypress Hills, East New York",bicycling,11.2,63
+11209,Bay Ridge,11210,"Flatbush, Midwood",driving,12.7,30
+11209,Bay Ridge,11210,"Flatbush, Midwood",bicycling,6.7,39
+11209,Bay Ridge,11211,Williamsburg,driving,10.2,27
+11209,Bay Ridge,11211,Williamsburg,bicycling,8.9,52
+11209,Bay Ridge,11212,Brownsville,driving,15.4,37
+11209,Bay Ridge,11212,Brownsville,bicycling,9.1,53
+11209,Bay Ridge,11213,Crown Heights,driving,9.6,33
+11209,Bay Ridge,11213,Crown Heights,bicycling,8.0,45
+11209,Bay Ridge,11214,"Bensonhurst, Bath Beach",driving,4.2,15
+11209,Bay Ridge,11214,"Bensonhurst, Bath Beach",bicycling,2.6,15
+11209,Bay Ridge,11215,"Park Slope, Gowanus",driving,7.1,21
+11209,Bay Ridge,11215,"Park Slope, Gowanus",bicycling,5.1,29
+11209,Bay Ridge,11216,"Bedford-Stuyvesant, Crown Heights",driving,9.8,35
+11209,Bay Ridge,11216,"Bedford-Stuyvesant, Crown Heights",bicycling,7.5,44
+11209,Bay Ridge,11217,"Park Slope, Boerum Hill",driving,6.3,26
+11209,Bay Ridge,11217,"Park Slope, Boerum Hill",bicycling,5.6,30
+11209,Bay Ridge,11218,"Windsor Terrace, Kensington",driving,6.4,16
+11209,Bay Ridge,11218,"Windsor Terrace, Kensington",bicycling,4.4,26
+11209,Bay Ridge,11219,Borough Park,driving,2.9,20
+11209,Bay Ridge,11219,Borough Park,bicycling,3.1,18
+11209,Bay Ridge,11220,"Sunset Park, Greenwood",driving,3.1,13
+11209,Bay Ridge,11220,"Sunset Park, Greenwood",bicycling,2.1,14
+11209,Bay Ridge,11221,"Bedford-Stuyvesant, Bushwick",driving,11.7,44
+11209,Bay Ridge,11221,"Bedford-Stuyvesant, Bushwick",bicycling,8.7,50
+11209,Bay Ridge,11222,Greenpoint,driving,12.0,34
+11209,Bay Ridge,11222,Greenpoint,bicycling,10.5,60
+11209,Bay Ridge,11223,"Gravesend, Homecrest",driving,5.1,20
+11209,Bay Ridge,11223,"Gravesend, Homecrest",bicycling,5.3,28
+11209,Bay Ridge,11224,Coney Island,driving,5.2,15
+11209,Bay Ridge,11224,Coney Island,bicycling,5.3,29
+11209,Bay Ridge,11225,"Prospect Lefferts Gardens, Wingate",driving,8.5,30
+11209,Bay Ridge,11225,"Prospect Lefferts Gardens, Wingate",bicycling,7.1,40
+11209,Bay Ridge,11226,Flatbush,driving,8.2,27
+11209,Bay Ridge,11226,Flatbush,bicycling,6.1,37
+11209,Bay Ridge,11228,Dyker Heights,driving,1.5,10
+11209,Bay Ridge,11228,Dyker Heights,bicycling,1.9,12
+11209,Bay Ridge,11229,"Sheepshead Bay, Madison",driving,7.9,21
+11209,Bay Ridge,11229,"Sheepshead Bay, Madison",bicycling,7.0,38
+11209,Bay Ridge,11230,Midwood,driving,8.2,25
+11209,Bay Ridge,11230,Midwood,bicycling,5.1,31
+11209,Bay Ridge,11231,"Carroll Gardens, Red Hook",driving,6.6,18
+11209,Bay Ridge,11231,"Carroll Gardens, Red Hook",bicycling,6.0,33
+11209,Bay Ridge,11232,"Sunset Park, Industry City",driving,4.3,15
+11209,Bay Ridge,11232,"Sunset Park, Industry City",bicycling,3.0,15
+11209,Bay Ridge,11233,"Bedford-Stuyvesant, Ocean Hill",driving,11.0,42
+11209,Bay Ridge,11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,9.0,51
+11209,Bay Ridge,11234,"Marine Park, Mill Basin",driving,14.8,23
+11209,Bay Ridge,11234,"Marine Park, Mill Basin",bicycling,10.2,54
+11209,Bay Ridge,11235,"Brighton Beach, Manhattan Beach",driving,7.9,17
+11209,Bay Ridge,11235,"Brighton Beach, Manhattan Beach",bicycling,7.7,41
+11209,Bay Ridge,11236,"Canarsie, Bergen Beach",driving,12.9,23
+11209,Bay Ridge,11236,"Canarsie, Bergen Beach",bicycling,13.5,71
+11209,Bay Ridge,11238,"Prospect Heights, Clinton Hill",driving,8.6,29
+11209,Bay Ridge,11238,"Prospect Heights, Clinton Hill",bicycling,6.5,37
+11209,Bay Ridge,11239,Starrett City,driving,14.5,24
+11209,Bay Ridge,11239,Starrett City,bicycling,12.3,69
+11210,"Flatbush, Midwood",11201,"Brooklyn Heights, DUMBO",driving,11.3,36
+11210,"Flatbush, Midwood",11201,"Brooklyn Heights, DUMBO",bicycling,6.6,42
+11210,"Flatbush, Midwood",11203,"East Flatbush, Erasmus",driving,2.5,14
+11210,"Flatbush, Midwood",11203,"East Flatbush, Erasmus",bicycling,2.3,15
+11210,"Flatbush, Midwood",11204,"Bensonhurst, Mapleton",driving,2.7,16
+11210,"Flatbush, Midwood",11204,"Bensonhurst, Mapleton",bicycling,2.7,17
+11210,"Flatbush, Midwood",11205,"Fort Greene, Clinton Hill",driving,5.1,27
+11210,"Flatbush, Midwood",11205,"Fort Greene, Clinton Hill",bicycling,5.3,33
+11210,"Flatbush, Midwood",11206,"Williamsburg, Bushwick",driving,6.2,36
+11210,"Flatbush, Midwood",11206,"Williamsburg, Bushwick",bicycling,6.7,42
+11210,"Flatbush, Midwood",11207,"East New York, Cypress Hills",driving,4.6,25
+11210,"Flatbush, Midwood",11207,"East New York, Cypress Hills",bicycling,4.8,28
+11210,"Flatbush, Midwood",11208,"Cypress Hills, East New York",driving,10.1,30
+11210,"Flatbush, Midwood",11208,"Cypress Hills, East New York",bicycling,6.2,35
+11210,"Flatbush, Midwood",11209,Bay Ridge,driving,12.0,30
+11210,"Flatbush, Midwood",11209,Bay Ridge,bicycling,6.5,39
+11210,"Flatbush, Midwood",11211,Williamsburg,driving,6.6,34
+11210,"Flatbush, Midwood",11211,Williamsburg,bicycling,6.4,41
+11210,"Flatbush, Midwood",11212,Brownsville,driving,3.7,20
+11210,"Flatbush, Midwood",11212,Brownsville,bicycling,4.5,27
+11210,"Flatbush, Midwood",11213,Crown Heights,driving,4.4,24
+11210,"Flatbush, Midwood",11213,Crown Heights,bicycling,4.7,29
+11210,"Flatbush, Midwood",11214,"Bensonhurst, Bath Beach",driving,3.8,23
+11210,"Flatbush, Midwood",11214,"Bensonhurst, Bath Beach",bicycling,3.7,22
+11210,"Flatbush, Midwood",11215,"Park Slope, Gowanus",driving,4.9,23
+11210,"Flatbush, Midwood",11215,"Park Slope, Gowanus",bicycling,4.9,30
+11210,"Flatbush, Midwood",11216,"Bedford-Stuyvesant, Crown Heights",driving,4.7,26
+11210,"Flatbush, Midwood",11216,"Bedford-Stuyvesant, Crown Heights",bicycling,4.5,30
+11210,"Flatbush, Midwood",11217,"Park Slope, Boerum Hill",driving,6.1,29
+11210,"Flatbush, Midwood",11217,"Park Slope, Boerum Hill",bicycling,5.1,32
+11210,"Flatbush, Midwood",11218,"Windsor Terrace, Kensington",driving,3.5,20
+11210,"Flatbush, Midwood",11218,"Windsor Terrace, Kensington",bicycling,3.5,21
+11210,"Flatbush, Midwood",11219,Borough Park,driving,3.7,22
+11210,"Flatbush, Midwood",11219,Borough Park,bicycling,3.7,22
+11210,"Flatbush, Midwood",11220,"Sunset Park, Greenwood",driving,4.6,28
+11210,"Flatbush, Midwood",11220,"Sunset Park, Greenwood",bicycling,4.9,30
+11210,"Flatbush, Midwood",11221,"Bedford-Stuyvesant, Bushwick",driving,5.7,32
+11210,"Flatbush, Midwood",11221,"Bedford-Stuyvesant, Bushwick",bicycling,6.2,39
+11210,"Flatbush, Midwood",11222,Greenpoint,driving,8.4,41
+11210,"Flatbush, Midwood",11222,Greenpoint,bicycling,8.2,50
+11210,"Flatbush, Midwood",11223,"Gravesend, Homecrest",driving,3.9,21
+11210,"Flatbush, Midwood",11223,"Gravesend, Homecrest",bicycling,3.7,22
+11210,"Flatbush, Midwood",11224,Coney Island,driving,8.7,24
+11210,"Flatbush, Midwood",11224,Coney Island,bicycling,5.7,35
+11210,"Flatbush, Midwood",11225,"Prospect Lefferts Gardens, Wingate",driving,3.2,18
+11210,"Flatbush, Midwood",11225,"Prospect Lefferts Gardens, Wingate",bicycling,3.2,20
+11210,"Flatbush, Midwood",11226,Flatbush,driving,1.9,10
+11210,"Flatbush, Midwood",11226,Flatbush,bicycling,2.0,13
+11210,"Flatbush, Midwood",11228,Dyker Heights,driving,4.8,27
+11210,"Flatbush, Midwood",11228,Dyker Heights,bicycling,6.1,35
+11210,"Flatbush, Midwood",11229,"Sheepshead Bay, Madison",driving,2.2,12
+11210,"Flatbush, Midwood",11229,"Sheepshead Bay, Madison",bicycling,2.2,13
+11210,"Flatbush, Midwood",11230,Midwood,driving,1.8,11
+11210,"Flatbush, Midwood",11230,Midwood,bicycling,1.8,12
+11210,"Flatbush, Midwood",11231,"Carroll Gardens, Red Hook",driving,6.3,26
+11210,"Flatbush, Midwood",11231,"Carroll Gardens, Red Hook",bicycling,6.6,40
+11210,"Flatbush, Midwood",11232,"Sunset Park, Industry City",driving,6.2,25
+11210,"Flatbush, Midwood",11232,"Sunset Park, Industry City",bicycling,5.1,31
+11210,"Flatbush, Midwood",11233,"Bedford-Stuyvesant, Ocean Hill",driving,4.7,27
+11210,"Flatbush, Midwood",11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,4.9,31
+11210,"Flatbush, Midwood",11234,"Marine Park, Mill Basin",driving,6.3,22
+11210,"Flatbush, Midwood",11234,"Marine Park, Mill Basin",bicycling,4.2,24
+11210,"Flatbush, Midwood",11235,"Brighton Beach, Manhattan Beach",driving,3.2,16
+11210,"Flatbush, Midwood",11235,"Brighton Beach, Manhattan Beach",bicycling,3.5,21
+11210,"Flatbush, Midwood",11236,"Canarsie, Bergen Beach",driving,3.4,18
+11210,"Flatbush, Midwood",11236,"Canarsie, Bergen Beach",bicycling,3.4,20
+11210,"Flatbush, Midwood",11238,"Prospect Heights, Clinton Hill",driving,4.7,26
+11210,"Flatbush, Midwood",11238,"Prospect Heights, Clinton Hill",bicycling,4.7,28
+11210,"Flatbush, Midwood",11239,Starrett City,driving,8.6,22
+11210,"Flatbush, Midwood",11239,Starrett City,bicycling,6.4,33
+11211,Williamsburg,11201,"Brooklyn Heights, DUMBO",driving,5.7,19
+11211,Williamsburg,11201,"Brooklyn Heights, DUMBO",bicycling,2.4,17
+11211,Williamsburg,11203,"East Flatbush, Erasmus",driving,5.4,31
+11211,Williamsburg,11203,"East Flatbush, Erasmus",bicycling,5.0,32
+11211,Williamsburg,11204,"Bensonhurst, Mapleton",driving,12.2,35
+11211,Williamsburg,11204,"Bensonhurst, Mapleton",bicycling,8.2,50
+11211,Williamsburg,11205,"Fort Greene, Clinton Hill",driving,3.4,12
+11211,Williamsburg,11205,"Fort Greene, Clinton Hill",bicycling,1.6,10
+11211,Williamsburg,11206,"Williamsburg, Bushwick",driving,1.5,9
+11211,Williamsburg,11206,"Williamsburg, Bushwick",bicycling,1.3,7
+11211,Williamsburg,11207,"East New York, Cypress Hills",driving,15.3,29
+11211,Williamsburg,11207,"East New York, Cypress Hills",bicycling,6.5,39
+11211,Williamsburg,11208,"Cypress Hills, East New York",driving,10.6,32
+11211,Williamsburg,11208,"Cypress Hills, East New York",bicycling,6.6,42
+11211,Williamsburg,11209,Bay Ridge,driving,12.0,30
+11211,Williamsburg,11209,Bay Ridge,bicycling,8.5,52
+11211,Williamsburg,11210,"Flatbush, Midwood",driving,12.0,39
+11211,Williamsburg,11210,"Flatbush, Midwood",bicycling,7.1,44
+11211,Williamsburg,11212,Brownsville,driving,5.1,30
+11211,Williamsburg,11212,Brownsville,bicycling,5.1,32
+11211,Williamsburg,11213,Crown Heights,driving,3.5,20
+11211,Williamsburg,11213,Crown Heights,bicycling,3.3,22
+11211,Williamsburg,11214,"Bensonhurst, Bath Beach",driving,13.0,35
+11211,Williamsburg,11214,"Bensonhurst, Bath Beach",bicycling,9.2,55
+11211,Williamsburg,11215,"Park Slope, Gowanus",driving,6.6,27
+11211,Williamsburg,11215,"Park Slope, Gowanus",bicycling,4.0,29
+11211,Williamsburg,11216,"Bedford-Stuyvesant, Crown Heights",driving,3.1,20
+11211,Williamsburg,11216,"Bedford-Stuyvesant, Crown Heights",bicycling,2.8,20
+11211,Williamsburg,11217,"Park Slope, Boerum Hill",driving,5.4,20
+11211,Williamsburg,11217,"Park Slope, Boerum Hill",bicycling,3.1,22
+11211,Williamsburg,11218,"Windsor Terrace, Kensington",driving,9.0,24
+11211,Williamsburg,11218,"Windsor Terrace, Kensington",bicycling,5.7,36
+11211,Williamsburg,11219,Borough Park,driving,11.9,34
+11211,Williamsburg,11219,Borough Park,bicycling,7.3,45
+11211,Williamsburg,11220,"Sunset Park, Greenwood",driving,10.4,26
+11211,Williamsburg,11220,"Sunset Park, Greenwood",bicycling,6.8,43
+11211,Williamsburg,11221,"Bedford-Stuyvesant, Bushwick",driving,2.8,18
+11211,Williamsburg,11221,"Bedford-Stuyvesant, Bushwick",bicycling,2.8,18
+11211,Williamsburg,11222,Greenpoint,driving,1.9,7
+11211,Williamsburg,11222,Greenpoint,bicycling,2.0,11
+11211,Williamsburg,11223,"Gravesend, Homecrest",driving,13.2,40
+11211,Williamsburg,11223,"Gravesend, Homecrest",bicycling,9.6,58
+11211,Williamsburg,11224,Coney Island,driving,16.7,35
+11211,Williamsburg,11224,Coney Island,bicycling,11.6,70
+11211,Williamsburg,11225,"Prospect Lefferts Gardens, Wingate",driving,5.6,26
+11211,Williamsburg,11225,"Prospect Lefferts Gardens, Wingate",bicycling,3.8,25
+11211,Williamsburg,11226,Flatbush,driving,5.3,34
+11211,Williamsburg,11226,Flatbush,bicycling,5.2,33
+11211,Williamsburg,11228,Dyker Heights,driving,11.9,28
+11211,Williamsburg,11228,Dyker Heights,bicycling,9.5,56
+11211,Williamsburg,11229,"Sheepshead Bay, Madison",driving,19.4,42
+11211,Williamsburg,11229,"Sheepshead Bay, Madison",bicycling,8.5,53
+11211,Williamsburg,11230,Midwood,driving,11.6,33
+11211,Williamsburg,11230,Midwood,bicycling,8.1,49
+11211,Williamsburg,11231,"Carroll Gardens, Red Hook",driving,7.4,23
+11211,Williamsburg,11231,"Carroll Gardens, Red Hook",bicycling,5.2,29
+11211,Williamsburg,11232,"Sunset Park, Industry City",driving,8.4,25
+11211,Williamsburg,11232,"Sunset Park, Industry City",bicycling,5.6,37
+11211,Williamsburg,11233,"Bedford-Stuyvesant, Ocean Hill",driving,3.4,23
+11211,Williamsburg,11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,3.7,23
+11211,Williamsburg,11234,"Marine Park, Mill Basin",driving,21.1,34
+11211,Williamsburg,11234,"Marine Park, Mill Basin",bicycling,11.5,65
+11211,Williamsburg,11235,"Brighton Beach, Manhattan Beach",driving,19.5,37
+11211,Williamsburg,11235,"Brighton Beach, Manhattan Beach",bicycling,9.5,58
+11211,Williamsburg,11236,"Canarsie, Bergen Beach",driving,19.2,35
+11211,Williamsburg,11236,"Canarsie, Bergen Beach",bicycling,7.5,46
+11211,Williamsburg,11238,"Prospect Heights, Clinton Hill",driving,4.6,18
+11211,Williamsburg,11238,"Prospect Heights, Clinton Hill",bicycling,3.0,20
+11211,Williamsburg,11239,Starrett City,driving,17.2,32
+11211,Williamsburg,11239,Starrett City,bicycling,8.2,49
+11212,Brownsville,11201,"Brooklyn Heights, DUMBO",driving,8.4,38
+11212,Brownsville,11201,"Brooklyn Heights, DUMBO",bicycling,5.8,35
+11212,Brownsville,11203,"East Flatbush, Erasmus",driving,1.6,11
+11212,Brownsville,11203,"East Flatbush, Erasmus",bicycling,1.7,10
+11212,Brownsville,11204,"Bensonhurst, Mapleton",driving,6.1,33
+11212,Brownsville,11204,"Bensonhurst, Mapleton",bicycling,7.0,40
+11212,Brownsville,11205,"Fort Greene, Clinton Hill",driving,4.2,22
+11212,Brownsville,11205,"Fort Greene, Clinton Hill",bicycling,4.2,27
+11212,Brownsville,11206,"Williamsburg, Bushwick",driving,3.9,26
+11212,Brownsville,11206,"Williamsburg, Bushwick",bicycling,4.5,29
+11212,Brownsville,11207,"East New York, Cypress Hills",driving,1.6,9
+11212,Brownsville,11207,"East New York, Cypress Hills",bicycling,1.6,8
+11212,Brownsville,11208,"Cypress Hills, East New York",driving,2.9,17
+11212,Brownsville,11208,"Cypress Hills, East New York",bicycling,2.9,15
+11212,Brownsville,11209,Bay Ridge,driving,14.8,37
+11212,Brownsville,11209,Bay Ridge,bicycling,9.4,54
+11212,Brownsville,11210,"Flatbush, Midwood",driving,3.4,17
+11212,Brownsville,11210,"Flatbush, Midwood",bicycling,4.3,25
+11212,Brownsville,11211,Williamsburg,driving,5.7,28
+11212,Brownsville,11211,Williamsburg,bicycling,5.0,32
+11212,Brownsville,11213,Crown Heights,driving,2.4,13
+11212,Brownsville,11213,Crown Heights,bicycling,1.9,12
+11212,Brownsville,11214,"Bensonhurst, Bath Beach",driving,12.5,33
+11212,Brownsville,11214,"Bensonhurst, Bath Beach",bicycling,8.1,46
+11212,Brownsville,11215,"Park Slope, Gowanus",driving,4.6,24
+11212,Brownsville,11215,"Park Slope, Gowanus",bicycling,4.4,27
+11212,Brownsville,11216,"Bedford-Stuyvesant, Crown Heights",driving,3.2,18
+11212,Brownsville,11216,"Bedford-Stuyvesant, Crown Heights",bicycling,3.1,19
+11212,Brownsville,11217,"Park Slope, Boerum Hill",driving,4.4,24
+11212,Brownsville,11217,"Park Slope, Boerum Hill",bicycling,4.4,27
+11212,Brownsville,11218,"Windsor Terrace, Kensington",driving,3.9,26
+11212,Brownsville,11218,"Windsor Terrace, Kensington",bicycling,4.5,26
+11212,Brownsville,11219,Borough Park,driving,5.6,36
+11212,Brownsville,11219,Borough Park,bicycling,6.1,35
+11212,Brownsville,11220,"Sunset Park, Greenwood",driving,8.3,36
+11212,Brownsville,11220,"Sunset Park, Greenwood",bicycling,7.3,43
+11212,Brownsville,11221,"Bedford-Stuyvesant, Bushwick",driving,2.6,16
+11212,Brownsville,11221,"Bedford-Stuyvesant, Bushwick",bicycling,2.5,17
+11212,Brownsville,11222,Greenpoint,driving,7.5,35
+11212,Brownsville,11222,Greenpoint,bicycling,6.2,37
+11212,Brownsville,11223,"Gravesend, Homecrest",driving,6.7,35
+11212,Brownsville,11223,"Gravesend, Homecrest",bicycling,8.5,49
+11212,Brownsville,11224,Coney Island,driving,11.5,31
+11212,Brownsville,11224,Coney Island,bicycling,10.4,61
+11212,Brownsville,11225,"Prospect Lefferts Gardens, Wingate",driving,2.5,16
+11212,Brownsville,11225,"Prospect Lefferts Gardens, Wingate",bicycling,2.6,15
+11212,Brownsville,11226,Flatbush,driving,2.9,17
+11212,Brownsville,11226,Flatbush,bicycling,3.0,18
+11212,Brownsville,11228,Dyker Heights,driving,13.8,34
+11212,Brownsville,11228,Dyker Heights,bicycling,8.3,47
+11212,Brownsville,11229,"Sheepshead Bay, Madison",driving,5.2,25
+11212,Brownsville,11229,"Sheepshead Bay, Madison",bicycling,6.0,34
+11212,Brownsville,11230,Midwood,driving,5.1,27
+11212,Brownsville,11230,Midwood,bicycling,6.9,40
+11212,Brownsville,11231,"Carroll Gardens, Red Hook",driving,6.6,33
+11212,Brownsville,11231,"Carroll Gardens, Red Hook",bicycling,6.1,37
+11212,Brownsville,11232,"Sunset Park, Industry City",driving,6.6,32
+11212,Brownsville,11232,"Sunset Park, Industry City",bicycling,6.5,39
+11212,Brownsville,11233,"Bedford-Stuyvesant, Ocean Hill",driving,1.6,12
+11212,Brownsville,11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,1.6,11
+11212,Brownsville,11234,"Marine Park, Mill Basin",driving,5.6,20
+11212,Brownsville,11234,"Marine Park, Mill Basin",bicycling,7.8,39
+11212,Brownsville,11235,"Brighton Beach, Manhattan Beach",driving,8.3,25
+11212,Brownsville,11235,"Brighton Beach, Manhattan Beach",bicycling,10.0,51
+11212,Brownsville,11236,"Canarsie, Bergen Beach",driving,3.0,15
+11212,Brownsville,11236,"Canarsie, Bergen Beach",bicycling,2.4,15
+11212,Brownsville,11238,"Prospect Heights, Clinton Hill",driving,3.8,20
+11212,Brownsville,11238,"Prospect Heights, Clinton Hill",bicycling,3.6,22
+11212,Brownsville,11239,Starrett City,driving,3.4,17
+11212,Brownsville,11239,Starrett City,bicycling,3.4,18
+11213,Crown Heights,11201,"Brooklyn Heights, DUMBO",driving,6.8,30
+11213,Crown Heights,11201,"Brooklyn Heights, DUMBO",bicycling,4.0,23
+11213,Crown Heights,11203,"East Flatbush, Erasmus",driving,1.8,12
+11213,Crown Heights,11203,"East Flatbush, Erasmus",bicycling,1.8,10
+11213,Crown Heights,11204,"Bensonhurst, Mapleton",driving,6.2,32
+11213,Crown Heights,11204,"Bensonhurst, Mapleton",bicycling,6.1,34
+11213,Crown Heights,11205,"Fort Greene, Clinton Hill",driving,2.3,13
+11213,Crown Heights,11205,"Fort Greene, Clinton Hill",bicycling,2.3,13
+11213,Crown Heights,11206,"Williamsburg, Bushwick",driving,2.6,17
+11213,Crown Heights,11206,"Williamsburg, Bushwick",bicycling,2.6,17
+11213,Crown Heights,11207,"East New York, Cypress Hills",driving,3.6,18
+11213,Crown Heights,11207,"East New York, Cypress Hills",bicycling,3.2,17
+11213,Crown Heights,11208,"Cypress Hills, East New York",driving,4.3,22
+11213,Crown Heights,11208,"Cypress Hills, East New York",bicycling,3.9,21
+11213,Crown Heights,11209,Bay Ridge,driving,8.6,33
+11213,Crown Heights,11209,Bay Ridge,bicycling,7.9,45
+11213,Crown Heights,11210,"Flatbush, Midwood",driving,3.4,20
+11213,Crown Heights,11210,"Flatbush, Midwood",bicycling,3.4,20
+11213,Crown Heights,11211,Williamsburg,driving,3.7,19
+11213,Crown Heights,11211,Williamsburg,bicycling,3.2,20
+11213,Crown Heights,11212,Brownsville,driving,1.8,11
+11213,Crown Heights,11212,Brownsville,bicycling,1.7,9
+11213,Crown Heights,11214,"Bensonhurst, Bath Beach",driving,9.6,38
+11213,Crown Heights,11214,"Bensonhurst, Bath Beach",bicycling,7.1,40
+11213,Crown Heights,11215,"Park Slope, Gowanus",driving,3.0,16
+11213,Crown Heights,11215,"Park Slope, Gowanus",bicycling,3.0,18
+11213,Crown Heights,11216,"Bedford-Stuyvesant, Crown Heights",driving,1.2,8
+11213,Crown Heights,11216,"Bedford-Stuyvesant, Crown Heights",bicycling,1.2,7
+11213,Crown Heights,11217,"Park Slope, Boerum Hill",driving,2.8,16
+11213,Crown Heights,11217,"Park Slope, Boerum Hill",bicycling,2.6,15
+11213,Crown Heights,11218,"Windsor Terrace, Kensington",driving,4.0,20
+11213,Crown Heights,11218,"Windsor Terrace, Kensington",bicycling,3.5,21
+11213,Crown Heights,11219,Borough Park,driving,5.2,30
+11213,Crown Heights,11219,Borough Park,bicycling,5.1,30
+11213,Crown Heights,11220,"Sunset Park, Greenwood",driving,7.1,29
+11213,Crown Heights,11220,"Sunset Park, Greenwood",bicycling,5.8,33
+11213,Crown Heights,11221,"Bedford-Stuyvesant, Bushwick",driving,2.4,14
+11213,Crown Heights,11221,"Bedford-Stuyvesant, Bushwick",bicycling,2.2,14
+11213,Crown Heights,11222,Greenpoint,driving,5.6,26
+11213,Crown Heights,11222,Greenpoint,bicycling,4.3,25
+11213,Crown Heights,11223,"Gravesend, Homecrest",driving,7.4,37
+11213,Crown Heights,11223,"Gravesend, Homecrest",bicycling,7.5,43
+11213,Crown Heights,11224,Coney Island,driving,13.0,38
+11213,Crown Heights,11224,Coney Island,bicycling,9.5,55
+11213,Crown Heights,11225,"Prospect Lefferts Gardens, Wingate",driving,1.5,10
+11213,Crown Heights,11225,"Prospect Lefferts Gardens, Wingate",bicycling,1.5,9
+11213,Crown Heights,11226,Flatbush,driving,2.5,15
+11213,Crown Heights,11226,Flatbush,bicycling,2.9,17
+11213,Crown Heights,11228,Dyker Heights,driving,8.5,31
+11213,Crown Heights,11228,Dyker Heights,bicycling,7.3,42
+11213,Crown Heights,11229,"Sheepshead Bay, Madison",driving,6.4,30
+11213,Crown Heights,11229,"Sheepshead Bay, Madison",bicycling,6.2,37
+11213,Crown Heights,11230,Midwood,driving,5.6,30
+11213,Crown Heights,11230,Midwood,bicycling,6.0,34
+11213,Crown Heights,11231,"Carroll Gardens, Red Hook",driving,5.0,27
+11213,Crown Heights,11231,"Carroll Gardens, Red Hook",bicycling,4.9,27
+11213,Crown Heights,11232,"Sunset Park, Industry City",driving,5.2,26
+11213,Crown Heights,11232,"Sunset Park, Industry City",bicycling,5.1,30
+11213,Crown Heights,11233,"Bedford-Stuyvesant, Ocean Hill",driving,1.7,11
+11213,Crown Heights,11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,1.7,9
+11213,Crown Heights,11234,"Marine Park, Mill Basin",driving,7.1,26
+11213,Crown Heights,11234,"Marine Park, Mill Basin",bicycling,8.3,43
+11213,Crown Heights,11235,"Brighton Beach, Manhattan Beach",driving,9.7,32
+11213,Crown Heights,11235,"Brighton Beach, Manhattan Beach",bicycling,7.2,43
+11213,Crown Heights,11236,"Canarsie, Bergen Beach",driving,4.3,21
+11213,Crown Heights,11236,"Canarsie, Bergen Beach",bicycling,4.2,24
+11213,Crown Heights,11238,"Prospect Heights, Clinton Hill",driving,1.8,12
+11213,Crown Heights,11238,"Prospect Heights, Clinton Hill",bicycling,1.8,11
+11213,Crown Heights,11239,Starrett City,driving,4.9,23
+11213,Crown Heights,11239,Starrett City,bicycling,4.9,27
+11214,"Bensonhurst, Bath Beach",11201,"Brooklyn Heights, DUMBO",driving,12.0,32
+11214,"Bensonhurst, Bath Beach",11201,"Brooklyn Heights, DUMBO",bicycling,8.3,47
+11214,"Bensonhurst, Bath Beach",11203,"East Flatbush, Erasmus",driving,6.2,35
+11214,"Bensonhurst, Bath Beach",11203,"East Flatbush, Erasmus",bicycling,5.7,33
+11214,"Bensonhurst, Bath Beach",11204,"Bensonhurst, Mapleton",driving,1.4,9
+11214,"Bensonhurst, Bath Beach",11204,"Bensonhurst, Mapleton",bicycling,1.4,8
+11214,"Bensonhurst, Bath Beach",11205,"Fort Greene, Clinton Hill",driving,10.7,34
+11214,"Bensonhurst, Bath Beach",11205,"Fort Greene, Clinton Hill",bicycling,8.2,47
+11214,"Bensonhurst, Bath Beach",11206,"Williamsburg, Bushwick",driving,12.4,39
+11214,"Bensonhurst, Bath Beach",11206,"Williamsburg, Bushwick",bicycling,9.6,56
+11214,"Bensonhurst, Bath Beach",11207,"East New York, Cypress Hills",driving,12.5,29
+11214,"Bensonhurst, Bath Beach",11207,"East New York, Cypress Hills",bicycling,8.1,47
+11214,"Bensonhurst, Bath Beach",11208,"Cypress Hills, East New York",driving,13.4,29
+11214,"Bensonhurst, Bath Beach",11208,"Cypress Hills, East New York",bicycling,10.3,57
+11214,"Bensonhurst, Bath Beach",11209,Bay Ridge,driving,2.4,15
+11214,"Bensonhurst, Bath Beach",11209,Bay Ridge,bicycling,2.4,15
+11214,"Bensonhurst, Bath Beach",11210,"Flatbush, Midwood",driving,3.9,24
+11214,"Bensonhurst, Bath Beach",11210,"Flatbush, Midwood",bicycling,3.8,22
+11214,"Bensonhurst, Bath Beach",11211,Williamsburg,driving,10.9,31
+11214,"Bensonhurst, Bath Beach",11211,Williamsburg,bicycling,9.3,55
+11214,"Bensonhurst, Bath Beach",11212,Brownsville,driving,12.9,35
+11214,"Bensonhurst, Bath Beach",11212,Brownsville,bicycling,8.1,46
+11214,"Bensonhurst, Bath Beach",11213,Crown Heights,driving,10.3,37
+11214,"Bensonhurst, Bath Beach",11213,Crown Heights,bicycling,7.2,42
+11214,"Bensonhurst, Bath Beach",11215,"Park Slope, Gowanus",driving,7.9,24
+11214,"Bensonhurst, Bath Beach",11215,"Park Slope, Gowanus",bicycling,5.7,33
+11214,"Bensonhurst, Bath Beach",11216,"Bedford-Stuyvesant, Crown Heights",driving,10.6,38
+11214,"Bensonhurst, Bath Beach",11216,"Bedford-Stuyvesant, Crown Heights",bicycling,7.1,43
+11214,"Bensonhurst, Bath Beach",11217,"Park Slope, Boerum Hill",driving,7.1,30
+11214,"Bensonhurst, Bath Beach",11217,"Park Slope, Boerum Hill",bicycling,6.9,38
+11214,"Bensonhurst, Bath Beach",11218,"Windsor Terrace, Kensington",driving,7.2,19
+11214,"Bensonhurst, Bath Beach",11218,"Windsor Terrace, Kensington",bicycling,3.6,20
+11214,"Bensonhurst, Bath Beach",11219,Borough Park,driving,2.0,13
+11214,"Bensonhurst, Bath Beach",11219,Borough Park,bicycling,2.0,12
+11214,"Bensonhurst, Bath Beach",11220,"Sunset Park, Greenwood",driving,3.8,15
+11214,"Bensonhurst, Bath Beach",11220,"Sunset Park, Greenwood",bicycling,3.2,20
+11214,"Bensonhurst, Bath Beach",11221,"Bedford-Stuyvesant, Bushwick",driving,15.2,45
+11214,"Bensonhurst, Bath Beach",11221,"Bedford-Stuyvesant, Bushwick",bicycling,9.2,54
+11214,"Bensonhurst, Bath Beach",11222,Greenpoint,driving,12.8,38
+11214,"Bensonhurst, Bath Beach",11222,Greenpoint,bicycling,10.9,63
+11214,"Bensonhurst, Bath Beach",11223,"Gravesend, Homecrest",driving,1.5,10
+11214,"Bensonhurst, Bath Beach",11223,"Gravesend, Homecrest",bicycling,1.5,8
+11214,"Bensonhurst, Bath Beach",11224,Coney Island,driving,2.7,13
+11214,"Bensonhurst, Bath Beach",11224,Coney Island,bicycling,2.8,17
+11214,"Bensonhurst, Bath Beach",11225,"Prospect Lefferts Gardens, Wingate",driving,5.8,33
+11214,"Bensonhurst, Bath Beach",11225,"Prospect Lefferts Gardens, Wingate",bicycling,5.8,33
+11214,"Bensonhurst, Bath Beach",11226,Flatbush,driving,4.6,27
+11214,"Bensonhurst, Bath Beach",11226,Flatbush,bicycling,4.3,26
+11214,"Bensonhurst, Bath Beach",11228,Dyker Heights,driving,1.1,7
+11214,"Bensonhurst, Bath Beach",11228,Dyker Heights,bicycling,2.0,11
+11214,"Bensonhurst, Bath Beach",11229,"Sheepshead Bay, Madison",driving,5.4,19
+11214,"Bensonhurst, Bath Beach",11229,"Sheepshead Bay, Madison",bicycling,3.4,20
+11214,"Bensonhurst, Bath Beach",11230,Midwood,driving,2.5,16
+11214,"Bensonhurst, Bath Beach",11230,Midwood,bicycling,2.5,15
+11214,"Bensonhurst, Bath Beach",11231,"Carroll Gardens, Red Hook",driving,7.4,22
+11214,"Bensonhurst, Bath Beach",11231,"Carroll Gardens, Red Hook",bicycling,7.3,41
+11214,"Bensonhurst, Bath Beach",11232,"Sunset Park, Industry City",driving,4.7,19
+11214,"Bensonhurst, Bath Beach",11232,"Sunset Park, Industry City",bicycling,4.9,29
+11214,"Bensonhurst, Bath Beach",11233,"Bedford-Stuyvesant, Ocean Hill",driving,14.7,41
+11214,"Bensonhurst, Bath Beach",11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,8.7,50
+11214,"Bensonhurst, Bath Beach",11234,"Marine Park, Mill Basin",driving,12.3,21
+11214,"Bensonhurst, Bath Beach",11234,"Marine Park, Mill Basin",bicycling,6.9,37
+11214,"Bensonhurst, Bath Beach",11235,"Brighton Beach, Manhattan Beach",driving,5.4,15
+11214,"Bensonhurst, Bath Beach",11235,"Brighton Beach, Manhattan Beach",bicycling,4.0,23
+11214,"Bensonhurst, Bath Beach",11236,"Canarsie, Bergen Beach",driving,10.4,21
+11214,"Bensonhurst, Bath Beach",11236,"Canarsie, Bergen Beach",bicycling,6.9,39
+11214,"Bensonhurst, Bath Beach",11238,"Prospect Heights, Clinton Hill",driving,9.4,33
+11214,"Bensonhurst, Bath Beach",11238,"Prospect Heights, Clinton Hill",bicycling,7.0,40
+11214,"Bensonhurst, Bath Beach",11239,Starrett City,driving,12.0,22
+11214,"Bensonhurst, Bath Beach",11239,Starrett City,bicycling,11.8,62
+11215,"Park Slope, Gowanus",11201,"Brooklyn Heights, DUMBO",driving,5.4,26
+11215,"Park Slope, Gowanus",11201,"Brooklyn Heights, DUMBO",bicycling,2.9,17
+11215,"Park Slope, Gowanus",11203,"East Flatbush, Erasmus",driving,4.1,22
+11215,"Park Slope, Gowanus",11203,"East Flatbush, Erasmus",bicycling,4.0,22
+11215,"Park Slope, Gowanus",11204,"Bensonhurst, Mapleton",driving,4.7,22
+11215,"Park Slope, Gowanus",11204,"Bensonhurst, Mapleton",bicycling,4.7,25
+11215,"Park Slope, Gowanus",11205,"Fort Greene, Clinton Hill",driving,3.4,18
+11215,"Park Slope, Gowanus",11205,"Fort Greene, Clinton Hill",bicycling,2.8,17
+11215,"Park Slope, Gowanus",11206,"Williamsburg, Bushwick",driving,4.7,27
+11215,"Park Slope, Gowanus",11206,"Williamsburg, Bushwick",bicycling,4.3,26
+11215,"Park Slope, Gowanus",11207,"East New York, Cypress Hills",driving,5.8,29
+11215,"Park Slope, Gowanus",11207,"East New York, Cypress Hills",bicycling,5.5,31
+11215,"Park Slope, Gowanus",11208,"Cypress Hills, East New York",driving,6.5,33
+11215,"Park Slope, Gowanus",11208,"Cypress Hills, East New York",bicycling,6.2,34
+11215,"Park Slope, Gowanus",11209,Bay Ridge,driving,5.9,20
+11215,"Park Slope, Gowanus",11209,Bay Ridge,bicycling,5.3,30
+11215,"Park Slope, Gowanus",11210,"Flatbush, Midwood",driving,4.5,25
+11215,"Park Slope, Gowanus",11210,"Flatbush, Midwood",bicycling,4.7,25
+11215,"Park Slope, Gowanus",11211,Williamsburg,driving,4.3,20
+11215,"Park Slope, Gowanus",11211,Williamsburg,bicycling,3.9,24
+11215,"Park Slope, Gowanus",11212,Brownsville,driving,4.0,22
+11215,"Park Slope, Gowanus",11212,Brownsville,bicycling,4.1,24
+11215,"Park Slope, Gowanus",11213,Crown Heights,driving,2.8,15
+11215,"Park Slope, Gowanus",11213,Crown Heights,bicycling,2.8,17
+11215,"Park Slope, Gowanus",11214,"Bensonhurst, Bath Beach",driving,6.9,25
+11215,"Park Slope, Gowanus",11214,"Bensonhurst, Bath Beach",bicycling,5.7,31
+11215,"Park Slope, Gowanus",11216,"Bedford-Stuyvesant, Crown Heights",driving,3.0,17
+11215,"Park Slope, Gowanus",11216,"Bedford-Stuyvesant, Crown Heights",bicycling,2.6,16
+11215,"Park Slope, Gowanus",11217,"Park Slope, Boerum Hill",driving,1.3,10
+11215,"Park Slope, Gowanus",11217,"Park Slope, Boerum Hill",bicycling,1.3,7
+11215,"Park Slope, Gowanus",11218,"Windsor Terrace, Kensington",driving,1.7,9
+11215,"Park Slope, Gowanus",11218,"Windsor Terrace, Kensington",bicycling,2.2,12
+11215,"Park Slope, Gowanus",11219,Borough Park,driving,3.4,20
+11215,"Park Slope, Gowanus",11219,Borough Park,bicycling,3.7,21
+11215,"Park Slope, Gowanus",11220,"Sunset Park, Greenwood",driving,4.4,16
+11215,"Park Slope, Gowanus",11220,"Sunset Park, Greenwood",bicycling,3.2,18
+11215,"Park Slope, Gowanus",11221,"Bedford-Stuyvesant, Bushwick",driving,4.9,27
+11215,"Park Slope, Gowanus",11221,"Bedford-Stuyvesant, Bushwick",bicycling,3.9,23
+11215,"Park Slope, Gowanus",11222,Greenpoint,driving,6.2,27
+11215,"Park Slope, Gowanus",11222,Greenpoint,bicycling,5.6,33
+11215,"Park Slope, Gowanus",11223,"Gravesend, Homecrest",driving,5.9,27
+11215,"Park Slope, Gowanus",11223,"Gravesend, Homecrest",bicycling,6.1,34
+11215,"Park Slope, Gowanus",11224,Coney Island,driving,10.6,25
+11215,"Park Slope, Gowanus",11224,Coney Island,bicycling,8.1,46
+11215,"Park Slope, Gowanus",11225,"Prospect Lefferts Gardens, Wingate",driving,2.0,13
+11215,"Park Slope, Gowanus",11225,"Prospect Lefferts Gardens, Wingate",bicycling,2.1,11
+11215,"Park Slope, Gowanus",11226,Flatbush,driving,3.1,19
+11215,"Park Slope, Gowanus",11226,Flatbush,bicycling,3.3,18
+11215,"Park Slope, Gowanus",11228,Dyker Heights,driving,5.8,18
+11215,"Park Slope, Gowanus",11228,Dyker Heights,bicycling,5.8,33
+11215,"Park Slope, Gowanus",11229,"Sheepshead Bay, Madison",driving,6.7,31
+11215,"Park Slope, Gowanus",11229,"Sheepshead Bay, Madison",bicycling,6.5,36
+11215,"Park Slope, Gowanus",11230,Midwood,driving,4.4,20
+11215,"Park Slope, Gowanus",11230,Midwood,bicycling,4.6,25
+11215,"Park Slope, Gowanus",11231,"Carroll Gardens, Red Hook",driving,2.2,15
+11215,"Park Slope, Gowanus",11231,"Carroll Gardens, Red Hook",bicycling,2.0,12
+11215,"Park Slope, Gowanus",11232,"Sunset Park, Industry City",driving,2.3,14
+11215,"Park Slope, Gowanus",11232,"Sunset Park, Industry City",bicycling,2.4,15
+11215,"Park Slope, Gowanus",11233,"Bedford-Stuyvesant, Ocean Hill",driving,4.2,24
+11215,"Park Slope, Gowanus",11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,4.1,23
+11215,"Park Slope, Gowanus",11234,"Marine Park, Mill Basin",driving,20.2,34
+11215,"Park Slope, Gowanus",11234,"Marine Park, Mill Basin",bicycling,9.0,49
+11215,"Park Slope, Gowanus",11235,"Brighton Beach, Manhattan Beach",driving,13.4,27
+11215,"Park Slope, Gowanus",11235,"Brighton Beach, Manhattan Beach",bicycling,7.5,42
+11215,"Park Slope, Gowanus",11236,"Canarsie, Bergen Beach",driving,6.5,32
+11215,"Park Slope, Gowanus",11236,"Canarsie, Bergen Beach",bicycling,6.5,37
+11215,"Park Slope, Gowanus",11238,"Prospect Heights, Clinton Hill",driving,1.8,11
+11215,"Park Slope, Gowanus",11238,"Prospect Heights, Clinton Hill",bicycling,1.6,9
+11215,"Park Slope, Gowanus",11239,Starrett City,driving,7.1,35
+11215,"Park Slope, Gowanus",11239,Starrett City,bicycling,7.3,41
+11216,"Bedford-Stuyvesant, Crown Heights",11201,"Brooklyn Heights, DUMBO",driving,5.7,25
+11216,"Bedford-Stuyvesant, Crown Heights",11201,"Brooklyn Heights, DUMBO",bicycling,3.4,21
+11216,"Bedford-Stuyvesant, Crown Heights",11203,"East Flatbush, Erasmus",driving,2.9,17
+11216,"Bedford-Stuyvesant, Crown Heights",11203,"East Flatbush, Erasmus",bicycling,2.8,16
+11216,"Bedford-Stuyvesant, Crown Heights",11204,"Bensonhurst, Mapleton",driving,6.0,33
+11216,"Bedford-Stuyvesant, Crown Heights",11204,"Bensonhurst, Mapleton",bicycling,5.9,34
+11216,"Bedford-Stuyvesant, Crown Heights",11205,"Fort Greene, Clinton Hill",driving,1.4,8
+11216,"Bedford-Stuyvesant, Crown Heights",11205,"Fort Greene, Clinton Hill",bicycling,1.4,9
+11216,"Bedford-Stuyvesant, Crown Heights",11206,"Williamsburg, Bushwick",driving,2.7,17
+11216,"Bedford-Stuyvesant, Crown Heights",11206,"Williamsburg, Bushwick",bicycling,2.8,17
+11216,"Bedford-Stuyvesant, Crown Heights",11207,"East New York, Cypress Hills",driving,3.8,20
+11216,"Bedford-Stuyvesant, Crown Heights",11207,"East New York, Cypress Hills",bicycling,4.2,23
+11216,"Bedford-Stuyvesant, Crown Heights",11208,"Cypress Hills, East New York",driving,4.5,23
+11216,"Bedford-Stuyvesant, Crown Heights",11208,"Cypress Hills, East New York",bicycling,4.9,27
+11216,"Bedford-Stuyvesant, Crown Heights",11209,Bay Ridge,driving,9.4,32
+11216,"Bedford-Stuyvesant, Crown Heights",11209,Bay Ridge,bicycling,7.5,42
+11216,"Bedford-Stuyvesant, Crown Heights",11210,"Flatbush, Midwood",driving,3.7,24
+11216,"Bedford-Stuyvesant, Crown Heights",11210,"Flatbush, Midwood",bicycling,4.6,29
+11216,"Bedford-Stuyvesant, Crown Heights",11211,Williamsburg,driving,2.8,14
+11216,"Bedford-Stuyvesant, Crown Heights",11211,Williamsburg,bicycling,2.5,16
+11216,"Bedford-Stuyvesant, Crown Heights",11212,Brownsville,driving,2.7,16
+11216,"Bedford-Stuyvesant, Crown Heights",11212,Brownsville,bicycling,2.8,17
+11216,"Bedford-Stuyvesant, Crown Heights",11213,Crown Heights,driving,1.1,6
+11216,"Bedford-Stuyvesant, Crown Heights",11213,Crown Heights,bicycling,1.1,7
+11216,"Bedford-Stuyvesant, Crown Heights",11214,"Bensonhurst, Bath Beach",driving,10.4,37
+11216,"Bedford-Stuyvesant, Crown Heights",11214,"Bensonhurst, Bath Beach",bicycling,6.9,39
+11216,"Bedford-Stuyvesant, Crown Heights",11215,"Park Slope, Gowanus",driving,2.7,17
+11216,"Bedford-Stuyvesant, Crown Heights",11215,"Park Slope, Gowanus",bicycling,2.5,16
+11216,"Bedford-Stuyvesant, Crown Heights",11217,"Park Slope, Boerum Hill",driving,2.0,13
+11216,"Bedford-Stuyvesant, Crown Heights",11217,"Park Slope, Boerum Hill",bicycling,2.0,13
+11216,"Bedford-Stuyvesant, Crown Heights",11218,"Windsor Terrace, Kensington",driving,3.9,20
+11216,"Bedford-Stuyvesant, Crown Heights",11218,"Windsor Terrace, Kensington",bicycling,3.4,20
+11216,"Bedford-Stuyvesant, Crown Heights",11219,Borough Park,driving,5.0,31
+11216,"Bedford-Stuyvesant, Crown Heights",11219,Borough Park,bicycling,5.0,29
+11216,"Bedford-Stuyvesant, Crown Heights",11220,"Sunset Park, Greenwood",driving,7.8,28
+11216,"Bedford-Stuyvesant, Crown Heights",11220,"Sunset Park, Greenwood",bicycling,5.3,31
+11216,"Bedford-Stuyvesant, Crown Heights",11221,"Bedford-Stuyvesant, Bushwick",driving,2.5,15
+11216,"Bedford-Stuyvesant, Crown Heights",11221,"Bedford-Stuyvesant, Bushwick",bicycling,2.3,14
+11216,"Bedford-Stuyvesant, Crown Heights",11222,Greenpoint,driving,4.7,21
+11216,"Bedford-Stuyvesant, Crown Heights",11222,Greenpoint,bicycling,4.3,25
+11216,"Bedford-Stuyvesant, Crown Heights",11223,"Gravesend, Homecrest",driving,7.2,38
+11216,"Bedford-Stuyvesant, Crown Heights",11223,"Gravesend, Homecrest",bicycling,7.3,42
+11216,"Bedford-Stuyvesant, Crown Heights",11224,Coney Island,driving,14.1,37
+11216,"Bedford-Stuyvesant, Crown Heights",11224,Coney Island,bicycling,9.3,55
+11216,"Bedford-Stuyvesant, Crown Heights",11225,"Prospect Lefferts Gardens, Wingate",driving,1.3,10
+11216,"Bedford-Stuyvesant, Crown Heights",11225,"Prospect Lefferts Gardens, Wingate",bicycling,1.3,9
+11216,"Bedford-Stuyvesant, Crown Heights",11226,Flatbush,driving,2.5,17
+11216,"Bedford-Stuyvesant, Crown Heights",11226,Flatbush,bicycling,2.7,17
+11216,"Bedford-Stuyvesant, Crown Heights",11228,Dyker Heights,driving,9.3,30
+11216,"Bedford-Stuyvesant, Crown Heights",11228,Dyker Heights,bicycling,7.2,41
+11216,"Bedford-Stuyvesant, Crown Heights",11229,"Sheepshead Bay, Madison",driving,5.7,34
+11216,"Bedford-Stuyvesant, Crown Heights",11229,"Sheepshead Bay, Madison",bicycling,6.1,37
+11216,"Bedford-Stuyvesant, Crown Heights",11230,Midwood,driving,5.3,31
+11216,"Bedford-Stuyvesant, Crown Heights",11230,Midwood,bicycling,5.8,33
+11216,"Bedford-Stuyvesant, Crown Heights",11231,"Carroll Gardens, Red Hook",driving,4.2,24
+11216,"Bedford-Stuyvesant, Crown Heights",11231,"Carroll Gardens, Red Hook",bicycling,4.3,24
+11216,"Bedford-Stuyvesant, Crown Heights",11232,"Sunset Park, Industry City",driving,4.6,25
+11216,"Bedford-Stuyvesant, Crown Heights",11232,"Sunset Park, Industry City",bicycling,4.6,27
+11216,"Bedford-Stuyvesant, Crown Heights",11233,"Bedford-Stuyvesant, Ocean Hill",driving,1.8,11
+11216,"Bedford-Stuyvesant, Crown Heights",11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,2.0,13
+11216,"Bedford-Stuyvesant, Crown Heights",11234,"Marine Park, Mill Basin",driving,9.0,33
+11216,"Bedford-Stuyvesant, Crown Heights",11234,"Marine Park, Mill Basin",bicycling,9.3,50
+11216,"Bedford-Stuyvesant, Crown Heights",11235,"Brighton Beach, Manhattan Beach",driving,6.7,38
+11216,"Bedford-Stuyvesant, Crown Heights",11235,"Brighton Beach, Manhattan Beach",bicycling,7.0,43
+11216,"Bedford-Stuyvesant, Crown Heights",11236,"Canarsie, Bergen Beach",driving,5.3,27
+11216,"Bedford-Stuyvesant, Crown Heights",11236,"Canarsie, Bergen Beach",bicycling,5.2,30
+11216,"Bedford-Stuyvesant, Crown Heights",11238,"Prospect Heights, Clinton Hill",driving,1.0,6
+11216,"Bedford-Stuyvesant, Crown Heights",11238,"Prospect Heights, Clinton Hill",bicycling,1.1,7
+11216,"Bedford-Stuyvesant, Crown Heights",11239,Starrett City,driving,5.5,28
+11216,"Bedford-Stuyvesant, Crown Heights",11239,Starrett City,bicycling,6.0,33
+11217,"Park Slope, Boerum Hill",11201,"Brooklyn Heights, DUMBO",driving,4.4,19
+11217,"Park Slope, Boerum Hill",11201,"Brooklyn Heights, DUMBO",bicycling,1.8,12
+11217,"Park Slope, Boerum Hill",11203,"East Flatbush, Erasmus",driving,4.1,22
+11217,"Park Slope, Boerum Hill",11203,"East Flatbush, Erasmus",bicycling,4.1,24
+11217,"Park Slope, Boerum Hill",11204,"Bensonhurst, Mapleton",driving,5.8,27
+11217,"Park Slope, Boerum Hill",11204,"Bensonhurst, Mapleton",bicycling,5.9,33
+11217,"Park Slope, Boerum Hill",11205,"Fort Greene, Clinton Hill",driving,2.2,15
+11217,"Park Slope, Boerum Hill",11205,"Fort Greene, Clinton Hill",bicycling,2.3,14
+11217,"Park Slope, Boerum Hill",11206,"Williamsburg, Bushwick",driving,4.8,22
+11217,"Park Slope, Boerum Hill",11206,"Williamsburg, Bushwick",bicycling,3.7,23
+11217,"Park Slope, Boerum Hill",11207,"East New York, Cypress Hills",driving,5.4,29
+11217,"Park Slope, Boerum Hill",11207,"East New York, Cypress Hills",bicycling,5.6,32
+11217,"Park Slope, Boerum Hill",11208,"Cypress Hills, East New York",driving,6.2,33
+11217,"Park Slope, Boerum Hill",11208,"Cypress Hills, East New York",bicycling,6.3,36
+11217,"Park Slope, Boerum Hill",11209,Bay Ridge,driving,6.3,22
+11217,"Park Slope, Boerum Hill",11209,Bay Ridge,bicycling,5.8,32
+11217,"Park Slope, Boerum Hill",11210,"Flatbush, Midwood",driving,4.8,25
+11217,"Park Slope, Boerum Hill",11210,"Flatbush, Midwood",bicycling,4.9,28
+11217,"Park Slope, Boerum Hill",11211,Williamsburg,driving,3.3,14
+11217,"Park Slope, Boerum Hill",11211,Williamsburg,bicycling,3.4,22
+11217,"Park Slope, Boerum Hill",11212,Brownsville,driving,4.1,22
+11217,"Park Slope, Boerum Hill",11212,Brownsville,bicycling,4.2,25
+11217,"Park Slope, Boerum Hill",11213,Crown Heights,driving,2.7,15
+11217,"Park Slope, Boerum Hill",11213,Crown Heights,bicycling,2.5,15
+11217,"Park Slope, Boerum Hill",11214,"Bensonhurst, Bath Beach",driving,7.3,28
+11217,"Park Slope, Boerum Hill",11214,"Bensonhurst, Bath Beach",bicycling,7.0,39
+11217,"Park Slope, Boerum Hill",11215,"Park Slope, Gowanus",driving,1.3,9
+11217,"Park Slope, Boerum Hill",11215,"Park Slope, Gowanus",bicycling,1.3,9
+11217,"Park Slope, Boerum Hill",11216,"Bedford-Stuyvesant, Crown Heights",driving,2.1,15
+11217,"Park Slope, Boerum Hill",11216,"Bedford-Stuyvesant, Crown Heights",bicycling,2.0,14
+11217,"Park Slope, Boerum Hill",11218,"Windsor Terrace, Kensington",driving,2.8,15
+11217,"Park Slope, Boerum Hill",11218,"Windsor Terrace, Kensington",bicycling,3.4,19
+11217,"Park Slope, Boerum Hill",11219,Borough Park,driving,4.5,25
+11217,"Park Slope, Boerum Hill",11219,Borough Park,bicycling,4.7,27
+11217,"Park Slope, Boerum Hill",11220,"Sunset Park, Greenwood",driving,4.8,19
+11217,"Park Slope, Boerum Hill",11220,"Sunset Park, Greenwood",bicycling,3.7,21
+11217,"Park Slope, Boerum Hill",11221,"Bedford-Stuyvesant, Bushwick",driving,3.5,24
+11217,"Park Slope, Boerum Hill",11221,"Bedford-Stuyvesant, Bushwick",bicycling,3.2,20
+11217,"Park Slope, Boerum Hill",11222,Greenpoint,driving,5.2,21
+11217,"Park Slope, Boerum Hill",11222,Greenpoint,bicycling,5.0,30
+11217,"Park Slope, Boerum Hill",11223,"Gravesend, Homecrest",driving,7.1,32
+11217,"Park Slope, Boerum Hill",11223,"Gravesend, Homecrest",bicycling,7.3,41
+11217,"Park Slope, Boerum Hill",11224,Coney Island,driving,11.0,28
+11217,"Park Slope, Boerum Hill",11224,Coney Island,bicycling,9.3,53
+11217,"Park Slope, Boerum Hill",11225,"Prospect Lefferts Gardens, Wingate",driving,2.0,13
+11217,"Park Slope, Boerum Hill",11225,"Prospect Lefferts Gardens, Wingate",bicycling,2.2,13
+11217,"Park Slope, Boerum Hill",11226,Flatbush,driving,3.1,19
+11217,"Park Slope, Boerum Hill",11226,Flatbush,bicycling,3.4,20
+11217,"Park Slope, Boerum Hill",11228,Dyker Heights,driving,6.2,21
+11217,"Park Slope, Boerum Hill",11228,Dyker Heights,bicycling,6.3,35
+11217,"Park Slope, Boerum Hill",11229,"Sheepshead Bay, Madison",driving,6.6,33
+11217,"Park Slope, Boerum Hill",11229,"Sheepshead Bay, Madison",bicycling,6.8,39
+11217,"Park Slope, Boerum Hill",11230,Midwood,driving,5.5,25
+11217,"Park Slope, Boerum Hill",11230,Midwood,bicycling,5.8,32
+11217,"Park Slope, Boerum Hill",11231,"Carroll Gardens, Red Hook",driving,2.7,16
+11217,"Park Slope, Boerum Hill",11231,"Carroll Gardens, Red Hook",bicycling,2.5,14
+11217,"Park Slope, Boerum Hill",11232,"Sunset Park, Industry City",driving,2.7,16
+11217,"Park Slope, Boerum Hill",11232,"Sunset Park, Industry City",bicycling,2.9,17
+11217,"Park Slope, Boerum Hill",11233,"Bedford-Stuyvesant, Ocean Hill",driving,3.5,21
+11217,"Park Slope, Boerum Hill",11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,3.5,21
+11217,"Park Slope, Boerum Hill",11234,"Marine Park, Mill Basin",driving,20.6,36
+11217,"Park Slope, Boerum Hill",11234,"Marine Park, Mill Basin",bicycling,10.7,58
+11217,"Park Slope, Boerum Hill",11235,"Brighton Beach, Manhattan Beach",driving,13.8,30
+11217,"Park Slope, Boerum Hill",11235,"Brighton Beach, Manhattan Beach",bicycling,7.7,45
+11217,"Park Slope, Boerum Hill",11236,"Canarsie, Bergen Beach",driving,6.6,32
+11217,"Park Slope, Boerum Hill",11236,"Canarsie, Bergen Beach",bicycling,6.6,39
+11217,"Park Slope, Boerum Hill",11238,"Prospect Heights, Clinton Hill",driving,1.1,8
+11217,"Park Slope, Boerum Hill",11238,"Prospect Heights, Clinton Hill",bicycling,1.0,7
+11217,"Park Slope, Boerum Hill",11239,Starrett City,driving,7.1,35
+11217,"Park Slope, Boerum Hill",11239,Starrett City,bicycling,7.4,42
+11218,"Windsor Terrace, Kensington",11201,"Brooklyn Heights, DUMBO",driving,8.2,21
+11218,"Windsor Terrace, Kensington",11201,"Brooklyn Heights, DUMBO",bicycling,4.4,26
+11218,"Windsor Terrace, Kensington",11203,"East Flatbush, Erasmus",driving,2.8,20
+11218,"Windsor Terrace, Kensington",11203,"East Flatbush, Erasmus",bicycling,3.8,23
+11218,"Windsor Terrace, Kensington",11204,"Bensonhurst, Mapleton",driving,2.3,14
+11218,"Windsor Terrace, Kensington",11204,"Bensonhurst, Mapleton",bicycling,2.4,12
+11218,"Windsor Terrace, Kensington",11205,"Fort Greene, Clinton Hill",driving,4.9,23
+11218,"Windsor Terrace, Kensington",11205,"Fort Greene, Clinton Hill",bicycling,4.7,27
+11218,"Windsor Terrace, Kensington",11206,"Williamsburg, Bushwick",driving,8.6,29
+11218,"Windsor Terrace, Kensington",11206,"Williamsburg, Bushwick",bicycling,6.1,36
+11218,"Windsor Terrace, Kensington",11207,"East New York, Cypress Hills",driving,5.5,35
+11218,"Windsor Terrace, Kensington",11207,"East New York, Cypress Hills",bicycling,6.1,34
+11218,"Windsor Terrace, Kensington",11208,"Cypress Hills, East New York",driving,8.1,38
+11218,"Windsor Terrace, Kensington",11208,"Cypress Hills, East New York",bicycling,6.8,37
+11218,"Windsor Terrace, Kensington",11209,Bay Ridge,driving,6.4,18
+11218,"Windsor Terrace, Kensington",11209,Bay Ridge,bicycling,4.5,27
+11218,"Windsor Terrace, Kensington",11210,"Flatbush, Midwood",driving,3.2,20
+11218,"Windsor Terrace, Kensington",11210,"Flatbush, Midwood",bicycling,3.6,21
+11218,"Windsor Terrace, Kensington",11211,Williamsburg,driving,7.1,20
+11218,"Windsor Terrace, Kensington",11211,Williamsburg,bicycling,5.8,35
+11218,"Windsor Terrace, Kensington",11212,Brownsville,driving,4.3,28
+11218,"Windsor Terrace, Kensington",11212,Brownsville,bicycling,4.5,26
+11218,"Windsor Terrace, Kensington",11213,Crown Heights,driving,4.3,20
+11218,"Windsor Terrace, Kensington",11213,Crown Heights,bicycling,3.7,23
+11218,"Windsor Terrace, Kensington",11214,"Bensonhurst, Bath Beach",driving,3.5,22
+11218,"Windsor Terrace, Kensington",11214,"Bensonhurst, Bath Beach",bicycling,3.7,20
+11218,"Windsor Terrace, Kensington",11215,"Park Slope, Gowanus",driving,1.8,8
+11218,"Windsor Terrace, Kensington",11215,"Park Slope, Gowanus",bicycling,1.7,11
+11218,"Windsor Terrace, Kensington",11216,"Bedford-Stuyvesant, Crown Heights",driving,4.5,22
+11218,"Windsor Terrace, Kensington",11216,"Bedford-Stuyvesant, Crown Heights",bicycling,3.6,23
+11218,"Windsor Terrace, Kensington",11217,"Park Slope, Boerum Hill",driving,3.0,14
+11218,"Windsor Terrace, Kensington",11217,"Park Slope, Boerum Hill",bicycling,3.6,20
+11218,"Windsor Terrace, Kensington",11219,Borough Park,driving,1.7,10
+11218,"Windsor Terrace, Kensington",11219,Borough Park,bicycling,1.7,9
+11218,"Windsor Terrace, Kensington",11220,"Sunset Park, Greenwood",driving,2.4,13
+11218,"Windsor Terrace, Kensington",11220,"Sunset Park, Greenwood",bicycling,2.7,16
+11218,"Windsor Terrace, Kensington",11221,"Bedford-Stuyvesant, Bushwick",driving,6.4,32
+11218,"Windsor Terrace, Kensington",11221,"Bedford-Stuyvesant, Bushwick",bicycling,5.7,34
+11218,"Windsor Terrace, Kensington",11222,Greenpoint,driving,9.0,27
+11218,"Windsor Terrace, Kensington",11222,Greenpoint,bicycling,7.4,43
+11218,"Windsor Terrace, Kensington",11223,"Gravesend, Homecrest",driving,3.8,21
+11218,"Windsor Terrace, Kensington",11223,"Gravesend, Homecrest",bicycling,4.4,26
+11218,"Windsor Terrace, Kensington",11224,Coney Island,driving,11.1,23
+11218,"Windsor Terrace, Kensington",11224,Coney Island,bicycling,6.4,38
+11218,"Windsor Terrace, Kensington",11225,"Prospect Lefferts Gardens, Wingate",driving,2.2,16
+11218,"Windsor Terrace, Kensington",11225,"Prospect Lefferts Gardens, Wingate",bicycling,2.2,13
+11218,"Windsor Terrace, Kensington",11226,Flatbush,driving,2.1,16
+11218,"Windsor Terrace, Kensington",11226,Flatbush,bicycling,2.1,14
+11218,"Windsor Terrace, Kensington",11228,Dyker Heights,driving,3.3,18
+11218,"Windsor Terrace, Kensington",11228,Dyker Heights,bicycling,3.9,21
+11218,"Windsor Terrace, Kensington",11229,"Sheepshead Bay, Madison",driving,5.1,25
+11218,"Windsor Terrace, Kensington",11229,"Sheepshead Bay, Madison",bicycling,5.2,31
+11218,"Windsor Terrace, Kensington",11230,Midwood,driving,2.9,14
+11218,"Windsor Terrace, Kensington",11230,Midwood,bicycling,2.9,17
+11218,"Windsor Terrace, Kensington",11231,"Carroll Gardens, Red Hook",driving,3.2,11
+11218,"Windsor Terrace, Kensington",11231,"Carroll Gardens, Red Hook",bicycling,3.4,20
+11218,"Windsor Terrace, Kensington",11232,"Sunset Park, Industry City",driving,1.9,9
+11218,"Windsor Terrace, Kensington",11232,"Sunset Park, Industry City",bicycling,2.2,13
+11218,"Windsor Terrace, Kensington",11233,"Bedford-Stuyvesant, Ocean Hill",driving,5.7,29
+11218,"Windsor Terrace, Kensington",11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,5.2,30
+11218,"Windsor Terrace, Kensington",11234,"Marine Park, Mill Basin",driving,20.8,31
+11218,"Windsor Terrace, Kensington",11234,"Marine Park, Mill Basin",bicycling,7.6,43
+11218,"Windsor Terrace, Kensington",11235,"Brighton Beach, Manhattan Beach",driving,13.9,25
+11218,"Windsor Terrace, Kensington",11235,"Brighton Beach, Manhattan Beach",bicycling,6.3,37
+11218,"Windsor Terrace, Kensington",11236,"Canarsie, Bergen Beach",driving,18.9,31
+11218,"Windsor Terrace, Kensington",11236,"Canarsie, Bergen Beach",bicycling,5.9,35
+11218,"Windsor Terrace, Kensington",11238,"Prospect Heights, Clinton Hill",driving,3.3,17
+11218,"Windsor Terrace, Kensington",11238,"Prospect Heights, Clinton Hill",bicycling,3.5,20
+11218,"Windsor Terrace, Kensington",11239,Starrett City,driving,20.5,32
+11218,"Windsor Terrace, Kensington",11239,Starrett City,bicycling,7.9,43
+11219,Borough Park,11201,"Brooklyn Heights, DUMBO",driving,10.5,30
+11219,Borough Park,11201,"Brooklyn Heights, DUMBO",bicycling,6.1,34
+11219,Borough Park,11203,"East Flatbush, Erasmus",driving,4.4,30
+11219,Borough Park,11203,"East Flatbush, Erasmus",bicycling,4.8,29
+11219,Borough Park,11204,"Bensonhurst, Mapleton",driving,1.4,9
+11219,Borough Park,11204,"Bensonhurst, Mapleton",bicycling,1.4,9
+11219,Borough Park,11205,"Fort Greene, Clinton Hill",driving,9.1,33
+11219,Borough Park,11205,"Fort Greene, Clinton Hill",bicycling,6.2,36
+11219,Borough Park,11206,"Williamsburg, Bushwick",driving,10.9,38
+11219,Borough Park,11206,"Williamsburg, Bushwick",bicycling,7.7,45
+11219,Borough Park,11207,"East New York, Cypress Hills",driving,15.6,39
+11219,Borough Park,11207,"East New York, Cypress Hills",bicycling,7.7,43
+11219,Borough Park,11208,"Cypress Hills, East New York",driving,16.5,39
+11219,Borough Park,11208,"Cypress Hills, East New York",bicycling,8.4,47
+11219,Borough Park,11209,Bay Ridge,driving,2.6,17
+11219,Borough Park,11209,Bay Ridge,bicycling,2.8,17
+11219,Borough Park,11210,"Flatbush, Midwood",driving,4.0,26
+11219,Borough Park,11210,"Flatbush, Midwood",bicycling,4.0,23
+11219,Borough Park,11211,Williamsburg,driving,9.4,29
+11219,Borough Park,11211,Williamsburg,bicycling,7.4,44
+11219,Borough Park,11212,Brownsville,driving,5.9,38
+11219,Borough Park,11212,Brownsville,bicycling,6.1,35
+11219,Borough Park,11213,Crown Heights,driving,5.5,32
+11219,Borough Park,11213,Crown Heights,bicycling,5.3,32
+11219,Borough Park,11214,"Bensonhurst, Bath Beach",driving,2.2,15
+11219,Borough Park,11214,"Bensonhurst, Bath Beach",bicycling,3.0,17
+11219,Borough Park,11215,"Park Slope, Gowanus",driving,3.6,19
+11219,Borough Park,11215,"Park Slope, Gowanus",bicycling,4.0,23
+11219,Borough Park,11216,"Bedford-Stuyvesant, Crown Heights",driving,5.8,34
+11219,Borough Park,11216,"Bedford-Stuyvesant, Crown Heights",bicycling,5.2,33
+11219,Borough Park,11217,"Park Slope, Boerum Hill",driving,4.7,25
+11219,Borough Park,11217,"Park Slope, Boerum Hill",bicycling,4.7,26
+11219,Borough Park,11218,"Windsor Terrace, Kensington",driving,1.7,11
+11219,Borough Park,11218,"Windsor Terrace, Kensington",bicycling,1.7,10
+11219,Borough Park,11220,"Sunset Park, Greenwood",driving,1.2,8
+11219,Borough Park,11220,"Sunset Park, Greenwood",bicycling,1.2,8
+11219,Borough Park,11221,"Bedford-Stuyvesant, Bushwick",driving,7.7,44
+11219,Borough Park,11221,"Bedford-Stuyvesant, Bushwick",bicycling,7.3,43
+11219,Borough Park,11222,Greenpoint,driving,11.3,36
+11219,Borough Park,11222,Greenpoint,bicycling,9.0,52
+11219,Borough Park,11223,"Gravesend, Homecrest",driving,3.1,18
+11219,Borough Park,11223,"Gravesend, Homecrest",bicycling,2.8,18
+11219,Borough Park,11224,Coney Island,driving,5.7,23
+11219,Borough Park,11224,Coney Island,bicycling,5.1,31
+11219,Borough Park,11225,"Prospect Lefferts Gardens, Wingate",driving,3.8,26
+11219,Borough Park,11225,"Prospect Lefferts Gardens, Wingate",bicycling,3.8,23
+11219,Borough Park,11226,Flatbush,driving,3.3,25
+11219,Borough Park,11226,Flatbush,bicycling,3.4,21
+11219,Borough Park,11228,Dyker Heights,driving,1.9,11
+11219,Borough Park,11228,Dyker Heights,bicycling,2.4,13
+11219,Borough Park,11229,"Sheepshead Bay, Madison",driving,4.8,27
+11219,Borough Park,11229,"Sheepshead Bay, Madison",bicycling,5.5,33
+11219,Borough Park,11230,Midwood,driving,2.6,17
+11219,Borough Park,11230,Midwood,bicycling,3.2,19
+11219,Borough Park,11231,"Carroll Gardens, Red Hook",driving,5.8,20
+11219,Borough Park,11231,"Carroll Gardens, Red Hook",bicycling,5.1,28
+11219,Borough Park,11232,"Sunset Park, Industry City",driving,2.2,15
+11219,Borough Park,11232,"Sunset Park, Industry City",bicycling,2.7,16
+11219,Borough Park,11233,"Bedford-Stuyvesant, Ocean Hill",driving,7.0,41
+11219,Borough Park,11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,6.7,39
+11219,Borough Park,11234,"Marine Park, Mill Basin",driving,15.3,31
+11219,Borough Park,11234,"Marine Park, Mill Basin",bicycling,8.0,45
+11219,Borough Park,11235,"Brighton Beach, Manhattan Beach",driving,8.5,25
+11219,Borough Park,11235,"Brighton Beach, Manhattan Beach",bicycling,6.7,39
+11219,Borough Park,11236,"Canarsie, Bergen Beach",driving,13.5,31
+11219,Borough Park,11236,"Canarsie, Bergen Beach",bicycling,7.1,42
+11219,Borough Park,11238,"Prospect Heights, Clinton Hill",driving,5.0,28
+11219,Borough Park,11238,"Prospect Heights, Clinton Hill",bicycling,5.1,29
+11219,Borough Park,11239,Starrett City,driving,15.0,32
+11219,Borough Park,11239,Starrett City,bicycling,9.5,53
+11220,"Sunset Park, Greenwood",11201,"Brooklyn Heights, DUMBO",driving,9.5,23
+11220,"Sunset Park, Greenwood",11201,"Brooklyn Heights, DUMBO",bicycling,5.2,28
+11220,"Sunset Park, Greenwood",11203,"East Flatbush, Erasmus",driving,7.3,29
+11220,"Sunset Park, Greenwood",11203,"East Flatbush, Erasmus",bicycling,5.7,34
+11220,"Sunset Park, Greenwood",11204,"Bensonhurst, Mapleton",driving,2.1,13
+11220,"Sunset Park, Greenwood",11204,"Bensonhurst, Mapleton",bicycling,2.3,14
+11220,"Sunset Park, Greenwood",11205,"Fort Greene, Clinton Hill",driving,8.1,26
+11220,"Sunset Park, Greenwood",11205,"Fort Greene, Clinton Hill",bicycling,5.8,31
+11220,"Sunset Park, Greenwood",11206,"Williamsburg, Bushwick",driving,9.9,31
+11220,"Sunset Park, Greenwood",11206,"Williamsburg, Bushwick",bicycling,7.2,40
+11220,"Sunset Park, Greenwood",11207,"East New York, Cypress Hills",driving,17.5,34
+11220,"Sunset Park, Greenwood",11207,"East New York, Cypress Hills",bicycling,8.5,46
+11220,"Sunset Park, Greenwood",11208,"Cypress Hills, East New York",driving,18.5,34
+11220,"Sunset Park, Greenwood",11208,"Cypress Hills, East New York",bicycling,9.2,50
+11220,"Sunset Park, Greenwood",11209,Bay Ridge,driving,2.2,10
+11220,"Sunset Park, Greenwood",11209,Bay Ridge,bicycling,2.3,13
+11220,"Sunset Park, Greenwood",11210,"Flatbush, Midwood",driving,7.6,27
+11220,"Sunset Park, Greenwood",11210,"Flatbush, Midwood",bicycling,5.0,29
+11220,"Sunset Park, Greenwood",11211,Williamsburg,driving,8.4,22
+11220,"Sunset Park, Greenwood",11211,Williamsburg,bicycling,6.9,39
+11220,"Sunset Park, Greenwood",11212,Brownsville,driving,9.1,35
+11220,"Sunset Park, Greenwood",11212,Brownsville,bicycling,7.1,40
+11220,"Sunset Park, Greenwood",11213,Crown Heights,driving,7.8,28
+11220,"Sunset Park, Greenwood",11213,Crown Heights,bicycling,6.0,32
+11220,"Sunset Park, Greenwood",11214,"Bensonhurst, Bath Beach",driving,3.2,15
+11220,"Sunset Park, Greenwood",11214,"Bensonhurst, Bath Beach",bicycling,3.4,18
+11220,"Sunset Park, Greenwood",11215,"Park Slope, Gowanus",driving,5.4,16
+11220,"Sunset Park, Greenwood",11215,"Park Slope, Gowanus",bicycling,3.1,17
+11220,"Sunset Park, Greenwood",11216,"Bedford-Stuyvesant, Crown Heights",driving,8.0,30
+11220,"Sunset Park, Greenwood",11216,"Bedford-Stuyvesant, Crown Heights",bicycling,5.5,31
+11220,"Sunset Park, Greenwood",11217,"Park Slope, Boerum Hill",driving,4.0,22
+11220,"Sunset Park, Greenwood",11217,"Park Slope, Boerum Hill",bicycling,3.8,19
+11220,"Sunset Park, Greenwood",11218,"Windsor Terrace, Kensington",driving,4.6,11
+11220,"Sunset Park, Greenwood",11218,"Windsor Terrace, Kensington",bicycling,2.7,15
+11220,"Sunset Park, Greenwood",11219,Borough Park,driving,1.4,10
+11220,"Sunset Park, Greenwood",11219,Borough Park,bicycling,1.4,8
+11220,"Sunset Park, Greenwood",11221,"Bedford-Stuyvesant, Bushwick",driving,10.0,39
+11220,"Sunset Park, Greenwood",11221,"Bedford-Stuyvesant, Bushwick",bicycling,6.7,37
+11220,"Sunset Park, Greenwood",11222,Greenpoint,driving,10.3,29
+11220,"Sunset Park, Greenwood",11222,Greenpoint,bicycling,8.5,47
+11220,"Sunset Park, Greenwood",11223,"Gravesend, Homecrest",driving,4.0,21
+11220,"Sunset Park, Greenwood",11223,"Gravesend, Homecrest",bicycling,3.7,23
+11220,"Sunset Park, Greenwood",11224,Coney Island,driving,7.7,17
+11220,"Sunset Park, Greenwood",11224,Coney Island,bicycling,6.8,37
+11220,"Sunset Park, Greenwood",11225,"Prospect Lefferts Gardens, Wingate",driving,6.7,25
+11220,"Sunset Park, Greenwood",11225,"Prospect Lefferts Gardens, Wingate",bicycling,5.1,27
+11220,"Sunset Park, Greenwood",11226,Flatbush,driving,6.5,22
+11220,"Sunset Park, Greenwood",11226,Flatbush,bicycling,4.4,26
+11220,"Sunset Park, Greenwood",11228,Dyker Heights,driving,2.1,8
+11220,"Sunset Park, Greenwood",11228,Dyker Heights,bicycling,2.7,15
+11220,"Sunset Park, Greenwood",11229,"Sheepshead Bay, Madison",driving,10.4,24
+11220,"Sunset Park, Greenwood",11229,"Sheepshead Bay, Madison",bicycling,5.7,34
+11220,"Sunset Park, Greenwood",11230,Midwood,driving,3.4,22
+11220,"Sunset Park, Greenwood",11230,Midwood,bicycling,4.3,25
+11220,"Sunset Park, Greenwood",11231,"Carroll Gardens, Red Hook",driving,4.8,13
+11220,"Sunset Park, Greenwood",11231,"Carroll Gardens, Red Hook",bicycling,4.2,22
+11220,"Sunset Park, Greenwood",11232,"Sunset Park, Industry City",driving,1.6,9
+11220,"Sunset Park, Greenwood",11232,"Sunset Park, Industry City",bicycling,1.8,10
+11220,"Sunset Park, Greenwood",11233,"Bedford-Stuyvesant, Ocean Hill",driving,9.2,37
+11220,"Sunset Park, Greenwood",11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,7.0,38
+11220,"Sunset Park, Greenwood",11234,"Marine Park, Mill Basin",driving,17.3,26
+11220,"Sunset Park, Greenwood",11234,"Marine Park, Mill Basin",bicycling,9.7,55
+11220,"Sunset Park, Greenwood",11235,"Brighton Beach, Manhattan Beach",driving,10.4,19
+11220,"Sunset Park, Greenwood",11235,"Brighton Beach, Manhattan Beach",bicycling,6.9,41
+11220,"Sunset Park, Greenwood",11236,"Canarsie, Bergen Beach",driving,15.4,25
+11220,"Sunset Park, Greenwood",11236,"Canarsie, Bergen Beach",bicycling,9.5,53
+11220,"Sunset Park, Greenwood",11238,"Prospect Heights, Clinton Hill",driving,6.8,24
+11220,"Sunset Park, Greenwood",11238,"Prospect Heights, Clinton Hill",bicycling,4.5,24
+11220,"Sunset Park, Greenwood",11239,Starrett City,driving,17.0,27
+11220,"Sunset Park, Greenwood",11239,Starrett City,bicycling,10.3,56
+11221,"Bedford-Stuyvesant, Bushwick",11201,"Brooklyn Heights, DUMBO",driving,6.8,30
+11221,"Bedford-Stuyvesant, Bushwick",11201,"Brooklyn Heights, DUMBO",bicycling,4.1,24
+11221,"Bedford-Stuyvesant, Bushwick",11203,"East Flatbush, Erasmus",driving,3.4,19
+11221,"Bedford-Stuyvesant, Bushwick",11203,"East Flatbush, Erasmus",bicycling,3.1,20
+11221,"Bedford-Stuyvesant, Bushwick",11204,"Bensonhurst, Mapleton",driving,8.1,42
+11221,"Bedford-Stuyvesant, Bushwick",11204,"Bensonhurst, Mapleton",bicycling,7.6,44
+11221,"Bedford-Stuyvesant, Bushwick",11205,"Fort Greene, Clinton Hill",driving,2.0,12
+11221,"Bedford-Stuyvesant, Bushwick",11205,"Fort Greene, Clinton Hill",bicycling,2.0,12
+11221,"Bedford-Stuyvesant, Bushwick",11206,"Williamsburg, Bushwick",driving,1.4,11
+11221,"Bedford-Stuyvesant, Bushwick",11206,"Williamsburg, Bushwick",bicycling,2.1,13
+11221,"Bedford-Stuyvesant, Bushwick",11207,"East New York, Cypress Hills",driving,3.4,18
+11221,"Bedford-Stuyvesant, Bushwick",11207,"East New York, Cypress Hills",bicycling,3.5,20
+11221,"Bedford-Stuyvesant, Bushwick",11208,"Cypress Hills, East New York",driving,4.1,22
+11221,"Bedford-Stuyvesant, Bushwick",11208,"Cypress Hills, East New York",bicycling,4.2,23
+11221,"Bedford-Stuyvesant, Bushwick",11209,Bay Ridge,driving,11.7,41
+11221,"Bedford-Stuyvesant, Bushwick",11209,Bay Ridge,bicycling,9.0,51
+11221,"Bedford-Stuyvesant, Bushwick",11210,"Flatbush, Midwood",driving,5.4,29
+11221,"Bedford-Stuyvesant, Bushwick",11210,"Flatbush, Midwood",bicycling,5.4,33
+11221,"Bedford-Stuyvesant, Bushwick",11211,Williamsburg,driving,3.4,18
+11221,"Bedford-Stuyvesant, Bushwick",11211,Williamsburg,bicycling,2.6,17
+11221,"Bedford-Stuyvesant, Bushwick",11212,Brownsville,driving,2.3,15
+11221,"Bedford-Stuyvesant, Bushwick",11212,Brownsville,bicycling,2.4,16
+11221,"Bedford-Stuyvesant, Bushwick",11213,Crown Heights,driving,1.9,10
+11221,"Bedford-Stuyvesant, Bushwick",11213,Crown Heights,bicycling,2.0,13
+11221,"Bedford-Stuyvesant, Bushwick",11214,"Bensonhurst, Bath Beach",driving,15.5,45
+11221,"Bedford-Stuyvesant, Bushwick",11214,"Bensonhurst, Bath Beach",bicycling,8.6,50
+11221,"Bedford-Stuyvesant, Bushwick",11215,"Park Slope, Gowanus",driving,5.0,26
+11221,"Bedford-Stuyvesant, Bushwick",11215,"Park Slope, Gowanus",bicycling,3.9,24
+11221,"Bedford-Stuyvesant, Bushwick",11216,"Bedford-Stuyvesant, Crown Heights",driving,2.1,13
+11221,"Bedford-Stuyvesant, Bushwick",11216,"Bedford-Stuyvesant, Crown Heights",bicycling,1.9,13
+11221,"Bedford-Stuyvesant, Bushwick",11217,"Park Slope, Boerum Hill",driving,3.7,23
+11221,"Bedford-Stuyvesant, Bushwick",11217,"Park Slope, Boerum Hill",bicycling,3.6,22
+11221,"Bedford-Stuyvesant, Bushwick",11218,"Windsor Terrace, Kensington",driving,6.0,30
+11221,"Bedford-Stuyvesant, Bushwick",11218,"Windsor Terrace, Kensington",bicycling,5.1,30
+11221,"Bedford-Stuyvesant, Bushwick",11219,Borough Park,driving,7.1,40
+11221,"Bedford-Stuyvesant, Bushwick",11219,Borough Park,bicycling,6.7,39
+11221,"Bedford-Stuyvesant, Bushwick",11220,"Sunset Park, Greenwood",driving,10.1,37
+11221,"Bedford-Stuyvesant, Bushwick",11220,"Sunset Park, Greenwood",bicycling,6.7,39
+11221,"Bedford-Stuyvesant, Bushwick",11222,Greenpoint,driving,3.3,22
+11221,"Bedford-Stuyvesant, Bushwick",11222,Greenpoint,bicycling,3.8,22
+11221,"Bedford-Stuyvesant, Bushwick",11223,"Gravesend, Homecrest",driving,14.4,45
+11221,"Bedford-Stuyvesant, Bushwick",11223,"Gravesend, Homecrest",bicycling,9.1,53
+11221,"Bedford-Stuyvesant, Bushwick",11224,Coney Island,driving,14.5,43
+11221,"Bedford-Stuyvesant, Bushwick",11224,Coney Island,bicycling,11.0,65
+11221,"Bedford-Stuyvesant, Bushwick",11225,"Prospect Lefferts Gardens, Wingate",driving,3.4,20
+11221,"Bedford-Stuyvesant, Bushwick",11225,"Prospect Lefferts Gardens, Wingate",bicycling,3.3,21
+11221,"Bedford-Stuyvesant, Bushwick",11226,Flatbush,driving,4.4,24
+11221,"Bedford-Stuyvesant, Bushwick",11226,Flatbush,bicycling,4.7,28
+11221,"Bedford-Stuyvesant, Bushwick",11228,Dyker Heights,driving,11.6,39
+11221,"Bedford-Stuyvesant, Bushwick",11228,Dyker Heights,bicycling,8.9,51
+11221,"Bedford-Stuyvesant, Bushwick",11229,"Sheepshead Bay, Madison",driving,7.2,37
+11221,"Bedford-Stuyvesant, Bushwick",11229,"Sheepshead Bay, Madison",bicycling,8.1,48
+11221,"Bedford-Stuyvesant, Bushwick",11230,Midwood,driving,7.1,39
+11221,"Bedford-Stuyvesant, Bushwick",11230,Midwood,bicycling,7.5,44
+11221,"Bedford-Stuyvesant, Bushwick",11231,"Carroll Gardens, Red Hook",driving,6.0,34
+11221,"Bedford-Stuyvesant, Bushwick",11231,"Carroll Gardens, Red Hook",bicycling,5.6,32
+11221,"Bedford-Stuyvesant, Bushwick",11232,"Sunset Park, Industry City",driving,6.3,35
+11221,"Bedford-Stuyvesant, Bushwick",11232,"Sunset Park, Industry City",bicycling,6.2,36
+11221,"Bedford-Stuyvesant, Bushwick",11233,"Bedford-Stuyvesant, Ocean Hill",driving,1.0,6
+11221,"Bedford-Stuyvesant, Bushwick",11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,1.0,6
+11221,"Bedford-Stuyvesant, Bushwick",11234,"Marine Park, Mill Basin",driving,8.6,31
+11221,"Bedford-Stuyvesant, Bushwick",11234,"Marine Park, Mill Basin",bicycling,8.9,49
+11221,"Bedford-Stuyvesant, Bushwick",11235,"Brighton Beach, Manhattan Beach",driving,11.2,37
+11221,"Bedford-Stuyvesant, Bushwick",11235,"Brighton Beach, Manhattan Beach",bicycling,9.0,54
+11221,"Bedford-Stuyvesant, Bushwick",11236,"Canarsie, Bergen Beach",driving,5.1,28
+11221,"Bedford-Stuyvesant, Bushwick",11236,"Canarsie, Bergen Beach",bicycling,4.8,30
+11221,"Bedford-Stuyvesant, Bushwick",11238,"Prospect Heights, Clinton Hill",driving,2.7,16
+11221,"Bedford-Stuyvesant, Bushwick",11238,"Prospect Heights, Clinton Hill",bicycling,2.6,16
+11221,"Bedford-Stuyvesant, Bushwick",11239,Starrett City,driving,5.1,27
+11221,"Bedford-Stuyvesant, Bushwick",11239,Starrett City,bicycling,5.3,30
+11222,Greenpoint,11201,"Brooklyn Heights, DUMBO",driving,5.3,20
+11222,Greenpoint,11201,"Brooklyn Heights, DUMBO",bicycling,4.2,24
+11222,Greenpoint,11203,"East Flatbush, Erasmus",driving,6.0,36
+11222,Greenpoint,11203,"East Flatbush, Erasmus",bicycling,6.2,39
+11222,Greenpoint,11204,"Bensonhurst, Mapleton",driving,11.8,35
+11222,Greenpoint,11204,"Bensonhurst, Mapleton",bicycling,9.9,57
+11222,Greenpoint,11205,"Fort Greene, Clinton Hill",driving,2.9,13
+11222,Greenpoint,11205,"Fort Greene, Clinton Hill",bicycling,3.0,18
+11222,Greenpoint,11206,"Williamsburg, Bushwick",driving,1.9,13
+11222,Greenpoint,11206,"Williamsburg, Bushwick",bicycling,2.0,12
+11222,Greenpoint,11207,"East New York, Cypress Hills",driving,5.8,36
+11222,Greenpoint,11207,"East New York, Cypress Hills",bicycling,7.2,42
+11222,Greenpoint,11208,"Cypress Hills, East New York",driving,10.0,36
+11222,Greenpoint,11208,"Cypress Hills, East New York",bicycling,7.3,47
+11222,Greenpoint,11209,Bay Ridge,driving,11.6,31
+11222,Greenpoint,11209,Bay Ridge,bicycling,10.2,59
+11222,Greenpoint,11210,"Flatbush, Midwood",driving,11.6,40
+11222,Greenpoint,11210,"Flatbush, Midwood",bicycling,8.5,52
+11222,Greenpoint,11211,Williamsburg,driving,2.9,9
+11222,Greenpoint,11211,Williamsburg,bicycling,2.1,12
+11222,Greenpoint,11212,Brownsville,driving,5.2,34
+11222,Greenpoint,11212,Brownsville,bicycling,6.1,38
+11222,Greenpoint,11213,Crown Heights,driving,4.1,25
+11222,Greenpoint,11213,Crown Heights,bicycling,4.4,29
+11222,Greenpoint,11214,"Bensonhurst, Bath Beach",driving,12.6,36
+11222,Greenpoint,11214,"Bensonhurst, Bath Beach",bicycling,11.0,62
+11222,Greenpoint,11215,"Park Slope, Gowanus",driving,6.2,27
+11222,Greenpoint,11215,"Park Slope, Gowanus",bicycling,5.7,36
+11222,Greenpoint,11216,"Bedford-Stuyvesant, Crown Heights",driving,4.4,22
+11222,Greenpoint,11216,"Bedford-Stuyvesant, Crown Heights",bicycling,4.0,26
+11222,Greenpoint,11217,"Park Slope, Boerum Hill",driving,5.0,21
+11222,Greenpoint,11217,"Park Slope, Boerum Hill",bicycling,4.8,30
+11222,Greenpoint,11218,"Windsor Terrace, Kensington",driving,8.6,25
+11222,Greenpoint,11218,"Windsor Terrace, Kensington",bicycling,7.4,43
+11222,Greenpoint,11219,Borough Park,driving,11.5,35
+11222,Greenpoint,11219,Borough Park,bicycling,9.0,52
+11222,Greenpoint,11220,"Sunset Park, Greenwood",driving,10.0,27
+11222,Greenpoint,11220,"Sunset Park, Greenwood",bicycling,8.6,50
+11222,Greenpoint,11221,"Bedford-Stuyvesant, Bushwick",driving,3.3,22
+11222,Greenpoint,11221,"Bedford-Stuyvesant, Bushwick",bicycling,4.2,25
+11222,Greenpoint,11223,"Gravesend, Homecrest",driving,12.8,41
+11222,Greenpoint,11223,"Gravesend, Homecrest",bicycling,11.4,65
+11222,Greenpoint,11224,Coney Island,driving,16.3,36
+11222,Greenpoint,11224,Coney Island,bicycling,13.3,78
+11222,Greenpoint,11225,"Prospect Lefferts Gardens, Wingate",driving,5.2,27
+11222,Greenpoint,11225,"Prospect Lefferts Gardens, Wingate",bicycling,5.2,33
+11222,Greenpoint,11226,Flatbush,driving,6.6,35
+11222,Greenpoint,11226,Flatbush,bicycling,6.6,40
+11222,Greenpoint,11228,Dyker Heights,driving,11.5,29
+11222,Greenpoint,11228,Dyker Heights,bicycling,11.2,64
+11222,Greenpoint,11229,"Sheepshead Bay, Madison",driving,19.0,43
+11222,Greenpoint,11229,"Sheepshead Bay, Madison",bicycling,10.0,60
+11222,Greenpoint,11230,Midwood,driving,11.2,34
+11222,Greenpoint,11230,Midwood,bicycling,9.8,57
+11222,Greenpoint,11231,"Carroll Gardens, Red Hook",driving,7.0,24
+11222,Greenpoint,11231,"Carroll Gardens, Red Hook",bicycling,7.0,36
+11222,Greenpoint,11232,"Sunset Park, Industry City",driving,8.0,26
+11222,Greenpoint,11232,"Sunset Park, Industry City",bicycling,7.4,44
+11222,Greenpoint,11233,"Bedford-Stuyvesant, Ocean Hill",driving,4.0,26
+11222,Greenpoint,11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,4.9,30
+11222,Greenpoint,11234,"Marine Park, Mill Basin",driving,20.5,39
+11222,Greenpoint,11234,"Marine Park, Mill Basin",bicycling,12.7,72
+11222,Greenpoint,11235,"Brighton Beach, Manhattan Beach",driving,19.0,38
+11222,Greenpoint,11235,"Brighton Beach, Manhattan Beach",bicycling,10.9,66
+11222,Greenpoint,11236,"Canarsie, Bergen Beach",driving,18.7,40
+11222,Greenpoint,11236,"Canarsie, Bergen Beach",bicycling,8.6,52
+11222,Greenpoint,11238,"Prospect Heights, Clinton Hill",driving,4.2,19
+11222,Greenpoint,11238,"Prospect Heights, Clinton Hill",bicycling,4.4,28
+11222,Greenpoint,11239,Starrett City,driving,16.6,37
+11222,Greenpoint,11239,Starrett City,bicycling,9.0,52
+11223,"Gravesend, Homecrest",11201,"Brooklyn Heights, DUMBO",driving,12.0,36
+11223,"Gravesend, Homecrest",11201,"Brooklyn Heights, DUMBO",bicycling,8.7,52
+11223,"Gravesend, Homecrest",11203,"East Flatbush, Erasmus",driving,5.4,30
+11223,"Gravesend, Homecrest",11203,"East Flatbush, Erasmus",bicycling,5.6,36
+11223,"Gravesend, Homecrest",11204,"Bensonhurst, Mapleton",driving,1.6,8
+11223,"Gravesend, Homecrest",11204,"Bensonhurst, Mapleton",bicycling,1.6,10
+11223,"Gravesend, Homecrest",11205,"Fort Greene, Clinton Hill",driving,8.7,39
+11223,"Gravesend, Homecrest",11205,"Fort Greene, Clinton Hill",bicycling,8.2,48
+11223,"Gravesend, Homecrest",11206,"Williamsburg, Bushwick",driving,12.4,44
+11223,"Gravesend, Homecrest",11206,"Williamsburg, Bushwick",bicycling,9.6,57
+11223,"Gravesend, Homecrest",11207,"East New York, Cypress Hills",driving,11.4,29
+11223,"Gravesend, Homecrest",11207,"East New York, Cypress Hills",bicycling,9.6,55
+11223,"Gravesend, Homecrest",11208,"Cypress Hills, East New York",driving,12.3,29
+11223,"Gravesend, Homecrest",11208,"Cypress Hills, East New York",bicycling,10.3,59
+11223,"Gravesend, Homecrest",11209,Bay Ridge,driving,4.8,20
+11223,"Gravesend, Homecrest",11209,Bay Ridge,bicycling,4.0,27
+11223,"Gravesend, Homecrest",11210,"Flatbush, Midwood",driving,3.7,19
+11223,"Gravesend, Homecrest",11210,"Flatbush, Midwood",bicycling,3.7,23
+11223,"Gravesend, Homecrest",11211,Williamsburg,driving,10.9,35
+11223,"Gravesend, Homecrest",11211,Williamsburg,bicycling,9.3,56
+11223,"Gravesend, Homecrest",11212,Brownsville,driving,6.5,34
+11223,"Gravesend, Homecrest",11212,Brownsville,bicycling,8.1,47
+11223,"Gravesend, Homecrest",11213,Crown Heights,driving,8.0,36
+11223,"Gravesend, Homecrest",11213,Crown Heights,bicycling,7.3,44
+11223,"Gravesend, Homecrest",11214,"Bensonhurst, Bath Beach",driving,1.4,10
+11223,"Gravesend, Homecrest",11214,"Bensonhurst, Bath Beach",bicycling,1.5,10
+11223,"Gravesend, Homecrest",11215,"Park Slope, Gowanus",driving,5.6,23
+11223,"Gravesend, Homecrest",11215,"Park Slope, Gowanus",bicycling,5.7,34
+11223,"Gravesend, Homecrest",11216,"Bedford-Stuyvesant, Crown Heights",driving,8.3,38
+11223,"Gravesend, Homecrest",11216,"Bedford-Stuyvesant, Crown Heights",bicycling,7.1,45
+11223,"Gravesend, Homecrest",11217,"Park Slope, Boerum Hill",driving,6.7,29
+11223,"Gravesend, Homecrest",11217,"Park Slope, Boerum Hill",bicycling,7.1,42
+11223,"Gravesend, Homecrest",11218,"Windsor Terrace, Kensington",driving,3.5,19
+11223,"Gravesend, Homecrest",11218,"Windsor Terrace, Kensington",bicycling,4.1,26
+11223,"Gravesend, Homecrest",11219,Borough Park,driving,2.6,15
+11223,"Gravesend, Homecrest",11219,Borough Park,bicycling,2.6,18
+11223,"Gravesend, Homecrest",11220,"Sunset Park, Greenwood",driving,3.7,20
+11223,"Gravesend, Homecrest",11220,"Sunset Park, Greenwood",bicycling,3.8,25
+11223,"Gravesend, Homecrest",11221,"Bedford-Stuyvesant, Bushwick",driving,14.0,45
+11223,"Gravesend, Homecrest",11221,"Bedford-Stuyvesant, Bushwick",bicycling,9.2,55
+11223,"Gravesend, Homecrest",11222,Greenpoint,driving,12.8,42
+11223,"Gravesend, Homecrest",11222,Greenpoint,bicycling,10.9,64
+11223,"Gravesend, Homecrest",11224,Coney Island,driving,2.5,14
+11223,"Gravesend, Homecrest",11224,Coney Island,bicycling,2.5,16
+11223,"Gravesend, Homecrest",11225,"Prospect Lefferts Gardens, Wingate",driving,5.7,30
+11223,"Gravesend, Homecrest",11225,"Prospect Lefferts Gardens, Wingate",bicycling,5.8,35
+11223,"Gravesend, Homecrest",11226,Flatbush,driving,4.7,24
+11223,"Gravesend, Homecrest",11226,Flatbush,bicycling,4.3,28
+11223,"Gravesend, Homecrest",11228,Dyker Heights,driving,2.6,15
+11223,"Gravesend, Homecrest",11228,Dyker Heights,bicycling,3.6,23
+11223,"Gravesend, Homecrest",11229,"Sheepshead Bay, Madison",driving,2.2,13
+11223,"Gravesend, Homecrest",11229,"Sheepshead Bay, Madison",bicycling,2.2,13
+11223,"Gravesend, Homecrest",11230,Midwood,driving,2.0,11
+11223,"Gravesend, Homecrest",11230,Midwood,bicycling,2.0,13
+11223,"Gravesend, Homecrest",11231,"Carroll Gardens, Red Hook",driving,7.0,26
+11223,"Gravesend, Homecrest",11231,"Carroll Gardens, Red Hook",bicycling,7.4,44
+11223,"Gravesend, Homecrest",11232,"Sunset Park, Industry City",driving,8.6,24
+11223,"Gravesend, Homecrest",11232,"Sunset Park, Industry City",bicycling,5.7,36
+11223,"Gravesend, Homecrest",11233,"Bedford-Stuyvesant, Ocean Hill",driving,7.5,41
+11223,"Gravesend, Homecrest",11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,8.7,51
+11223,"Gravesend, Homecrest",11234,"Marine Park, Mill Basin",driving,11.1,21
+11223,"Gravesend, Homecrest",11234,"Marine Park, Mill Basin",bicycling,6.2,33
+11223,"Gravesend, Homecrest",11235,"Brighton Beach, Manhattan Beach",driving,4.3,14
+11223,"Gravesend, Homecrest",11235,"Brighton Beach, Manhattan Beach",bicycling,3.2,18
+11223,"Gravesend, Homecrest",11236,"Canarsie, Bergen Beach",driving,9.3,20
+11223,"Gravesend, Homecrest",11236,"Canarsie, Bergen Beach",bicycling,6.3,36
+11223,"Gravesend, Homecrest",11238,"Prospect Heights, Clinton Hill",driving,7.0,32
+11223,"Gravesend, Homecrest",11238,"Prospect Heights, Clinton Hill",bicycling,7.0,41
+11223,"Gravesend, Homecrest",11239,Starrett City,driving,10.9,22
+11223,"Gravesend, Homecrest",11239,Starrett City,bicycling,11.1,58
+11224,Coney Island,11201,"Brooklyn Heights, DUMBO",driving,15.9,34
+11224,Coney Island,11201,"Brooklyn Heights, DUMBO",bicycling,11.0,64
+11224,Coney Island,11203,"East Flatbush, Erasmus",driving,10.2,33
+11224,Coney Island,11203,"East Flatbush, Erasmus",bicycling,7.9,49
+11224,Coney Island,11204,"Bensonhurst, Mapleton",driving,4.1,20
+11224,Coney Island,11204,"Bensonhurst, Mapleton",bicycling,4.1,24
+11224,Coney Island,11205,"Fort Greene, Clinton Hill",driving,14.5,37
+11224,Coney Island,11205,"Fort Greene, Clinton Hill",bicycling,10.5,61
+11224,Coney Island,11206,"Williamsburg, Bushwick",driving,16.2,42
+11224,Coney Island,11206,"Williamsburg, Bushwick",bicycling,12.0,70
+11224,Coney Island,11207,"East New York, Cypress Hills",driving,11.3,27
+11224,Coney Island,11207,"East New York, Cypress Hills",bicycling,11.6,60
+11224,Coney Island,11208,"Cypress Hills, East New York",driving,12.3,27
+11224,Coney Island,11208,"Cypress Hills, East New York",bicycling,12.7,65
+11224,Coney Island,11209,Bay Ridge,driving,5.0,17
+11224,Coney Island,11209,Bay Ridge,bicycling,5.9,33
+11224,Coney Island,11210,"Flatbush, Midwood",driving,9.0,25
+11224,Coney Island,11210,"Flatbush, Midwood",bicycling,6.0,36
+11224,Coney Island,11211,Williamsburg,driving,14.8,33
+11224,Coney Island,11211,Williamsburg,bicycling,11.6,69
+11224,Coney Island,11212,Brownsville,driving,11.7,33
+11224,Coney Island,11212,Brownsville,bicycling,10.4,60
+11224,Coney Island,11213,Crown Heights,driving,14.2,39
+11224,Coney Island,11213,Crown Heights,bicycling,9.6,57
+11224,Coney Island,11214,"Bensonhurst, Bath Beach",driving,2.7,14
+11224,Coney Island,11214,"Bensonhurst, Bath Beach",bicycling,2.7,16
+11224,Coney Island,11215,"Park Slope, Gowanus",driving,11.7,27
+11224,Coney Island,11215,"Park Slope, Gowanus",bicycling,8.0,47
+11224,Coney Island,11216,"Bedford-Stuyvesant, Crown Heights",driving,14.4,41
+11224,Coney Island,11216,"Bedford-Stuyvesant, Crown Heights",bicycling,9.4,58
+11224,Coney Island,11217,"Park Slope, Boerum Hill",driving,10.9,32
+11224,Coney Island,11217,"Park Slope, Boerum Hill",bicycling,9.5,55
+11224,Coney Island,11218,"Windsor Terrace, Kensington",driving,11.0,22
+11224,Coney Island,11218,"Windsor Terrace, Kensington",bicycling,6.4,39
+11224,Coney Island,11219,Borough Park,driving,5.4,24
+11224,Coney Island,11219,Borough Park,bicycling,4.9,30
+11224,Coney Island,11220,"Sunset Park, Greenwood",driving,7.7,19
+11224,Coney Island,11220,"Sunset Park, Greenwood",bicycling,6.1,37
+11224,Coney Island,11221,"Bedford-Stuyvesant, Bushwick",driving,14.0,43
+11224,Coney Island,11221,"Bedford-Stuyvesant, Bushwick",bicycling,11.5,68
+11224,Coney Island,11222,Greenpoint,driving,16.6,40
+11224,Coney Island,11222,Greenpoint,bicycling,13.2,77
+11224,Coney Island,11223,"Gravesend, Homecrest",driving,2.5,15
+11224,Coney Island,11223,"Gravesend, Homecrest",bicycling,2.4,15
+11224,Coney Island,11225,"Prospect Lefferts Gardens, Wingate",driving,13.1,36
+11224,Coney Island,11225,"Prospect Lefferts Gardens, Wingate",bicycling,8.1,48
+11224,Coney Island,11226,Flatbush,driving,10.2,32
+11224,Coney Island,11226,Flatbush,bicycling,6.6,41
+11224,Coney Island,11228,Dyker Heights,driving,4.0,14
+11224,Coney Island,11228,Dyker Heights,bicycling,4.9,28
+11224,Coney Island,11229,"Sheepshead Bay, Madison",driving,4.2,17
+11224,Coney Island,11229,"Sheepshead Bay, Madison",bicycling,3.4,20
+11224,Coney Island,11230,Midwood,driving,4.3,21
+11224,Coney Island,11230,Midwood,bicycling,4.3,26
+11224,Coney Island,11231,"Carroll Gardens, Red Hook",driving,11.2,24
+11224,Coney Island,11231,"Carroll Gardens, Red Hook",bicycling,9.7,57
+11224,Coney Island,11232,"Sunset Park, Industry City",driving,8.9,21
+11224,Coney Island,11232,"Sunset Park, Industry City",bicycling,8.7,44
+11224,Coney Island,11233,"Bedford-Stuyvesant, Ocean Hill",driving,13.5,39
+11224,Coney Island,11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,11.0,64
+11224,Coney Island,11234,"Marine Park, Mill Basin",driving,11.1,19
+11224,Coney Island,11234,"Marine Park, Mill Basin",bicycling,6.0,31
+11224,Coney Island,11235,"Brighton Beach, Manhattan Beach",driving,4.2,13
+11224,Coney Island,11235,"Brighton Beach, Manhattan Beach",bicycling,3.5,19
+11224,Coney Island,11236,"Canarsie, Bergen Beach",driving,9.2,18
+11224,Coney Island,11236,"Canarsie, Bergen Beach",bicycling,9.3,49
+11224,Coney Island,11238,"Prospect Heights, Clinton Hill",driving,13.2,35
+11224,Coney Island,11238,"Prospect Heights, Clinton Hill",bicycling,9.4,54
+11224,Coney Island,11239,Starrett City,driving,10.8,20
+11224,Coney Island,11239,Starrett City,bicycling,10.9,56
+11225,"Prospect Lefferts Gardens, Wingate",11201,"Brooklyn Heights, DUMBO",driving,6.2,28
+11225,"Prospect Lefferts Gardens, Wingate",11201,"Brooklyn Heights, DUMBO",bicycling,3.7,22
+11225,"Prospect Lefferts Gardens, Wingate",11203,"East Flatbush, Erasmus",driving,2.2,15
+11225,"Prospect Lefferts Gardens, Wingate",11203,"East Flatbush, Erasmus",bicycling,2.2,13
+11225,"Prospect Lefferts Gardens, Wingate",11204,"Bensonhurst, Mapleton",driving,4.8,26
+11225,"Prospect Lefferts Gardens, Wingate",11204,"Bensonhurst, Mapleton",bicycling,4.7,27
+11225,"Prospect Lefferts Gardens, Wingate",11205,"Fort Greene, Clinton Hill",driving,2.1,12
+11225,"Prospect Lefferts Gardens, Wingate",11205,"Fort Greene, Clinton Hill",bicycling,2.1,14
+11225,"Prospect Lefferts Gardens, Wingate",11206,"Williamsburg, Bushwick",driving,3.5,21
+11225,"Prospect Lefferts Gardens, Wingate",11206,"Williamsburg, Bushwick",bicycling,3.5,22
+11225,"Prospect Lefferts Gardens, Wingate",11207,"East New York, Cypress Hills",driving,4.6,23
+11225,"Prospect Lefferts Gardens, Wingate",11207,"East New York, Cypress Hills",bicycling,4.2,24
+11225,"Prospect Lefferts Gardens, Wingate",11208,"Cypress Hills, East New York",driving,5.3,27
+11225,"Prospect Lefferts Gardens, Wingate",11208,"Cypress Hills, East New York",bicycling,4.9,27
+11225,"Prospect Lefferts Gardens, Wingate",11209,Bay Ridge,driving,8.0,28
+11225,"Prospect Lefferts Gardens, Wingate",11209,Bay Ridge,bicycling,7.0,40
+11225,"Prospect Lefferts Gardens, Wingate",11210,"Flatbush, Midwood",driving,3.0,20
+11225,"Prospect Lefferts Gardens, Wingate",11210,"Flatbush, Midwood",bicycling,3.4,21
+11225,"Prospect Lefferts Gardens, Wingate",11211,Williamsburg,driving,3.6,19
+11225,"Prospect Lefferts Gardens, Wingate",11211,Williamsburg,bicycling,3.2,21
+11225,"Prospect Lefferts Gardens, Wingate",11212,Brownsville,driving,2.8,16
+11225,"Prospect Lefferts Gardens, Wingate",11212,Brownsville,bicycling,2.8,17
+11225,"Prospect Lefferts Gardens, Wingate",11213,Crown Heights,driving,1.5,9
+11225,"Prospect Lefferts Gardens, Wingate",11213,Crown Heights,bicycling,1.5,10
+11225,"Prospect Lefferts Gardens, Wingate",11214,"Bensonhurst, Bath Beach",driving,5.8,33
+11225,"Prospect Lefferts Gardens, Wingate",11214,"Bensonhurst, Bath Beach",bicycling,5.7,32
+11225,"Prospect Lefferts Gardens, Wingate",11215,"Park Slope, Gowanus",driving,2.4,13
+11225,"Prospect Lefferts Gardens, Wingate",11215,"Park Slope, Gowanus",bicycling,2.3,15
+11225,"Prospect Lefferts Gardens, Wingate",11216,"Bedford-Stuyvesant, Crown Heights",driving,1.6,11
+11225,"Prospect Lefferts Gardens, Wingate",11216,"Bedford-Stuyvesant, Crown Heights",bicycling,1.4,11
+11225,"Prospect Lefferts Gardens, Wingate",11217,"Park Slope, Boerum Hill",driving,2.2,14
+11225,"Prospect Lefferts Gardens, Wingate",11217,"Park Slope, Boerum Hill",bicycling,2.3,14
+11225,"Prospect Lefferts Gardens, Wingate",11218,"Windsor Terrace, Kensington",driving,2.1,15
+11225,"Prospect Lefferts Gardens, Wingate",11218,"Windsor Terrace, Kensington",bicycling,2.2,14
+11225,"Prospect Lefferts Gardens, Wingate",11219,Borough Park,driving,3.8,24
+11225,"Prospect Lefferts Gardens, Wingate",11219,Borough Park,bicycling,3.8,23
+11225,"Prospect Lefferts Gardens, Wingate",11220,"Sunset Park, Greenwood",driving,6.5,24
+11225,"Prospect Lefferts Gardens, Wingate",11220,"Sunset Park, Greenwood",bicycling,4.9,29
+11225,"Prospect Lefferts Gardens, Wingate",11221,"Bedford-Stuyvesant, Bushwick",driving,3.4,21
+11225,"Prospect Lefferts Gardens, Wingate",11221,"Bedford-Stuyvesant, Bushwick",bicycling,3.1,19
+11225,"Prospect Lefferts Gardens, Wingate",11222,Greenpoint,driving,5.5,26
+11225,"Prospect Lefferts Gardens, Wingate",11222,Greenpoint,bicycling,5.1,31
+11225,"Prospect Lefferts Gardens, Wingate",11223,"Gravesend, Homecrest",driving,6.0,31
+11225,"Prospect Lefferts Gardens, Wingate",11223,"Gravesend, Homecrest",bicycling,6.1,35
+11225,"Prospect Lefferts Gardens, Wingate",11224,Coney Island,driving,12.7,34
+11225,"Prospect Lefferts Gardens, Wingate",11224,Coney Island,bicycling,8.1,47
+11225,"Prospect Lefferts Gardens, Wingate",11226,Flatbush,driving,1.5,12
+11225,"Prospect Lefferts Gardens, Wingate",11226,Flatbush,bicycling,1.5,9
+11225,"Prospect Lefferts Gardens, Wingate",11228,Dyker Heights,driving,7.9,26
+11225,"Prospect Lefferts Gardens, Wingate",11228,Dyker Heights,bicycling,6.0,34
+11225,"Prospect Lefferts Gardens, Wingate",11229,"Sheepshead Bay, Madison",driving,4.9,27
+11225,"Prospect Lefferts Gardens, Wingate",11229,"Sheepshead Bay, Madison",bicycling,4.9,29
+11225,"Prospect Lefferts Gardens, Wingate",11230,Midwood,driving,4.1,24
+11225,"Prospect Lefferts Gardens, Wingate",11230,Midwood,bicycling,4.6,26
+11225,"Prospect Lefferts Gardens, Wingate",11231,"Carroll Gardens, Red Hook",driving,4.8,22
+11225,"Prospect Lefferts Gardens, Wingate",11231,"Carroll Gardens, Red Hook",bicycling,4.0,24
+11225,"Prospect Lefferts Gardens, Wingate",11232,"Sunset Park, Industry City",driving,4.7,20
+11225,"Prospect Lefferts Gardens, Wingate",11232,"Sunset Park, Industry City",bicycling,4.1,25
+11225,"Prospect Lefferts Gardens, Wingate",11233,"Bedford-Stuyvesant, Ocean Hill",driving,3.0,18
+11225,"Prospect Lefferts Gardens, Wingate",11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,3.0,17
+11225,"Prospect Lefferts Gardens, Wingate",11234,"Marine Park, Mill Basin",driving,8.1,32
+11225,"Prospect Lefferts Gardens, Wingate",11234,"Marine Park, Mill Basin",bicycling,8.8,46
+11225,"Prospect Lefferts Gardens, Wingate",11235,"Brighton Beach, Manhattan Beach",driving,5.8,31
+11225,"Prospect Lefferts Gardens, Wingate",11235,"Brighton Beach, Manhattan Beach",bicycling,5.8,35
+11225,"Prospect Lefferts Gardens, Wingate",11236,"Canarsie, Bergen Beach",driving,5.3,26
+11225,"Prospect Lefferts Gardens, Wingate",11236,"Canarsie, Bergen Beach",bicycling,4.9,28
+11225,"Prospect Lefferts Gardens, Wingate",11238,"Prospect Heights, Clinton Hill",driving,1.5,10
+11225,"Prospect Lefferts Gardens, Wingate",11238,"Prospect Heights, Clinton Hill",bicycling,1.5,9
+11225,"Prospect Lefferts Gardens, Wingate",11239,Starrett City,driving,5.9,29
+11225,"Prospect Lefferts Gardens, Wingate",11239,Starrett City,bicycling,6.0,33
+11226,Flatbush,11201,"Brooklyn Heights, DUMBO",driving,9.8,30
+11226,Flatbush,11201,"Brooklyn Heights, DUMBO",bicycling,5.0,31
+11226,Flatbush,11203,"East Flatbush, Erasmus",driving,1.4,11
+11226,Flatbush,11203,"East Flatbush, Erasmus",bicycling,1.4,8
+11226,Flatbush,11204,"Bensonhurst, Mapleton",driving,3.4,20
+11226,Flatbush,11204,"Bensonhurst, Mapleton",bicycling,3.6,21
+11226,Flatbush,11205,"Fort Greene, Clinton Hill",driving,3.5,20
+11226,Flatbush,11205,"Fort Greene, Clinton Hill",bicycling,3.5,22
+11226,Flatbush,11206,"Williamsburg, Bushwick",driving,4.8,29
+11226,Flatbush,11206,"Williamsburg, Bushwick",bicycling,4.9,31
+11226,Flatbush,11207,"East New York, Cypress Hills",driving,4.4,26
+11226,Flatbush,11207,"East New York, Cypress Hills",bicycling,4.5,26
+11226,Flatbush,11208,"Cypress Hills, East New York",driving,5.8,33
+11226,Flatbush,11208,"Cypress Hills, East New York",bicycling,6.0,33
+11226,Flatbush,11209,Bay Ridge,driving,8.0,27
+11226,Flatbush,11209,Bay Ridge,bicycling,6.1,38
+11226,Flatbush,11210,"Flatbush, Midwood",driving,1.8,11
+11226,Flatbush,11210,"Flatbush, Midwood",bicycling,2.2,14
+11226,Flatbush,11211,Williamsburg,driving,4.9,26
+11226,Flatbush,11211,Williamsburg,bicycling,4.6,30
+11226,Flatbush,11212,Brownsville,driving,3.5,20
+11226,Flatbush,11212,Brownsville,bicycling,3.7,21
+11226,Flatbush,11213,Crown Heights,driving,2.8,16
+11226,Flatbush,11213,Crown Heights,bicycling,2.9,18
+11226,Flatbush,11214,"Bensonhurst, Bath Beach",driving,4.5,27
+11226,Flatbush,11214,"Bensonhurst, Bath Beach",bicycling,4.7,27
+11226,Flatbush,11215,"Park Slope, Gowanus",driving,3.4,17
+11226,Flatbush,11215,"Park Slope, Gowanus",bicycling,3.4,21
+11226,Flatbush,11216,"Bedford-Stuyvesant, Crown Heights",driving,3.0,18
+11226,Flatbush,11216,"Bedford-Stuyvesant, Crown Heights",bicycling,2.7,19
+11226,Flatbush,11217,"Park Slope, Boerum Hill",driving,3.2,21
+11226,Flatbush,11217,"Park Slope, Boerum Hill",bicycling,3.5,22
+11226,Flatbush,11218,"Windsor Terrace, Kensington",driving,1.9,13
+11226,Flatbush,11218,"Windsor Terrace, Kensington",bicycling,2.2,15
+11226,Flatbush,11219,Borough Park,driving,2.9,23
+11226,Flatbush,11219,Borough Park,bicycling,3.1,19
+11226,Flatbush,11220,"Sunset Park, Greenwood",driving,6.5,23
+11226,Flatbush,11220,"Sunset Park, Greenwood",bicycling,4.3,28
+11226,Flatbush,11221,"Bedford-Stuyvesant, Bushwick",driving,4.8,28
+11226,Flatbush,11221,"Bedford-Stuyvesant, Bushwick",bicycling,4.4,28
+11226,Flatbush,11222,Greenpoint,driving,6.8,33
+11226,Flatbush,11222,Greenpoint,bicycling,6.4,39
+11226,Flatbush,11223,"Gravesend, Homecrest",driving,4.6,25
+11226,Flatbush,11223,"Gravesend, Homecrest",bicycling,5.1,30
+11226,Flatbush,11224,Coney Island,driving,6.6,33
+11226,Flatbush,11224,Coney Island,bicycling,7.0,42
+11226,Flatbush,11225,"Prospect Lefferts Gardens, Wingate",driving,1.6,10
+11226,Flatbush,11225,"Prospect Lefferts Gardens, Wingate",bicycling,1.4,9
+11226,Flatbush,11228,Dyker Heights,driving,8.0,25
+11226,Flatbush,11228,Dyker Heights,bicycling,5.5,32
+11226,Flatbush,11229,"Sheepshead Bay, Madison",driving,3.7,18
+11226,Flatbush,11229,"Sheepshead Bay, Madison",bicycling,3.7,22
+11226,Flatbush,11230,Midwood,driving,2.9,17
+11226,Flatbush,11230,Midwood,bicycling,3.5,21
+11226,Flatbush,11231,"Carroll Gardens, Red Hook",driving,4.9,20
+11226,Flatbush,11231,"Carroll Gardens, Red Hook",bicycling,5.1,30
+11226,Flatbush,11232,"Sunset Park, Industry City",driving,4.8,19
+11226,Flatbush,11232,"Sunset Park, Industry City",bicycling,3.8,24
+11226,Flatbush,11233,"Bedford-Stuyvesant, Ocean Hill",driving,4.2,25
+11226,Flatbush,11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,4.3,26
+11226,Flatbush,11234,"Marine Park, Mill Basin",driving,7.4,29
+11226,Flatbush,11234,"Marine Park, Mill Basin",bicycling,7.6,40
+11226,Flatbush,11235,"Brighton Beach, Manhattan Beach",driving,4.6,22
+11226,Flatbush,11235,"Brighton Beach, Manhattan Beach",bicycling,4.6,28
+11226,Flatbush,11236,"Canarsie, Bergen Beach",driving,4.4,24
+11226,Flatbush,11236,"Canarsie, Bergen Beach",bicycling,4.4,25
+11226,Flatbush,11238,"Prospect Heights, Clinton Hill",driving,2.8,18
+11226,Flatbush,11238,"Prospect Heights, Clinton Hill",bicycling,2.9,17
+11226,Flatbush,11239,Starrett City,driving,5.3,29
+11226,Flatbush,11239,Starrett City,bicycling,5.6,31
+11228,Dyker Heights,11201,"Brooklyn Heights, DUMBO",driving,10.9,25
+11228,Dyker Heights,11201,"Brooklyn Heights, DUMBO",bicycling,7.9,44
+11228,Dyker Heights,11203,"East Flatbush, Erasmus",driving,8.7,30
+11228,Dyker Heights,11203,"East Flatbush, Erasmus",bicycling,7.0,42
+11228,Dyker Heights,11204,"Bensonhurst, Mapleton",driving,2.4,12
+11228,Dyker Heights,11204,"Bensonhurst, Mapleton",bicycling,3.1,18
+11228,Dyker Heights,11205,"Fort Greene, Clinton Hill",driving,9.6,28
+11228,Dyker Heights,11205,"Fort Greene, Clinton Hill",bicycling,8.4,48
+11228,Dyker Heights,11206,"Williamsburg, Bushwick",driving,11.3,33
+11228,Dyker Heights,11206,"Williamsburg, Bushwick",bicycling,9.9,57
+11228,Dyker Heights,11207,"East New York, Cypress Hills",driving,13.9,30
+11228,Dyker Heights,11207,"East New York, Cypress Hills",bicycling,9.9,55
+11228,Dyker Heights,11208,"Cypress Hills, East New York",driving,14.8,30
+11228,Dyker Heights,11208,"Cypress Hills, East New York",bicycling,10.6,59
+11228,Dyker Heights,11209,Bay Ridge,driving,1.3,8
+11228,Dyker Heights,11209,Bay Ridge,bicycling,1.7,12
+11228,Dyker Heights,11210,"Flatbush, Midwood",driving,5.2,29
+11228,Dyker Heights,11210,"Flatbush, Midwood",bicycling,6.2,36
+11228,Dyker Heights,11211,Williamsburg,driving,9.9,24
+11228,Dyker Heights,11211,Williamsburg,bicycling,9.6,56
+11228,Dyker Heights,11212,Brownsville,driving,14.3,35
+11228,Dyker Heights,11212,Brownsville,bicycling,8.3,48
+11228,Dyker Heights,11213,Crown Heights,driving,9.2,30
+11228,Dyker Heights,11213,Crown Heights,bicycling,7.5,44
+11228,Dyker Heights,11214,"Bensonhurst, Bath Beach",driving,1.1,7
+11228,Dyker Heights,11214,"Bensonhurst, Bath Beach",bicycling,2.0,11
+11228,Dyker Heights,11215,"Park Slope, Gowanus",driving,6.8,17
+11228,Dyker Heights,11215,"Park Slope, Gowanus",bicycling,5.8,33
+11228,Dyker Heights,11216,"Bedford-Stuyvesant, Crown Heights",driving,9.5,32
+11228,Dyker Heights,11216,"Bedford-Stuyvesant, Crown Heights",bicycling,8.1,47
+11228,Dyker Heights,11217,"Park Slope, Boerum Hill",driving,6.0,23
+11228,Dyker Heights,11217,"Park Slope, Boerum Hill",bicycling,6.5,36
+11228,Dyker Heights,11218,"Windsor Terrace, Kensington",driving,6.1,13
+11228,Dyker Heights,11218,"Windsor Terrace, Kensington",bicycling,3.9,23
+11228,Dyker Heights,11219,Borough Park,driving,1.8,11
+11228,Dyker Heights,11219,Borough Park,bicycling,2.6,15
+11228,Dyker Heights,11220,"Sunset Park, Greenwood",driving,2.7,8
+11228,Dyker Heights,11220,"Sunset Park, Greenwood",bicycling,2.8,17
+11228,Dyker Heights,11221,"Bedford-Stuyvesant, Bushwick",driving,11.4,40
+11228,Dyker Heights,11221,"Bedford-Stuyvesant, Bushwick",bicycling,9.4,54
+11228,Dyker Heights,11222,Greenpoint,driving,11.7,31
+11228,Dyker Heights,11222,Greenpoint,bicycling,11.2,64
+11228,Dyker Heights,11223,"Gravesend, Homecrest",driving,2.7,16
+11228,Dyker Heights,11223,"Gravesend, Homecrest",bicycling,3.5,20
+11228,Dyker Heights,11224,Coney Island,driving,4.1,13
+11228,Dyker Heights,11224,Coney Island,bicycling,4.8,28
+11228,Dyker Heights,11225,"Prospect Lefferts Gardens, Wingate",driving,8.1,27
+11228,Dyker Heights,11225,"Prospect Lefferts Gardens, Wingate",bicycling,6.0,35
+11228,Dyker Heights,11226,Flatbush,driving,7.9,24
+11228,Dyker Heights,11226,Flatbush,bicycling,5.6,33
+11228,Dyker Heights,11229,"Sheepshead Bay, Madison",driving,6.8,20
+11228,Dyker Heights,11229,"Sheepshead Bay, Madison",bicycling,5.4,31
+11228,Dyker Heights,11230,Midwood,driving,3.8,20
+11228,Dyker Heights,11230,Midwood,bicycling,4.6,28
+11228,Dyker Heights,11231,"Carroll Gardens, Red Hook",driving,6.3,15
+11228,Dyker Heights,11231,"Carroll Gardens, Red Hook",bicycling,6.9,39
+11228,Dyker Heights,11232,"Sunset Park, Industry City",driving,3.6,12
+11228,Dyker Heights,11232,"Sunset Park, Industry City",bicycling,4.5,27
+11228,Dyker Heights,11233,"Bedford-Stuyvesant, Ocean Hill",driving,10.7,38
+11228,Dyker Heights,11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,9.6,54
+11228,Dyker Heights,11234,"Marine Park, Mill Basin",driving,13.7,22
+11228,Dyker Heights,11234,"Marine Park, Mill Basin",bicycling,9.4,52
+11228,Dyker Heights,11235,"Brighton Beach, Manhattan Beach",driving,6.8,15
+11228,Dyker Heights,11235,"Brighton Beach, Manhattan Beach",bicycling,6.6,38
+11228,Dyker Heights,11236,"Canarsie, Bergen Beach",driving,11.8,21
+11228,Dyker Heights,11236,"Canarsie, Bergen Beach",bicycling,9.4,55
+11228,Dyker Heights,11238,"Prospect Heights, Clinton Hill",driving,8.3,26
+11228,Dyker Heights,11238,"Prospect Heights, Clinton Hill",bicycling,7.2,41
+11228,Dyker Heights,11239,Starrett City,driving,13.4,22
+11228,Dyker Heights,11239,Starrett City,bicycling,11.7,65
+11229,"Sheepshead Bay, Madison",11201,"Brooklyn Heights, DUMBO",driving,18.2,39
+11229,"Sheepshead Bay, Madison",11201,"Brooklyn Heights, DUMBO",bicycling,8.4,51
+11229,"Sheepshead Bay, Madison",11203,"East Flatbush, Erasmus",driving,4.4,23
+11229,"Sheepshead Bay, Madison",11203,"East Flatbush, Erasmus",bicycling,4.9,30
+11229,"Sheepshead Bay, Madison",11204,"Bensonhurst, Mapleton",driving,3.5,20
+11229,"Sheepshead Bay, Madison",11204,"Bensonhurst, Mapleton",bicycling,3.5,22
+11229,"Sheepshead Bay, Madison",11205,"Fort Greene, Clinton Hill",driving,6.9,36
+11229,"Sheepshead Bay, Madison",11205,"Fort Greene, Clinton Hill",bicycling,6.9,43
+11229,"Sheepshead Bay, Madison",11206,"Williamsburg, Bushwick",driving,8.3,45
+11229,"Sheepshead Bay, Madison",11206,"Williamsburg, Bushwick",bicycling,8.3,51
+11229,"Sheepshead Bay, Madison",11207,"East New York, Cypress Hills",driving,9.2,25
+11229,"Sheepshead Bay, Madison",11207,"East New York, Cypress Hills",bicycling,9.8,52
+11229,"Sheepshead Bay, Madison",11208,"Cypress Hills, East New York",driving,10.2,26
+11229,"Sheepshead Bay, Madison",11208,"Cypress Hills, East New York",bicycling,11.0,57
+11229,"Sheepshead Bay, Madison",11209,Bay Ridge,driving,7.4,22
+11229,"Sheepshead Bay, Madison",11209,Bay Ridge,bicycling,6.6,40
+11229,"Sheepshead Bay, Madison",11210,"Flatbush, Midwood",driving,2.6,13
+11229,"Sheepshead Bay, Madison",11210,"Flatbush, Midwood",bicycling,2.6,16
+11229,"Sheepshead Bay, Madison",11211,Williamsburg,driving,17.1,38
+11229,"Sheepshead Bay, Madison",11211,Williamsburg,bicycling,8.0,50
+11229,"Sheepshead Bay, Madison",11212,Brownsville,driving,5.4,27
+11229,"Sheepshead Bay, Madison",11212,Brownsville,bicycling,7.0,42
+11229,"Sheepshead Bay, Madison",11213,Crown Heights,driving,6.2,32
+11229,"Sheepshead Bay, Madison",11213,Crown Heights,bicycling,6.2,39
+11229,"Sheepshead Bay, Madison",11214,"Bensonhurst, Bath Beach",driving,5.0,18
+11229,"Sheepshead Bay, Madison",11214,"Bensonhurst, Bath Beach",bicycling,3.5,20
+11229,"Sheepshead Bay, Madison",11215,"Park Slope, Gowanus",driving,6.5,29
+11229,"Sheepshead Bay, Madison",11215,"Park Slope, Gowanus",bicycling,6.7,40
+11229,"Sheepshead Bay, Madison",11216,"Bedford-Stuyvesant, Crown Heights",driving,6.4,34
+11229,"Sheepshead Bay, Madison",11216,"Bedford-Stuyvesant, Crown Heights",bicycling,6.1,39
+11229,"Sheepshead Bay, Madison",11217,"Park Slope, Boerum Hill",driving,7.7,35
+11229,"Sheepshead Bay, Madison",11217,"Park Slope, Boerum Hill",bicycling,6.9,41
+11229,"Sheepshead Bay, Madison",11218,"Windsor Terrace, Kensington",driving,5.1,26
+11229,"Sheepshead Bay, Madison",11218,"Windsor Terrace, Kensington",bicycling,5.1,32
+11229,"Sheepshead Bay, Madison",11219,Borough Park,driving,4.6,26
+11229,"Sheepshead Bay, Madison",11219,Borough Park,bicycling,4.6,30
+11229,"Sheepshead Bay, Madison",11220,"Sunset Park, Greenwood",driving,10.1,23
+11229,"Sheepshead Bay, Madison",11220,"Sunset Park, Greenwood",bicycling,5.6,37
+11229,"Sheepshead Bay, Madison",11221,"Bedford-Stuyvesant, Bushwick",driving,7.5,39
+11229,"Sheepshead Bay, Madison",11221,"Bedford-Stuyvesant, Bushwick",bicycling,7.8,48
+11229,"Sheepshead Bay, Madison",11222,Greenpoint,driving,19.0,45
+11229,"Sheepshead Bay, Madison",11222,Greenpoint,bicycling,9.8,60
+11229,"Sheepshead Bay, Madison",11223,"Gravesend, Homecrest",driving,2.1,13
+11229,"Sheepshead Bay, Madison",11223,"Gravesend, Homecrest",bicycling,2.1,13
+11229,"Sheepshead Bay, Madison",11224,Coney Island,driving,4.1,16
+11229,"Sheepshead Bay, Madison",11224,Coney Island,bicycling,3.5,21
+11229,"Sheepshead Bay, Madison",11225,"Prospect Lefferts Gardens, Wingate",driving,5.0,26
+11229,"Sheepshead Bay, Madison",11225,"Prospect Lefferts Gardens, Wingate",bicycling,4.8,29
+11229,"Sheepshead Bay, Madison",11226,Flatbush,driving,3.7,19
+11229,"Sheepshead Bay, Madison",11226,Flatbush,bicycling,3.5,22
+11229,"Sheepshead Bay, Madison",11228,Dyker Heights,driving,6.4,19
+11229,"Sheepshead Bay, Madison",11228,Dyker Heights,bicycling,6.8,37
+11229,"Sheepshead Bay, Madison",11230,Midwood,driving,2.4,14
+11229,"Sheepshead Bay, Madison",11230,Midwood,bicycling,2.4,15
+11229,"Sheepshead Bay, Madison",11231,"Carroll Gardens, Red Hook",driving,13.5,29
+11229,"Sheepshead Bay, Madison",11231,"Carroll Gardens, Red Hook",bicycling,8.4,49
+11229,"Sheepshead Bay, Madison",11232,"Sunset Park, Industry City",driving,11.2,26
+11229,"Sheepshead Bay, Madison",11232,"Sunset Park, Industry City",bicycling,6.7,42
+11229,"Sheepshead Bay, Madison",11233,"Bedford-Stuyvesant, Ocean Hill",driving,6.4,34
+11229,"Sheepshead Bay, Madison",11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,7.7,46
+11229,"Sheepshead Bay, Madison",11234,"Marine Park, Mill Basin",driving,9.0,17
+11229,"Sheepshead Bay, Madison",11234,"Marine Park, Mill Basin",bicycling,4.2,24
+11229,"Sheepshead Bay, Madison",11235,"Brighton Beach, Manhattan Beach",driving,1.1,5
+11229,"Sheepshead Bay, Madison",11235,"Brighton Beach, Manhattan Beach",bicycling,1.1,7
+11229,"Sheepshead Bay, Madison",11236,"Canarsie, Bergen Beach",driving,7.1,17
+11229,"Sheepshead Bay, Madison",11236,"Canarsie, Bergen Beach",bicycling,5.2,30
+11229,"Sheepshead Bay, Madison",11238,"Prospect Heights, Clinton Hill",driving,6.3,34
+11229,"Sheepshead Bay, Madison",11238,"Prospect Heights, Clinton Hill",bicycling,6.3,38
+11229,"Sheepshead Bay, Madison",11239,Starrett City,driving,8.7,18
+11229,"Sheepshead Bay, Madison",11239,Starrett City,bicycling,9.2,48
+11230,Midwood,11201,"Brooklyn Heights, DUMBO",driving,10.5,29
+11230,Midwood,11201,"Brooklyn Heights, DUMBO",bicycling,7.2,42
+11230,Midwood,11203,"East Flatbush, Erasmus",driving,4.0,22
+11230,Midwood,11203,"East Flatbush, Erasmus",bicycling,4.0,25
+11230,Midwood,11204,"Bensonhurst, Mapleton",driving,1.6,10
+11230,Midwood,11204,"Bensonhurst, Mapleton",bicycling,1.9,12
+11230,Midwood,11205,"Fort Greene, Clinton Hill",driving,6.0,32
+11230,Midwood,11205,"Fort Greene, Clinton Hill",bicycling,6.7,39
+11230,Midwood,11206,"Williamsburg, Bushwick",driving,10.8,37
+11230,Midwood,11206,"Williamsburg, Bushwick",bicycling,8.1,48
+11230,Midwood,11207,"East New York, Cypress Hills",driving,5.9,32
+11230,Midwood,11207,"East New York, Cypress Hills",bicycling,6.4,38
+11230,Midwood,11208,"Cypress Hills, East New York",driving,13.3,34
+11230,Midwood,11208,"Cypress Hills, East New York",bicycling,8.8,49
+11230,Midwood,11209,Bay Ridge,driving,8.0,25
+11230,Midwood,11209,Bay Ridge,bicycling,5.6,34
+11230,Midwood,11210,"Flatbush, Midwood",driving,1.7,11
+11230,Midwood,11210,"Flatbush, Midwood",bicycling,1.7,11
+11230,Midwood,11211,Williamsburg,driving,9.4,29
+11230,Midwood,11211,Williamsburg,bicycling,7.8,47
+11230,Midwood,11212,Brownsville,driving,5.0,27
+11230,Midwood,11212,Brownsville,bicycling,6.6,37
+11230,Midwood,11213,Crown Heights,driving,5.3,29
+11230,Midwood,11213,Crown Heights,bicycling,5.7,34
+11230,Midwood,11214,"Bensonhurst, Bath Beach",driving,2.9,17
+11230,Midwood,11214,"Bensonhurst, Bath Beach",bicycling,2.6,16
+11230,Midwood,11215,"Park Slope, Gowanus",driving,4.1,17
+11230,Midwood,11215,"Park Slope, Gowanus",bicycling,4.2,25
+11230,Midwood,11216,"Bedford-Stuyvesant, Crown Heights",driving,5.6,30
+11230,Midwood,11216,"Bedford-Stuyvesant, Crown Heights",bicycling,5.6,35
+11230,Midwood,11217,"Park Slope, Boerum Hill",driving,5.2,23
+11230,Midwood,11217,"Park Slope, Boerum Hill",bicycling,5.6,32
+11230,Midwood,11218,"Windsor Terrace, Kensington",driving,2.6,14
+11230,Midwood,11218,"Windsor Terrace, Kensington",bicycling,2.6,16
+11230,Midwood,11219,Borough Park,driving,2.5,16
+11230,Midwood,11219,Borough Park,bicycling,2.8,17
+11230,Midwood,11220,"Sunset Park, Greenwood",driving,3.5,21
+11230,Midwood,11220,"Sunset Park, Greenwood",bicycling,4.0,25
+11230,Midwood,11221,"Bedford-Stuyvesant, Bushwick",driving,7.0,39
+11230,Midwood,11221,"Bedford-Stuyvesant, Bushwick",bicycling,7.7,45
+11230,Midwood,11222,Greenpoint,driving,11.2,36
+11230,Midwood,11222,Greenpoint,bicycling,9.4,55
+11230,Midwood,11223,"Gravesend, Homecrest",driving,2.4,12
+11230,Midwood,11223,"Gravesend, Homecrest",bicycling,2.4,14
+11230,Midwood,11224,Coney Island,driving,4.3,21
+11230,Midwood,11224,Coney Island,bicycling,4.3,27
+11230,Midwood,11225,"Prospect Lefferts Gardens, Wingate",driving,4.1,22
+11230,Midwood,11225,"Prospect Lefferts Gardens, Wingate",bicycling,4.3,25
+11230,Midwood,11226,Flatbush,driving,2.8,15
+11230,Midwood,11226,Flatbush,bicycling,2.7,17
+11230,Midwood,11228,Dyker Heights,driving,3.7,20
+11230,Midwood,11228,Dyker Heights,bicycling,5.2,30
+11230,Midwood,11229,"Sheepshead Bay, Madison",driving,2.6,14
+11230,Midwood,11229,"Sheepshead Bay, Madison",bicycling,2.6,15
+11230,Midwood,11231,"Carroll Gardens, Red Hook",driving,5.5,20
+11230,Midwood,11231,"Carroll Gardens, Red Hook",bicycling,5.9,34
+11230,Midwood,11232,"Sunset Park, Industry City",driving,5.4,18
+11230,Midwood,11232,"Sunset Park, Industry City",bicycling,4.2,26
+11230,Midwood,11233,"Bedford-Stuyvesant, Ocean Hill",driving,6.0,34
+11230,Midwood,11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,7.2,42
+11230,Midwood,11234,"Marine Park, Mill Basin",driving,12.1,26
+11230,Midwood,11234,"Marine Park, Mill Basin",bicycling,5.1,28
+11230,Midwood,11235,"Brighton Beach, Manhattan Beach",driving,3.6,18
+11230,Midwood,11235,"Brighton Beach, Manhattan Beach",bicycling,3.6,21
+11230,Midwood,11236,"Canarsie, Bergen Beach",driving,5.0,25
+11230,Midwood,11236,"Canarsie, Bergen Beach",bicycling,5.0,30
+11230,Midwood,11238,"Prospect Heights, Clinton Hill",driving,5.5,25
+11230,Midwood,11238,"Prospect Heights, Clinton Hill",bicycling,5.5,31
+11230,Midwood,11239,Starrett City,driving,11.8,26
+11230,Midwood,11239,Starrett City,bicycling,8.0,43
+11231,"Carroll Gardens, Red Hook",11201,"Brooklyn Heights, DUMBO",driving,6.6,19
+11231,"Carroll Gardens, Red Hook",11201,"Brooklyn Heights, DUMBO",bicycling,2.7,16
+11231,"Carroll Gardens, Red Hook",11203,"East Flatbush, Erasmus",driving,6.0,27
+11231,"Carroll Gardens, Red Hook",11203,"East Flatbush, Erasmus",bicycling,6.0,35
+11231,"Carroll Gardens, Red Hook",11204,"Bensonhurst, Mapleton",driving,6.6,20
+11231,"Carroll Gardens, Red Hook",11204,"Bensonhurst, Mapleton",bicycling,6.7,39
+11231,"Carroll Gardens, Red Hook",11205,"Fort Greene, Clinton Hill",driving,4.6,20
+11231,"Carroll Gardens, Red Hook",11205,"Fort Greene, Clinton Hill",bicycling,4.1,24
+11231,"Carroll Gardens, Red Hook",11206,"Williamsburg, Bushwick",driving,6.4,25
+11231,"Carroll Gardens, Red Hook",11206,"Williamsburg, Bushwick",bicycling,5.6,33
+11231,"Carroll Gardens, Red Hook",11207,"East New York, Cypress Hills",driving,20.9,37
+11231,"Carroll Gardens, Red Hook",11207,"East New York, Cypress Hills",bicycling,7.5,43
+11231,"Carroll Gardens, Red Hook",11208,"Cypress Hills, East New York",driving,21.8,38
+11231,"Carroll Gardens, Red Hook",11208,"Cypress Hills, East New York",bicycling,8.1,47
+11231,"Carroll Gardens, Red Hook",11209,Bay Ridge,driving,6.3,16
+11231,"Carroll Gardens, Red Hook",11209,Bay Ridge,bicycling,6.3,35
+11231,"Carroll Gardens, Red Hook",11210,"Flatbush, Midwood",driving,6.4,25
+11231,"Carroll Gardens, Red Hook",11210,"Flatbush, Midwood",bicycling,6.8,40
+11231,"Carroll Gardens, Red Hook",11211,Williamsburg,driving,4.9,16
+11231,"Carroll Gardens, Red Hook",11211,Williamsburg,bicycling,5.3,32
+11231,"Carroll Gardens, Red Hook",11212,Brownsville,driving,6.0,34
+11231,"Carroll Gardens, Red Hook",11212,Brownsville,bicycling,6.0,37
+11231,"Carroll Gardens, Red Hook",11213,Crown Heights,driving,4.7,28
+11231,"Carroll Gardens, Red Hook",11213,Crown Heights,bicycling,4.9,29
+11231,"Carroll Gardens, Red Hook",11214,"Bensonhurst, Bath Beach",driving,7.3,21
+11231,"Carroll Gardens, Red Hook",11214,"Bensonhurst, Bath Beach",bicycling,7.8,45
+11231,"Carroll Gardens, Red Hook",11215,"Park Slope, Gowanus",driving,2.3,14
+11231,"Carroll Gardens, Red Hook",11215,"Park Slope, Gowanus",bicycling,2.3,15
+11231,"Carroll Gardens, Red Hook",11216,"Bedford-Stuyvesant, Crown Heights",driving,4.5,28
+11231,"Carroll Gardens, Red Hook",11216,"Bedford-Stuyvesant, Crown Heights",bicycling,4.4,28
+11231,"Carroll Gardens, Red Hook",11217,"Park Slope, Boerum Hill",driving,2.4,15
+11231,"Carroll Gardens, Red Hook",11217,"Park Slope, Boerum Hill",bicycling,2.4,14
+11231,"Carroll Gardens, Red Hook",11218,"Windsor Terrace, Kensington",driving,3.3,9
+11231,"Carroll Gardens, Red Hook",11218,"Windsor Terrace, Kensington",bicycling,3.8,23
+11231,"Carroll Gardens, Red Hook",11219,Borough Park,driving,6.2,20
+11231,"Carroll Gardens, Red Hook",11219,Borough Park,bicycling,5.5,32
+11231,"Carroll Gardens, Red Hook",11220,"Sunset Park, Greenwood",driving,4.8,12
+11231,"Carroll Gardens, Red Hook",11220,"Sunset Park, Greenwood",bicycling,4.5,26
+11231,"Carroll Gardens, Red Hook",11221,"Bedford-Stuyvesant, Bushwick",driving,6.4,33
+11231,"Carroll Gardens, Red Hook",11221,"Bedford-Stuyvesant, Bushwick",bicycling,5.5,34
+11231,"Carroll Gardens, Red Hook",11222,Greenpoint,driving,6.8,23
+11231,"Carroll Gardens, Red Hook",11222,Greenpoint,bicycling,6.8,39
+11231,"Carroll Gardens, Red Hook",11223,"Gravesend, Homecrest",driving,7.5,26
+11231,"Carroll Gardens, Red Hook",11223,"Gravesend, Homecrest",bicycling,8.2,48
+11231,"Carroll Gardens, Red Hook",11224,Coney Island,driving,11.0,21
+11231,"Carroll Gardens, Red Hook",11224,Coney Island,bicycling,10.1,60
+11231,"Carroll Gardens, Red Hook",11225,"Prospect Lefferts Gardens, Wingate",driving,5.4,23
+11231,"Carroll Gardens, Red Hook",11225,"Prospect Lefferts Gardens, Wingate",bicycling,4.0,24
+11231,"Carroll Gardens, Red Hook",11226,Flatbush,driving,5.2,21
+11231,"Carroll Gardens, Red Hook",11226,Flatbush,bicycling,5.2,31
+11231,"Carroll Gardens, Red Hook",11228,Dyker Heights,driving,6.2,14
+11231,"Carroll Gardens, Red Hook",11228,Dyker Heights,bicycling,7.1,41
+11231,"Carroll Gardens, Red Hook",11229,"Sheepshead Bay, Madison",driving,13.7,27
+11231,"Carroll Gardens, Red Hook",11229,"Sheepshead Bay, Madison",bicycling,8.6,50
+11231,"Carroll Gardens, Red Hook",11230,Midwood,driving,6.0,19
+11231,"Carroll Gardens, Red Hook",11230,Midwood,bicycling,6.6,39
+11231,"Carroll Gardens, Red Hook",11232,"Sunset Park, Industry City",driving,2.5,10
+11231,"Carroll Gardens, Red Hook",11232,"Sunset Park, Industry City",bicycling,3.5,20
+11231,"Carroll Gardens, Red Hook",11233,"Bedford-Stuyvesant, Ocean Hill",driving,5.8,34
+11231,"Carroll Gardens, Red Hook",11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,5.9,35
+11231,"Carroll Gardens, Red Hook",11234,"Marine Park, Mill Basin",driving,20.7,29
+11231,"Carroll Gardens, Red Hook",11234,"Marine Park, Mill Basin",bicycling,11.1,63
+11231,"Carroll Gardens, Red Hook",11235,"Brighton Beach, Manhattan Beach",driving,13.8,23
+11231,"Carroll Gardens, Red Hook",11235,"Brighton Beach, Manhattan Beach",bicycling,9.6,56
+11231,"Carroll Gardens, Red Hook",11236,"Canarsie, Bergen Beach",driving,18.8,29
+11231,"Carroll Gardens, Red Hook",11236,"Canarsie, Bergen Beach",bicycling,8.5,50
+11231,"Carroll Gardens, Red Hook",11238,"Prospect Heights, Clinton Hill",driving,3.4,21
+11231,"Carroll Gardens, Red Hook",11238,"Prospect Heights, Clinton Hill",bicycling,3.5,21
+11231,"Carroll Gardens, Red Hook",11239,Starrett City,driving,20.4,30
+11231,"Carroll Gardens, Red Hook",11239,Starrett City,bicycling,9.2,53
+11232,"Sunset Park, Industry City",11201,"Brooklyn Heights, DUMBO",driving,7.7,24
+11232,"Sunset Park, Industry City",11201,"Brooklyn Heights, DUMBO",bicycling,4.2,25
+11232,"Sunset Park, Industry City",11203,"East Flatbush, Erasmus",driving,5.4,30
+11232,"Sunset Park, Industry City",11203,"East Flatbush, Erasmus",bicycling,6.4,38
+11232,"Sunset Park, Industry City",11204,"Bensonhurst, Mapleton",driving,4.1,20
+11232,"Sunset Park, Industry City",11204,"Bensonhurst, Mapleton",bicycling,3.9,25
+11232,"Sunset Park, Industry City",11205,"Fort Greene, Clinton Hill",driving,4.5,28
+11232,"Sunset Park, Industry City",11205,"Fort Greene, Clinton Hill",bicycling,4.8,30
+11232,"Sunset Park, Industry City",11206,"Williamsburg, Bushwick",driving,8.1,31
+11232,"Sunset Park, Industry City",11206,"Williamsburg, Bushwick",bicycling,6.3,39
+11232,"Sunset Park, Industry City",11207,"East New York, Cypress Hills",driving,18.6,38
+11232,"Sunset Park, Industry City",11207,"East New York, Cypress Hills",bicycling,7.8,46
+11232,"Sunset Park, Industry City",11208,"Cypress Hills, East New York",driving,19.5,39
+11232,"Sunset Park, Industry City",11208,"Cypress Hills, East New York",bicycling,8.5,50
+11232,"Sunset Park, Industry City",11209,Bay Ridge,driving,3.8,15
+11232,"Sunset Park, Industry City",11209,Bay Ridge,bicycling,3.0,16
+11232,"Sunset Park, Industry City",11210,"Flatbush, Midwood",driving,5.8,27
+11232,"Sunset Park, Industry City",11210,"Flatbush, Midwood",bicycling,5.5,34
+11232,"Sunset Park, Industry City",11211,Williamsburg,driving,6.6,23
+11232,"Sunset Park, Industry City",11211,Williamsburg,bicycling,6.0,37
+11232,"Sunset Park, Industry City",11212,Brownsville,driving,6.3,35
+11232,"Sunset Park, Industry City",11212,Brownsville,bicycling,6.4,39
+11232,"Sunset Park, Industry City",11213,Crown Heights,driving,5.0,28
+11232,"Sunset Park, Industry City",11213,Crown Heights,bicycling,5.3,31
+11232,"Sunset Park, Industry City",11214,"Bensonhurst, Bath Beach",driving,4.9,20
+11232,"Sunset Park, Industry City",11214,"Bensonhurst, Bath Beach",bicycling,5.1,31
+11232,"Sunset Park, Industry City",11215,"Park Slope, Gowanus",driving,2.3,14
+11232,"Sunset Park, Industry City",11215,"Park Slope, Gowanus",bicycling,2.4,16
+11232,"Sunset Park, Industry City",11216,"Bedford-Stuyvesant, Crown Heights",driving,4.8,29
+11232,"Sunset Park, Industry City",11216,"Bedford-Stuyvesant, Crown Heights",bicycling,4.8,30
+11232,"Sunset Park, Industry City",11217,"Park Slope, Boerum Hill",driving,2.7,16
+11232,"Sunset Park, Industry City",11217,"Park Slope, Boerum Hill",bicycling,2.8,17
+11232,"Sunset Park, Industry City",11218,"Windsor Terrace, Kensington",driving,2.8,12
+11232,"Sunset Park, Industry City",11218,"Windsor Terrace, Kensington",bicycling,2.3,16
+11232,"Sunset Park, Industry City",11219,Borough Park,driving,2.4,17
+11232,"Sunset Park, Industry City",11219,Borough Park,bicycling,2.8,18
+11232,"Sunset Park, Industry City",11220,"Sunset Park, Greenwood",driving,1.8,10
+11232,"Sunset Park, Industry City",11220,"Sunset Park, Greenwood",bicycling,1.7,12
+11232,"Sunset Park, Industry City",11221,"Bedford-Stuyvesant, Bushwick",driving,5.9,37
+11232,"Sunset Park, Industry City",11221,"Bedford-Stuyvesant, Bushwick",bicycling,6.0,37
+11232,"Sunset Park, Industry City",11222,Greenpoint,driving,8.5,30
+11232,"Sunset Park, Industry City",11222,Greenpoint,bicycling,7.6,46
+11232,"Sunset Park, Industry City",11223,"Gravesend, Homecrest",driving,5.7,28
+11232,"Sunset Park, Industry City",11223,"Gravesend, Homecrest",bicycling,6.3,38
+11232,"Sunset Park, Industry City",11224,Coney Island,driving,8.7,22
+11232,"Sunset Park, Industry City",11224,Coney Island,bicycling,8.5,44
+11232,"Sunset Park, Industry City",11225,"Prospect Lefferts Gardens, Wingate",driving,4.2,26
+11232,"Sunset Park, Industry City",11225,"Prospect Lefferts Gardens, Wingate",bicycling,4.4,27
+11232,"Sunset Park, Industry City",11226,Flatbush,driving,4.6,23
+11232,"Sunset Park, Industry City",11226,Flatbush,bicycling,3.9,26
+11232,"Sunset Park, Industry City",11228,Dyker Heights,driving,3.8,13
+11232,"Sunset Park, Industry City",11228,Dyker Heights,bicycling,4.4,27
+11232,"Sunset Park, Industry City",11229,"Sheepshead Bay, Madison",driving,11.4,29
+11232,"Sunset Park, Industry City",11229,"Sheepshead Bay, Madison",bicycling,7.0,43
+11232,"Sunset Park, Industry City",11230,Midwood,driving,5.4,21
+11232,"Sunset Park, Industry City",11230,Midwood,bicycling,4.7,30
+11232,"Sunset Park, Industry City",11231,"Carroll Gardens, Red Hook",driving,2.7,14
+11232,"Sunset Park, Industry City",11231,"Carroll Gardens, Red Hook",bicycling,3.2,19
+11232,"Sunset Park, Industry City",11233,"Bedford-Stuyvesant, Ocean Hill",driving,6.1,35
+11232,"Sunset Park, Industry City",11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,6.3,37
+11232,"Sunset Park, Industry City",11234,"Marine Park, Mill Basin",driving,18.3,30
+11232,"Sunset Park, Industry City",11234,"Marine Park, Mill Basin",bicycling,9.5,55
+11232,"Sunset Park, Industry City",11235,"Brighton Beach, Manhattan Beach",driving,11.5,24
+11232,"Sunset Park, Industry City",11235,"Brighton Beach, Manhattan Beach",bicycling,8.1,49
+11232,"Sunset Park, Industry City",11236,"Canarsie, Bergen Beach",driving,16.5,30
+11232,"Sunset Park, Industry City",11236,"Canarsie, Bergen Beach",bicycling,8.9,53
+11232,"Sunset Park, Industry City",11238,"Prospect Heights, Clinton Hill",driving,3.7,22
+11232,"Sunset Park, Industry City",11238,"Prospect Heights, Clinton Hill",bicycling,3.9,23
+11232,"Sunset Park, Industry City",11239,Starrett City,driving,18.0,31
+11232,"Sunset Park, Industry City",11239,Starrett City,bicycling,9.6,56
+11233,"Bedford-Stuyvesant, Ocean Hill",11201,"Brooklyn Heights, DUMBO",driving,7.5,36
+11233,"Bedford-Stuyvesant, Ocean Hill",11201,"Brooklyn Heights, DUMBO",bicycling,5.0,30
+11233,"Bedford-Stuyvesant, Ocean Hill",11203,"East Flatbush, Erasmus",driving,2.8,19
+11233,"Bedford-Stuyvesant, Ocean Hill",11203,"East Flatbush, Erasmus",bicycling,2.8,18
+11233,"Bedford-Stuyvesant, Ocean Hill",11204,"Bensonhurst, Mapleton",driving,7.4,41
+11233,"Bedford-Stuyvesant, Ocean Hill",11204,"Bensonhurst, Mapleton",bicycling,8.1,46
+11233,"Bedford-Stuyvesant, Ocean Hill",11205,"Fort Greene, Clinton Hill",driving,2.8,18
+11233,"Bedford-Stuyvesant, Ocean Hill",11205,"Fort Greene, Clinton Hill",bicycling,2.9,17
+11233,"Bedford-Stuyvesant, Ocean Hill",11206,"Williamsburg, Bushwick",driving,2.4,16
+11233,"Bedford-Stuyvesant, Ocean Hill",11206,"Williamsburg, Bushwick",bicycling,2.8,17
+11233,"Bedford-Stuyvesant, Ocean Hill",11207,"East New York, Cypress Hills",driving,2.5,14
+11233,"Bedford-Stuyvesant, Ocean Hill",11207,"East New York, Cypress Hills",bicycling,2.7,16
+11233,"Bedford-Stuyvesant, Ocean Hill",11208,"Cypress Hills, East New York",driving,3.2,17
+11233,"Bedford-Stuyvesant, Ocean Hill",11208,"Cypress Hills, East New York",bicycling,3.3,19
+11233,"Bedford-Stuyvesant, Ocean Hill",11209,Bay Ridge,driving,11.2,42
+11233,"Bedford-Stuyvesant, Ocean Hill",11209,Bay Ridge,bicycling,9.6,54
+11233,"Bedford-Stuyvesant, Ocean Hill",11210,"Flatbush, Midwood",driving,4.7,25
+11233,"Bedford-Stuyvesant, Ocean Hill",11210,"Flatbush, Midwood",bicycling,5.1,31
+11233,"Bedford-Stuyvesant, Ocean Hill",11211,Williamsburg,driving,4.1,24
+11233,"Bedford-Stuyvesant, Ocean Hill",11211,Williamsburg,bicycling,4.0,24
+11233,"Bedford-Stuyvesant, Ocean Hill",11212,Brownsville,driving,1.4,10
+11233,"Bedford-Stuyvesant, Ocean Hill",11212,Brownsville,bicycling,1.4,10
+11233,"Bedford-Stuyvesant, Ocean Hill",11213,Crown Heights,driving,1.8,11
+11233,"Bedford-Stuyvesant, Ocean Hill",11213,Crown Heights,bicycling,2.1,12
+11233,"Bedford-Stuyvesant, Ocean Hill",11214,"Bensonhurst, Bath Beach",driving,14.6,40
+11233,"Bedford-Stuyvesant, Ocean Hill",11214,"Bensonhurst, Bath Beach",bicycling,9.2,52
+11233,"Bedford-Stuyvesant, Ocean Hill",11215,"Park Slope, Gowanus",driving,5.0,26
+11233,"Bedford-Stuyvesant, Ocean Hill",11215,"Park Slope, Gowanus",bicycling,5.1,30
+11233,"Bedford-Stuyvesant, Ocean Hill",11216,"Bedford-Stuyvesant, Crown Heights",driving,2.2,13
+11233,"Bedford-Stuyvesant, Ocean Hill",11216,"Bedford-Stuyvesant, Crown Heights",bicycling,2.6,16
+11233,"Bedford-Stuyvesant, Ocean Hill",11217,"Park Slope, Boerum Hill",driving,3.9,24
+11233,"Bedford-Stuyvesant, Ocean Hill",11217,"Park Slope, Boerum Hill",bicycling,4.2,25
+11233,"Bedford-Stuyvesant, Ocean Hill",11218,"Windsor Terrace, Kensington",driving,6.0,30
+11233,"Bedford-Stuyvesant, Ocean Hill",11218,"Windsor Terrace, Kensington",bicycling,5.6,33
+11233,"Bedford-Stuyvesant, Ocean Hill",11219,Borough Park,driving,7.1,41
+11233,"Bedford-Stuyvesant, Ocean Hill",11219,Borough Park,bicycling,7.2,42
+11233,"Bedford-Stuyvesant, Ocean Hill",11220,"Sunset Park, Greenwood",driving,9.7,39
+11233,"Bedford-Stuyvesant, Ocean Hill",11220,"Sunset Park, Greenwood",bicycling,7.5,43
+11233,"Bedford-Stuyvesant, Ocean Hill",11221,"Bedford-Stuyvesant, Bushwick",driving,1.1,7
+11233,"Bedford-Stuyvesant, Ocean Hill",11221,"Bedford-Stuyvesant, Bushwick",bicycling,1.1,7
+11233,"Bedford-Stuyvesant, Ocean Hill",11222,Greenpoint,driving,4.2,28
+11233,"Bedford-Stuyvesant, Ocean Hill",11222,Greenpoint,bicycling,4.9,28
+11233,"Bedford-Stuyvesant, Ocean Hill",11223,"Gravesend, Homecrest",driving,13.5,40
+11233,"Bedford-Stuyvesant, Ocean Hill",11223,"Gravesend, Homecrest",bicycling,9.6,55
+11233,"Bedford-Stuyvesant, Ocean Hill",11224,Coney Island,driving,13.6,38
+11233,"Bedford-Stuyvesant, Ocean Hill",11224,Coney Island,bicycling,11.5,67
+11233,"Bedford-Stuyvesant, Ocean Hill",11225,"Prospect Lefferts Gardens, Wingate",driving,3.4,20
+11233,"Bedford-Stuyvesant, Ocean Hill",11225,"Prospect Lefferts Gardens, Wingate",bicycling,3.5,21
+11233,"Bedford-Stuyvesant, Ocean Hill",11226,Flatbush,driving,4.2,24
+11233,"Bedford-Stuyvesant, Ocean Hill",11226,Flatbush,bicycling,4.9,29
+11233,"Bedford-Stuyvesant, Ocean Hill",11228,Dyker Heights,driving,11.2,41
+11233,"Bedford-Stuyvesant, Ocean Hill",11228,Dyker Heights,bicycling,9.4,54
+11233,"Bedford-Stuyvesant, Ocean Hill",11229,"Sheepshead Bay, Madison",driving,6.5,33
+11233,"Bedford-Stuyvesant, Ocean Hill",11229,"Sheepshead Bay, Madison",bicycling,8.3,49
+11233,"Bedford-Stuyvesant, Ocean Hill",11230,Midwood,driving,6.3,34
+11233,"Bedford-Stuyvesant, Ocean Hill",11230,Midwood,bicycling,8.0,46
+11233,"Bedford-Stuyvesant, Ocean Hill",11231,"Carroll Gardens, Red Hook",driving,6.1,35
+11233,"Bedford-Stuyvesant, Ocean Hill",11231,"Carroll Gardens, Red Hook",bicycling,6.4,37
+11233,"Bedford-Stuyvesant, Ocean Hill",11232,"Sunset Park, Industry City",driving,7.1,36
+11233,"Bedford-Stuyvesant, Ocean Hill",11232,"Sunset Park, Industry City",bicycling,6.8,39
+11233,"Bedford-Stuyvesant, Ocean Hill",11234,"Marine Park, Mill Basin",driving,7.7,27
+11233,"Bedford-Stuyvesant, Ocean Hill",11234,"Marine Park, Mill Basin",bicycling,9.3,49
+11233,"Bedford-Stuyvesant, Ocean Hill",11235,"Brighton Beach, Manhattan Beach",driving,10.3,32
+11233,"Bedford-Stuyvesant, Ocean Hill",11235,"Brighton Beach, Manhattan Beach",bicycling,9.3,55
+11233,"Bedford-Stuyvesant, Ocean Hill",11236,"Canarsie, Bergen Beach",driving,4.6,24
+11233,"Bedford-Stuyvesant, Ocean Hill",11236,"Canarsie, Bergen Beach",bicycling,4.7,26
+11233,"Bedford-Stuyvesant, Ocean Hill",11238,"Prospect Heights, Clinton Hill",driving,2.9,16
+11233,"Bedford-Stuyvesant, Ocean Hill",11238,"Prospect Heights, Clinton Hill",bicycling,3.4,20
+11233,"Bedford-Stuyvesant, Ocean Hill",11239,Starrett City,driving,4.2,22
+11233,"Bedford-Stuyvesant, Ocean Hill",11239,Starrett City,bicycling,4.4,25
+11234,"Marine Park, Mill Basin",11201,"Brooklyn Heights, DUMBO",driving,20.5,35
+11234,"Marine Park, Mill Basin",11201,"Brooklyn Heights, DUMBO",bicycling,9.9,59
+11234,"Marine Park, Mill Basin",11203,"East Flatbush, Erasmus",driving,4.4,21
+11234,"Marine Park, Mill Basin",11203,"East Flatbush, Erasmus",bicycling,4.7,26
+11234,"Marine Park, Mill Basin",11204,"Bensonhurst, Mapleton",driving,8.7,21
+11234,"Marine Park, Mill Basin",11204,"Bensonhurst, Mapleton",bicycling,5.5,32
+11234,"Marine Park, Mill Basin",11205,"Fort Greene, Clinton Hill",driving,7.7,37
+11234,"Marine Park, Mill Basin",11205,"Fort Greene, Clinton Hill",bicycling,8.4,51
+11234,"Marine Park, Mill Basin",11206,"Williamsburg, Bushwick",driving,10.8,42
+11234,"Marine Park, Mill Basin",11206,"Williamsburg, Bushwick",bicycling,9.8,57
+11234,"Marine Park, Mill Basin",11207,"East New York, Cypress Hills",driving,6.8,17
+11234,"Marine Park, Mill Basin",11207,"East New York, Cypress Hills",bicycling,7.1,38
+11234,"Marine Park, Mill Basin",11208,"Cypress Hills, East New York",driving,7.7,18
+11234,"Marine Park, Mill Basin",11208,"Cypress Hills, East New York",bicycling,8.3,42
+11234,"Marine Park, Mill Basin",11209,Bay Ridge,driving,9.7,18
+11234,"Marine Park, Mill Basin",11209,Bay Ridge,bicycling,8.8,53
+11234,"Marine Park, Mill Basin",11210,"Flatbush, Midwood",driving,3.2,13
+11234,"Marine Park, Mill Basin",11210,"Flatbush, Midwood",bicycling,3.4,20
+11234,"Marine Park, Mill Basin",11211,Williamsburg,driving,19.4,34
+11234,"Marine Park, Mill Basin",11211,Williamsburg,bicycling,9.5,59
+11234,"Marine Park, Mill Basin",11212,Brownsville,driving,5.4,24
+11234,"Marine Park, Mill Basin",11212,Brownsville,bicycling,6.0,33
+11234,"Marine Park, Mill Basin",11213,Crown Heights,driving,6.6,32
+11234,"Marine Park, Mill Basin",11213,Crown Heights,bicycling,7.2,41
+11234,"Marine Park, Mill Basin",11214,"Bensonhurst, Bath Beach",driving,7.4,15
+11234,"Marine Park, Mill Basin",11214,"Bensonhurst, Bath Beach",bicycling,5.7,33
+11234,"Marine Park, Mill Basin",11215,"Park Slope, Gowanus",driving,16.4,28
+11234,"Marine Park, Mill Basin",11215,"Park Slope, Gowanus",bicycling,8.2,48
+11234,"Marine Park, Mill Basin",11216,"Bedford-Stuyvesant, Crown Heights",driving,7.2,36
+11234,"Marine Park, Mill Basin",11216,"Bedford-Stuyvesant, Crown Heights",bicycling,7.6,48
+11234,"Marine Park, Mill Basin",11217,"Park Slope, Boerum Hill",driving,15.6,33
+11234,"Marine Park, Mill Basin",11217,"Park Slope, Boerum Hill",bicycling,8.4,50
+11234,"Marine Park, Mill Basin",11218,"Windsor Terrace, Kensington",driving,15.6,23
+11234,"Marine Park, Mill Basin",11218,"Windsor Terrace, Kensington",bicycling,6.8,40
+11234,"Marine Park, Mill Basin",11219,Borough Park,driving,10.1,25
+11234,"Marine Park, Mill Basin",11219,Borough Park,bicycling,6.3,38
+11234,"Marine Park, Mill Basin",11220,"Sunset Park, Greenwood",driving,12.4,20
+11234,"Marine Park, Mill Basin",11220,"Sunset Park, Greenwood",bicycling,7.6,46
+11234,"Marine Park, Mill Basin",11221,"Bedford-Stuyvesant, Bushwick",driving,9.5,34
+11234,"Marine Park, Mill Basin",11221,"Bedford-Stuyvesant, Bushwick",bicycling,8.0,47
+11234,"Marine Park, Mill Basin",11222,Greenpoint,driving,21.3,41
+11234,"Marine Park, Mill Basin",11222,Greenpoint,bicycling,11.5,66
+11234,"Marine Park, Mill Basin",11223,"Gravesend, Homecrest",driving,6.3,15
+11234,"Marine Park, Mill Basin",11223,"Gravesend, Homecrest",bicycling,4.5,25
+11234,"Marine Park, Mill Basin",11224,Coney Island,driving,6.4,13
+11234,"Marine Park, Mill Basin",11224,Coney Island,bicycling,5.9,35
+11234,"Marine Park, Mill Basin",11225,"Prospect Lefferts Gardens, Wingate",driving,5.8,27
+11234,"Marine Park, Mill Basin",11225,"Prospect Lefferts Gardens, Wingate",bicycling,6.3,38
+11234,"Marine Park, Mill Basin",11226,Flatbush,driving,4.5,20
+11234,"Marine Park, Mill Basin",11226,Flatbush,bicycling,5.5,30
+11234,"Marine Park, Mill Basin",11228,Dyker Heights,driving,8.7,15
+11234,"Marine Park, Mill Basin",11228,Dyker Heights,bicycling,8.9,50
+11234,"Marine Park, Mill Basin",11229,"Sheepshead Bay, Madison",driving,2.7,11
+11234,"Marine Park, Mill Basin",11229,"Sheepshead Bay, Madison",bicycling,2.7,14
+11234,"Marine Park, Mill Basin",11230,Midwood,driving,7.0,19
+11234,"Marine Park, Mill Basin",11230,Midwood,bicycling,4.2,24
+11234,"Marine Park, Mill Basin",11231,"Carroll Gardens, Red Hook",driving,15.8,25
+11234,"Marine Park, Mill Basin",11231,"Carroll Gardens, Red Hook",bicycling,9.9,57
+11234,"Marine Park, Mill Basin",11232,"Sunset Park, Industry City",driving,13.5,22
+11234,"Marine Park, Mill Basin",11232,"Sunset Park, Industry City",bicycling,8.4,50
+11234,"Marine Park, Mill Basin",11233,"Bedford-Stuyvesant, Ocean Hill",driving,9.0,29
+11234,"Marine Park, Mill Basin",11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,7.3,41
+11234,"Marine Park, Mill Basin",11235,"Brighton Beach, Manhattan Beach",driving,3.1,6
+11234,"Marine Park, Mill Basin",11235,"Brighton Beach, Manhattan Beach",bicycling,3.4,20
+11234,"Marine Park, Mill Basin",11236,"Canarsie, Bergen Beach",driving,4.7,9
+11234,"Marine Park, Mill Basin",11236,"Canarsie, Bergen Beach",bicycling,4.9,26
+11234,"Marine Park, Mill Basin",11238,"Prospect Heights, Clinton Hill",driving,7.2,35
+11234,"Marine Park, Mill Basin",11238,"Prospect Heights, Clinton Hill",bicycling,7.8,47
+11234,"Marine Park, Mill Basin",11239,Starrett City,driving,6.3,10
+11234,"Marine Park, Mill Basin",11239,Starrett City,bicycling,6.5,33
+11235,"Brighton Beach, Manhattan Beach",11201,"Brooklyn Heights, DUMBO",driving,18.7,35
+11235,"Brighton Beach, Manhattan Beach",11201,"Brooklyn Heights, DUMBO",bicycling,9.3,56
+11235,"Brighton Beach, Manhattan Beach",11203,"East Flatbush, Erasmus",driving,5.1,26
+11235,"Brighton Beach, Manhattan Beach",11203,"East Flatbush, Erasmus",bicycling,5.8,35
+11235,"Brighton Beach, Manhattan Beach",11204,"Bensonhurst, Mapleton",driving,6.9,21
+11235,"Brighton Beach, Manhattan Beach",11204,"Bensonhurst, Mapleton",bicycling,4.5,28
+11235,"Brighton Beach, Manhattan Beach",11205,"Fort Greene, Clinton Hill",driving,7.8,39
+11235,"Brighton Beach, Manhattan Beach",11205,"Fort Greene, Clinton Hill",bicycling,7.8,48
+11235,"Brighton Beach, Manhattan Beach",11206,"Williamsburg, Bushwick",driving,19.1,43
+11235,"Brighton Beach, Manhattan Beach",11206,"Williamsburg, Bushwick",bicycling,9.2,56
+11235,"Brighton Beach, Manhattan Beach",11207,"East New York, Cypress Hills",driving,8.5,22
+11235,"Brighton Beach, Manhattan Beach",11207,"East New York, Cypress Hills",bicycling,8.9,47
+11235,"Brighton Beach, Manhattan Beach",11208,"Cypress Hills, East New York",driving,9.4,22
+11235,"Brighton Beach, Manhattan Beach",11208,"Cypress Hills, East New York",bicycling,10.0,51
+11235,"Brighton Beach, Manhattan Beach",11209,Bay Ridge,driving,7.9,18
+11235,"Brighton Beach, Manhattan Beach",11209,Bay Ridge,bicycling,7.0,43
+11235,"Brighton Beach, Manhattan Beach",11210,"Flatbush, Midwood",driving,3.3,16
+11235,"Brighton Beach, Manhattan Beach",11210,"Flatbush, Midwood",bicycling,3.5,21
+11235,"Brighton Beach, Manhattan Beach",11211,Williamsburg,driving,17.6,34
+11235,"Brighton Beach, Manhattan Beach",11211,Williamsburg,bicycling,8.9,55
+11235,"Brighton Beach, Manhattan Beach",11212,Brownsville,driving,8.8,28
+11235,"Brighton Beach, Manhattan Beach",11212,Brownsville,bicycling,9.3,50
+11235,"Brighton Beach, Manhattan Beach",11213,Crown Heights,driving,7.1,36
+11235,"Brighton Beach, Manhattan Beach",11213,Crown Heights,bicycling,7.1,44
+11235,"Brighton Beach, Manhattan Beach",11214,"Bensonhurst, Bath Beach",driving,5.6,15
+11235,"Brighton Beach, Manhattan Beach",11214,"Bensonhurst, Bath Beach",bicycling,3.9,23
+11235,"Brighton Beach, Manhattan Beach",11215,"Park Slope, Gowanus",driving,14.6,28
+11235,"Brighton Beach, Manhattan Beach",11215,"Park Slope, Gowanus",bicycling,7.7,46
+11235,"Brighton Beach, Manhattan Beach",11216,"Bedford-Stuyvesant, Crown Heights",driving,7.3,38
+11235,"Brighton Beach, Manhattan Beach",11216,"Bedford-Stuyvesant, Crown Heights",bicycling,7.0,45
+11235,"Brighton Beach, Manhattan Beach",11217,"Park Slope, Boerum Hill",driving,13.8,33
+11235,"Brighton Beach, Manhattan Beach",11217,"Park Slope, Boerum Hill",bicycling,7.8,46
+11235,"Brighton Beach, Manhattan Beach",11218,"Windsor Terrace, Kensington",driving,13.8,23
+11235,"Brighton Beach, Manhattan Beach",11218,"Windsor Terrace, Kensington",bicycling,6.1,37
+11235,"Brighton Beach, Manhattan Beach",11219,Borough Park,driving,8.3,25
+11235,"Brighton Beach, Manhattan Beach",11219,Borough Park,bicycling,5.6,35
+11235,"Brighton Beach, Manhattan Beach",11220,"Sunset Park, Greenwood",driving,10.6,20
+11235,"Brighton Beach, Manhattan Beach",11220,"Sunset Park, Greenwood",bicycling,6.6,42
+11235,"Brighton Beach, Manhattan Beach",11221,"Bedford-Stuyvesant, Bushwick",driving,11.1,38
+11235,"Brighton Beach, Manhattan Beach",11221,"Bedford-Stuyvesant, Bushwick",bicycling,8.7,53
+11235,"Brighton Beach, Manhattan Beach",11222,Greenpoint,driving,19.5,41
+11235,"Brighton Beach, Manhattan Beach",11222,Greenpoint,bicycling,10.7,65
+11235,"Brighton Beach, Manhattan Beach",11223,"Gravesend, Homecrest",driving,4.5,15
+11235,"Brighton Beach, Manhattan Beach",11223,"Gravesend, Homecrest",bicycling,3.1,18
+11235,"Brighton Beach, Manhattan Beach",11224,Coney Island,driving,4.6,13
+11235,"Brighton Beach, Manhattan Beach",11224,Coney Island,bicycling,3.0,18
+11235,"Brighton Beach, Manhattan Beach",11225,"Prospect Lefferts Gardens, Wingate",driving,5.9,29
+11235,"Brighton Beach, Manhattan Beach",11225,"Prospect Lefferts Gardens, Wingate",bicycling,5.6,35
+11235,"Brighton Beach, Manhattan Beach",11226,Flatbush,driving,4.5,22
+11235,"Brighton Beach, Manhattan Beach",11226,Flatbush,bicycling,4.4,28
+11235,"Brighton Beach, Manhattan Beach",11228,Dyker Heights,driving,6.9,15
+11235,"Brighton Beach, Manhattan Beach",11228,Dyker Heights,bicycling,7.1,40
+11235,"Brighton Beach, Manhattan Beach",11229,"Sheepshead Bay, Madison",driving,1.0,4
+11235,"Brighton Beach, Manhattan Beach",11229,"Sheepshead Bay, Madison",bicycling,1.0,6
+11235,"Brighton Beach, Manhattan Beach",11230,Midwood,driving,3.3,18
+11235,"Brighton Beach, Manhattan Beach",11230,Midwood,bicycling,3.3,20
+11235,"Brighton Beach, Manhattan Beach",11231,"Carroll Gardens, Red Hook",driving,14.0,25
+11235,"Brighton Beach, Manhattan Beach",11231,"Carroll Gardens, Red Hook",bicycling,9.4,55
+11235,"Brighton Beach, Manhattan Beach",11232,"Sunset Park, Industry City",driving,11.7,22
+11235,"Brighton Beach, Manhattan Beach",11232,"Sunset Park, Industry City",bicycling,7.7,47
+11235,"Brighton Beach, Manhattan Beach",11233,"Bedford-Stuyvesant, Ocean Hill",driving,10.7,34
+11235,"Brighton Beach, Manhattan Beach",11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,8.6,51
+11235,"Brighton Beach, Manhattan Beach",11234,"Marine Park, Mill Basin",driving,8.2,14
+11235,"Brighton Beach, Manhattan Beach",11234,"Marine Park, Mill Basin",bicycling,3.3,18
+11235,"Brighton Beach, Manhattan Beach",11236,"Canarsie, Bergen Beach",driving,6.4,13
+11235,"Brighton Beach, Manhattan Beach",11236,"Canarsie, Bergen Beach",bicycling,6.6,36
+11235,"Brighton Beach, Manhattan Beach",11238,"Prospect Heights, Clinton Hill",driving,7.2,37
+11235,"Brighton Beach, Manhattan Beach",11238,"Prospect Heights, Clinton Hill",bicycling,7.2,43
+11235,"Brighton Beach, Manhattan Beach",11239,Starrett City,driving,7.9,15
+11235,"Brighton Beach, Manhattan Beach",11239,Starrett City,bicycling,8.2,43
+11236,"Canarsie, Bergen Beach",11201,"Brooklyn Heights, DUMBO",driving,23.5,41
+11236,"Canarsie, Bergen Beach",11201,"Brooklyn Heights, DUMBO",bicycling,7.8,47
+11236,"Canarsie, Bergen Beach",11203,"East Flatbush, Erasmus",driving,2.7,17
+11236,"Canarsie, Bergen Beach",11203,"East Flatbush, Erasmus",bicycling,2.7,16
+11236,"Canarsie, Bergen Beach",11204,"Bensonhurst, Mapleton",driving,11.7,27
+11236,"Canarsie, Bergen Beach",11204,"Bensonhurst, Mapleton",bicycling,6.1,36
+11236,"Canarsie, Bergen Beach",11205,"Fort Greene, Clinton Hill",driving,6.2,31
+11236,"Canarsie, Bergen Beach",11205,"Fort Greene, Clinton Hill",bicycling,6.3,39
+11236,"Canarsie, Bergen Beach",11206,"Williamsburg, Bushwick",driving,6.2,35
+11236,"Canarsie, Bergen Beach",11206,"Williamsburg, Bushwick",bicycling,6.5,40
+11236,"Canarsie, Bergen Beach",11207,"East New York, Cypress Hills",driving,2.5,13
+11236,"Canarsie, Bergen Beach",11207,"East New York, Cypress Hills",bicycling,2.4,13
+11236,"Canarsie, Bergen Beach",11208,"Cypress Hills, East New York",driving,3.8,19
+11236,"Canarsie, Bergen Beach",11208,"Cypress Hills, East New York",bicycling,3.9,20
+11236,"Canarsie, Bergen Beach",11209,Bay Ridge,driving,12.7,24
+11236,"Canarsie, Bergen Beach",11209,Bay Ridge,bicycling,11.4,66
+11236,"Canarsie, Bergen Beach",11210,"Flatbush, Midwood",driving,3.2,17
+11236,"Canarsie, Bergen Beach",11210,"Flatbush, Midwood",bicycling,3.6,20
+11236,"Canarsie, Bergen Beach",11211,Williamsburg,driving,7.6,37
+11236,"Canarsie, Bergen Beach",11211,Williamsburg,bicycling,7.1,44
+11236,"Canarsie, Bergen Beach",11212,Brownsville,driving,2.4,14
+11236,"Canarsie, Bergen Beach",11212,Brownsville,bicycling,2.4,14
+11236,"Canarsie, Bergen Beach",11213,Crown Heights,driving,4.4,22
+11236,"Canarsie, Bergen Beach",11213,Crown Heights,bicycling,3.9,24
+11236,"Canarsie, Bergen Beach",11214,"Bensonhurst, Bath Beach",driving,10.3,21
+11236,"Canarsie, Bergen Beach",11214,"Bensonhurst, Bath Beach",bicycling,7.3,42
+11236,"Canarsie, Bergen Beach",11215,"Park Slope, Gowanus",driving,6.6,33
+11236,"Canarsie, Bergen Beach",11215,"Park Slope, Gowanus",bicycling,6.5,39
+11236,"Canarsie, Bergen Beach",11216,"Bedford-Stuyvesant, Crown Heights",driving,5.1,27
+11236,"Canarsie, Bergen Beach",11216,"Bedford-Stuyvesant, Crown Heights",bicycling,5.1,31
+11236,"Canarsie, Bergen Beach",11217,"Park Slope, Boerum Hill",driving,6.4,33
+11236,"Canarsie, Bergen Beach",11217,"Park Slope, Boerum Hill",bicycling,6.4,39
+11236,"Canarsie, Bergen Beach",11218,"Windsor Terrace, Kensington",driving,18.6,29
+11236,"Canarsie, Bergen Beach",11218,"Windsor Terrace, Kensington",bicycling,6.5,38
+11236,"Canarsie, Bergen Beach",11219,Borough Park,driving,13.0,31
+11236,"Canarsie, Bergen Beach",11219,Borough Park,bicycling,6.8,40
+11236,"Canarsie, Bergen Beach",11220,"Sunset Park, Greenwood",driving,15.3,26
+11236,"Canarsie, Bergen Beach",11220,"Sunset Park, Greenwood",bicycling,9.3,55
+11236,"Canarsie, Bergen Beach",11221,"Bedford-Stuyvesant, Bushwick",driving,4.5,27
+11236,"Canarsie, Bergen Beach",11221,"Bedford-Stuyvesant, Bushwick",bicycling,4.4,28
+11236,"Canarsie, Bergen Beach",11222,Greenpoint,driving,9.5,44
+11236,"Canarsie, Bergen Beach",11222,Greenpoint,bicycling,8.2,49
+11236,"Canarsie, Bergen Beach",11223,"Gravesend, Homecrest",driving,9.3,21
+11236,"Canarsie, Bergen Beach",11223,"Gravesend, Homecrest",bicycling,7.3,41
+11236,"Canarsie, Bergen Beach",11224,Coney Island,driving,9.4,19
+11236,"Canarsie, Bergen Beach",11224,Coney Island,bicycling,9.4,51
+11236,"Canarsie, Bergen Beach",11225,"Prospect Lefferts Gardens, Wingate",driving,4.6,26
+11236,"Canarsie, Bergen Beach",11225,"Prospect Lefferts Gardens, Wingate",bicycling,4.6,27
+11236,"Canarsie, Bergen Beach",11226,Flatbush,driving,3.9,21
+11236,"Canarsie, Bergen Beach",11226,Flatbush,bicycling,3.9,23
+11236,"Canarsie, Bergen Beach",11228,Dyker Heights,driving,11.7,22
+11236,"Canarsie, Bergen Beach",11228,Dyker Heights,bicycling,9.0,54
+11236,"Canarsie, Bergen Beach",11229,"Sheepshead Bay, Madison",driving,7.1,17
+11236,"Canarsie, Bergen Beach",11229,"Sheepshead Bay, Madison",bicycling,5.3,30
+11236,"Canarsie, Bergen Beach",11230,Midwood,driving,4.7,26
+11236,"Canarsie, Bergen Beach",11230,Midwood,bicycling,5.4,31
+11236,"Canarsie, Bergen Beach",11231,"Carroll Gardens, Red Hook",driving,18.8,31
+11236,"Canarsie, Bergen Beach",11231,"Carroll Gardens, Red Hook",bicycling,8.2,49
+11236,"Canarsie, Bergen Beach",11232,"Sunset Park, Industry City",driving,16.5,28
+11236,"Canarsie, Bergen Beach",11232,"Sunset Park, Industry City",bicycling,8.6,51
+11236,"Canarsie, Bergen Beach",11233,"Bedford-Stuyvesant, Ocean Hill",driving,3.7,22
+11236,"Canarsie, Bergen Beach",11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,4.0,24
+11236,"Canarsie, Bergen Beach",11234,"Marine Park, Mill Basin",driving,3.4,8
+11236,"Canarsie, Bergen Beach",11234,"Marine Park, Mill Basin",bicycling,4.8,24
+11236,"Canarsie, Bergen Beach",11235,"Brighton Beach, Manhattan Beach",driving,6.1,13
+11236,"Canarsie, Bergen Beach",11235,"Brighton Beach, Manhattan Beach",bicycling,6.9,36
+11236,"Canarsie, Bergen Beach",11238,"Prospect Heights, Clinton Hill",driving,5.7,29
+11236,"Canarsie, Bergen Beach",11238,"Prospect Heights, Clinton Hill",bicycling,5.7,34
+11236,"Canarsie, Bergen Beach",11239,Starrett City,driving,2.4,11
+11236,"Canarsie, Bergen Beach",11239,Starrett City,bicycling,2.4,13
+11238,"Prospect Heights, Clinton Hill",11201,"Brooklyn Heights, DUMBO",driving,5.1,23
+11238,"Prospect Heights, Clinton Hill",11201,"Brooklyn Heights, DUMBO",bicycling,2.7,17
+11238,"Prospect Heights, Clinton Hill",11203,"East Flatbush, Erasmus",driving,3.5,18
+11238,"Prospect Heights, Clinton Hill",11203,"East Flatbush, Erasmus",bicycling,3.4,19
+11238,"Prospect Heights, Clinton Hill",11204,"Bensonhurst, Mapleton",driving,5.8,29
+11238,"Prospect Heights, Clinton Hill",11204,"Bensonhurst, Mapleton",bicycling,6.0,33
+11238,"Prospect Heights, Clinton Hill",11205,"Fort Greene, Clinton Hill",driving,1.6,8
+11238,"Prospect Heights, Clinton Hill",11205,"Fort Greene, Clinton Hill",bicycling,1.5,9
+11238,"Prospect Heights, Clinton Hill",11206,"Williamsburg, Bushwick",driving,3.0,17
+11238,"Prospect Heights, Clinton Hill",11206,"Williamsburg, Bushwick",bicycling,2.9,18
+11238,"Prospect Heights, Clinton Hill",11207,"East New York, Cypress Hills",driving,4.4,21
+11238,"Prospect Heights, Clinton Hill",11207,"East New York, Cypress Hills",bicycling,4.9,26
+11238,"Prospect Heights, Clinton Hill",11208,"Cypress Hills, East New York",driving,5.1,25
+11238,"Prospect Heights, Clinton Hill",11208,"Cypress Hills, East New York",bicycling,5.5,30
+11238,"Prospect Heights, Clinton Hill",11209,Bay Ridge,driving,7.3,29
+11238,"Prospect Heights, Clinton Hill",11209,Bay Ridge,bicycling,6.8,37
+11238,"Prospect Heights, Clinton Hill",11210,"Flatbush, Midwood",driving,4.3,26
+11238,"Prospect Heights, Clinton Hill",11210,"Flatbush, Midwood",bicycling,4.9,28
+11238,"Prospect Heights, Clinton Hill",11211,Williamsburg,driving,2.4,13
+11238,"Prospect Heights, Clinton Hill",11211,Williamsburg,bicycling,2.6,17
+11238,"Prospect Heights, Clinton Hill",11212,Brownsville,driving,3.3,18
+11238,"Prospect Heights, Clinton Hill",11212,Brownsville,bicycling,3.5,19
+11238,"Prospect Heights, Clinton Hill",11213,Crown Heights,driving,1.7,7
+11238,"Prospect Heights, Clinton Hill",11213,Crown Heights,bicycling,1.7,9
+11238,"Prospect Heights, Clinton Hill",11214,"Bensonhurst, Bath Beach",driving,8.3,34
+11238,"Prospect Heights, Clinton Hill",11214,"Bensonhurst, Bath Beach",bicycling,7.0,38
+11238,"Prospect Heights, Clinton Hill",11215,"Park Slope, Gowanus",driving,2.0,13
+11238,"Prospect Heights, Clinton Hill",11215,"Park Slope, Gowanus",bicycling,1.8,12
+11238,"Prospect Heights, Clinton Hill",11216,"Bedford-Stuyvesant, Crown Heights",driving,1.1,7
+11238,"Prospect Heights, Clinton Hill",11216,"Bedford-Stuyvesant, Crown Heights",bicycling,0.8,7
+11238,"Prospect Heights, Clinton Hill",11217,"Park Slope, Boerum Hill",driving,1.3,9
+11238,"Prospect Heights, Clinton Hill",11217,"Park Slope, Boerum Hill",bicycling,1.3,8
+11238,"Prospect Heights, Clinton Hill",11218,"Windsor Terrace, Kensington",driving,3.1,17
+11238,"Prospect Heights, Clinton Hill",11218,"Windsor Terrace, Kensington",bicycling,3.5,19
+11238,"Prospect Heights, Clinton Hill",11219,Borough Park,driving,4.7,28
+11238,"Prospect Heights, Clinton Hill",11219,Borough Park,bicycling,5.1,28
+11238,"Prospect Heights, Clinton Hill",11220,"Sunset Park, Greenwood",driving,5.8,25
+11238,"Prospect Heights, Clinton Hill",11220,"Sunset Park, Greenwood",bicycling,4.7,26
+11238,"Prospect Heights, Clinton Hill",11221,"Bedford-Stuyvesant, Bushwick",driving,2.9,17
+11238,"Prospect Heights, Clinton Hill",11221,"Bedford-Stuyvesant, Bushwick",bicycling,2.4,15
+11238,"Prospect Heights, Clinton Hill",11222,Greenpoint,driving,4.2,20
+11238,"Prospect Heights, Clinton Hill",11222,Greenpoint,bicycling,4.3,25
+11238,"Prospect Heights, Clinton Hill",11223,"Gravesend, Homecrest",driving,7.0,35
+11238,"Prospect Heights, Clinton Hill",11223,"Gravesend, Homecrest",bicycling,7.5,41
+11238,"Prospect Heights, Clinton Hill",11224,Coney Island,driving,12.0,34
+11238,"Prospect Heights, Clinton Hill",11224,Coney Island,bicycling,9.4,53
+11238,"Prospect Heights, Clinton Hill",11225,"Prospect Lefferts Gardens, Wingate",driving,1.6,11
+11238,"Prospect Heights, Clinton Hill",11225,"Prospect Lefferts Gardens, Wingate",bicycling,1.6,9
+11238,"Prospect Heights, Clinton Hill",11226,Flatbush,driving,3.1,18
+11238,"Prospect Heights, Clinton Hill",11226,Flatbush,bicycling,3.0,16
+11238,"Prospect Heights, Clinton Hill",11228,Dyker Heights,driving,7.2,27
+11238,"Prospect Heights, Clinton Hill",11228,Dyker Heights,bicycling,7.3,40
+11238,"Prospect Heights, Clinton Hill",11229,"Sheepshead Bay, Madison",driving,6.4,33
+11238,"Prospect Heights, Clinton Hill",11229,"Sheepshead Bay, Madison",bicycling,6.4,37
+11238,"Prospect Heights, Clinton Hill",11230,Midwood,driving,5.1,28
+11238,"Prospect Heights, Clinton Hill",11230,Midwood,bicycling,5.9,32
+11238,"Prospect Heights, Clinton Hill",11231,"Carroll Gardens, Red Hook",driving,3.7,22
+11238,"Prospect Heights, Clinton Hill",11231,"Carroll Gardens, Red Hook",bicycling,3.6,20
+11238,"Prospect Heights, Clinton Hill",11232,"Sunset Park, Industry City",driving,3.7,22
+11238,"Prospect Heights, Clinton Hill",11232,"Sunset Park, Industry City",bicycling,3.9,22
+11238,"Prospect Heights, Clinton Hill",11233,"Bedford-Stuyvesant, Ocean Hill",driving,2.4,13
+11238,"Prospect Heights, Clinton Hill",11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,2.7,15
+11238,"Prospect Heights, Clinton Hill",11234,"Marine Park, Mill Basin",driving,9.6,34
+11238,"Prospect Heights, Clinton Hill",11234,"Marine Park, Mill Basin",bicycling,9.9,52
+11238,"Prospect Heights, Clinton Hill",11235,"Brighton Beach, Manhattan Beach",driving,7.3,37
+11238,"Prospect Heights, Clinton Hill",11235,"Brighton Beach, Manhattan Beach",bicycling,7.3,42
+11238,"Prospect Heights, Clinton Hill",11236,"Canarsie, Bergen Beach",driving,5.9,29
+11238,"Prospect Heights, Clinton Hill",11236,"Canarsie, Bergen Beach",bicycling,5.9,33
+11238,"Prospect Heights, Clinton Hill",11239,Starrett City,driving,6.1,30
+11238,"Prospect Heights, Clinton Hill",11239,Starrett City,bicycling,6.6,36
+11239,Starrett City,11201,"Brooklyn Heights, DUMBO",driving,25.0,42
+11239,Starrett City,11201,"Brooklyn Heights, DUMBO",bicycling,8.8,52
+11239,Starrett City,11203,"East Flatbush, Erasmus",driving,3.9,22
+11239,Starrett City,11203,"East Flatbush, Erasmus",bicycling,4.1,23
+11239,Starrett City,11204,"Bensonhurst, Mapleton",driving,13.2,28
+11239,Starrett City,11204,"Bensonhurst, Mapleton",bicycling,9.3,51
+11239,Starrett City,11205,"Fort Greene, Clinton Hill",driving,6.8,35
+11239,Starrett City,11205,"Fort Greene, Clinton Hill",bicycling,6.9,41
+11239,Starrett City,11206,"Williamsburg, Bushwick",driving,6.0,35
+11239,Starrett City,11206,"Williamsburg, Bushwick",bicycling,6.3,38
+11239,Starrett City,11207,"East New York, Cypress Hills",driving,1.8,9
+11239,Starrett City,11207,"East New York, Cypress Hills",bicycling,1.8,10
+11239,Starrett City,11208,"Cypress Hills, East New York",driving,2.1,12
+11239,Starrett City,11208,"Cypress Hills, East New York",bicycling,2.1,12
+11239,Starrett City,11209,Bay Ridge,driving,14.2,25
+11239,Starrett City,11209,Bay Ridge,bicycling,12.4,71
+11239,Starrett City,11210,"Flatbush, Midwood",driving,8.1,21
+11239,Starrett City,11210,"Flatbush, Midwood",bicycling,6.5,34
+11239,Starrett City,11211,Williamsburg,driving,8.2,41
+11239,Starrett City,11211,Williamsburg,bicycling,7.5,45
+11239,Starrett City,11212,Brownsville,driving,3.4,18
+11239,Starrett City,11212,Brownsville,bicycling,3.5,18
+11239,Starrett City,11213,Crown Heights,driving,5.3,27
+11239,Starrett City,11213,Crown Heights,bicycling,5.1,29
+11239,Starrett City,11214,"Bensonhurst, Bath Beach",driving,11.9,21
+11239,Starrett City,11214,"Bensonhurst, Bath Beach",bicycling,11.9,63
+11239,Starrett City,11215,"Park Slope, Gowanus",driving,20.9,34
+11239,Starrett City,11215,"Park Slope, Gowanus",bicycling,7.5,44
+11239,Starrett City,11216,"Bedford-Stuyvesant, Crown Heights",driving,5.7,29
+11239,Starrett City,11216,"Bedford-Stuyvesant, Crown Heights",bicycling,5.9,35
+11239,Starrett City,11217,"Park Slope, Boerum Hill",driving,7.3,38
+11239,Starrett City,11217,"Park Slope, Boerum Hill",bicycling,7.4,43
+11239,Starrett City,11218,"Windsor Terrace, Kensington",driving,20.1,29
+11239,Starrett City,11218,"Windsor Terrace, Kensington",bicycling,7.7,44
+11239,Starrett City,11219,Borough Park,driving,14.6,31
+11239,Starrett City,11219,Borough Park,bicycling,9.2,53
+11239,Starrett City,11220,"Sunset Park, Greenwood",driving,16.9,26
+11239,Starrett City,11220,"Sunset Park, Greenwood",bicycling,10.3,59
+11239,Starrett City,11221,"Bedford-Stuyvesant, Bushwick",driving,4.7,27
+11239,Starrett City,11221,"Bedford-Stuyvesant, Bushwick",bicycling,4.6,27
+11239,Starrett City,11222,Greenpoint,driving,17.6,39
+11239,Starrett City,11222,Greenpoint,bicycling,8.4,50
+11239,Starrett City,11223,"Gravesend, Homecrest",driving,10.8,22
+11239,Starrett City,11223,"Gravesend, Homecrest",bicycling,10.1,53
+11239,Starrett City,11224,Coney Island,driving,10.9,19
+11239,Starrett City,11224,Coney Island,bicycling,10.6,57
+11239,Starrett City,11225,"Prospect Lefferts Gardens, Wingate",driving,5.5,30
+11239,Starrett City,11225,"Prospect Lefferts Gardens, Wingate",bicycling,5.7,33
+11239,Starrett City,11226,Flatbush,driving,5.4,28
+11239,Starrett City,11226,Flatbush,bicycling,5.7,32
+11239,Starrett City,11228,Dyker Heights,driving,13.2,22
+11239,Starrett City,11228,Dyker Heights,bicycling,11.4,65
+11239,Starrett City,11229,"Sheepshead Bay, Madison",driving,8.6,17
+11239,Starrett City,11229,"Sheepshead Bay, Madison",bicycling,8.3,42
+11239,Starrett City,11230,Midwood,driving,11.5,25
+11239,Starrett City,11230,Midwood,bicycling,8.4,45
+11239,Starrett City,11231,"Carroll Gardens, Red Hook",driving,20.3,32
+11239,Starrett City,11231,"Carroll Gardens, Red Hook",bicycling,9.2,53
+11239,Starrett City,11232,"Sunset Park, Industry City",driving,18.0,29
+11239,Starrett City,11232,"Sunset Park, Industry City",bicycling,9.6,56
+11239,Starrett City,11233,"Bedford-Stuyvesant, Ocean Hill",driving,4.2,23
+11239,Starrett City,11233,"Bedford-Stuyvesant, Ocean Hill",bicycling,4.4,27
+11239,Starrett City,11234,"Marine Park, Mill Basin",driving,5.0,8
+11239,Starrett City,11234,"Marine Park, Mill Basin",bicycling,5.9,29
+11239,Starrett City,11235,"Brighton Beach, Manhattan Beach",driving,7.6,13
+11239,Starrett City,11235,"Brighton Beach, Manhattan Beach",bicycling,8.1,42
+11239,Starrett City,11236,"Canarsie, Bergen Beach",driving,3.1,9
+11239,Starrett City,11236,"Canarsie, Bergen Beach",bicycling,3.3,18
+11239,Starrett City,11238,"Prospect Heights, Clinton Hill",driving,6.4,33
+11239,Starrett City,11238,"Prospect Heights, Clinton Hill",bicycling,6.7,38
